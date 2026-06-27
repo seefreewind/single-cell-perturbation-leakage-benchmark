@@ -186,7 +186,7 @@ This research received no specific grant from any funding agency in the public, 
 
 ## Availability of data and materials
 
-The local benchmark resource package contains split manifests, leakage-audit tables, model-result summaries, report schemas, model feasibility reports, data manifests, source data, and configuration files. Code and benchmark resources will be deposited before submission at [GitHub URL] and archived with Zenodo at [Zenodo DOI]. No GitHub URL, commit identifier, or DOI is claimed in this draft. MSigDB Hallmark gene sets are not redistributed in this repository and should be obtained by users from MSigDB according to its terms of use.
+The local benchmark resource package contains split manifests, leakage-audit tables, model-result summaries, report schemas, model feasibility reports, data manifests, source data, and configuration files. Code and benchmark resources are available at https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark. A Zenodo archive will be created before submission and the DOI will be added after deposition. MSigDB Hallmark gene sets are not redistributed in this repository and should be obtained by users from MSigDB according to its terms of use.
 
 ## Ethics approval and consent to participate
 
