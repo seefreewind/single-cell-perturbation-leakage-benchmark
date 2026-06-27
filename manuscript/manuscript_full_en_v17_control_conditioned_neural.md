@@ -10,7 +10,7 @@ Affiliation: The Second Affiliated Hospital of Wenzhou Medical University, Wenzh
 
 ### Background
 
-Single-cell perturbation transcriptomics provides a functional-genomics readout of how cells respond to drugs, genetic state, and cellular context [1-7]. These data are increasingly used to benchmark response-prediction models, but standard random validation can leave the same drugs, related chemical scaffolds, mechanisms of action, or cellular contexts in both training and test records. Such overlap can turn an intended extrapolation benchmark into local interpolation and can distort model selection.
+Single-cell perturbation transcriptomics provides a functional-genomics readout of how cells respond to drugs, genetic state, and cellular context. These data are increasingly used to benchmark response-prediction models, but standard random validation can leave the same drugs, related chemical scaffolds, mechanisms of action, or cellular contexts in both training and test records. Such overlap can turn an intended extrapolation benchmark into local interpolation and can distort model selection.
 
 ### Methods
 
@@ -186,7 +186,7 @@ This research received no specific grant from any funding agency in the public, 
 
 ## Availability of data and materials
 
-The local benchmark resource package contains split manifests, leakage-audit tables, model-result summaries, report schemas, model feasibility reports, data manifests, source data, and configuration files. Code and benchmark resources are available at https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark. A Zenodo archive will be created before submission and the DOI will be added after deposition. MSigDB Hallmark gene sets are not redistributed in this repository and should be obtained by users from MSigDB according to its terms of use.
+The local benchmark resource package contains split manifests, leakage-audit tables, model-result summaries, report schemas, model feasibility reports, data manifests, source data, and configuration files. Code and benchmark resources are available at https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark and archived at Zenodo, https://doi.org/10.5281/zenodo.20961313. MSigDB Hallmark gene sets are not redistributed in this repository and should be obtained by users from MSigDB according to its terms of use.
 
 ## Ethics approval and consent to participate
 

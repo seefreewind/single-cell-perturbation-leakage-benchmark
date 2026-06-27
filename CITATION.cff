@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Leakage-aware single-cell chemical perturbation benchmark"
-message: "Please cite the manuscript and archived release once a DOI is available."
+message: "Please cite the manuscript and archived Zenodo release."
 type: software
 authors:
   - family-names: Lin
@@ -9,6 +9,7 @@ authors:
     given-names: Yu
     email: zhangyu1@wzhealth.com
 repository-code: "https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark"
+doi: "10.5281/zenodo.20961313"
 abstract: "Code, split manifests, leakage-audit tables, model-result summaries, and manuscript source files for leakage-aware benchmarking of single-cell chemical perturbation transcriptomics."
 keywords:
   - single-cell perturbation transcriptomics

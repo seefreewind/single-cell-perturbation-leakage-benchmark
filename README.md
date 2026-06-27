@@ -72,7 +72,9 @@ The most important provenance files are:
 
 ## Citation
 
-Please cite the manuscript and archived Zenodo release once a DOI is available. Until then, cite this GitHub repository and the original data/model resources listed in the manuscript references.
+Please cite the manuscript and archived Zenodo release:
+
+https://doi.org/10.5281/zenodo.20961313
 
 ## License and data-use terms
 

@@ -28,6 +28,11 @@
       "identifier": "https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark",
       "relation": "isSupplementTo",
       "scheme": "url"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20961313",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
     }
   ],
   "access_right": "open"

@@ -36,6 +36,7 @@ Use a research-article structure:
 
 ## Citation placement
 
+- Do not place literature citations in the Abstract. Abstracts must be self-contained and citation-free unless a target journal explicitly requires a trial registration, accession, or formal identifier.
 - Use in-text references for background, rationale, prior-work comparison, interpretation, and limitations.
 - Avoid literature citations in Methods and Results unless a method, database, or software citation is required.
 
@@ -50,4 +51,3 @@ Use a research-article structure:
 - Main figures must be self-contained.
 - Figure legends should define axes, colors, thresholds, abbreviations, sample sizes, and statistical tests.
 - Tables should include effect estimates, standard errors or confidence intervals where applicable, P values, adjusted P values or FDR, and threshold notes.
-
