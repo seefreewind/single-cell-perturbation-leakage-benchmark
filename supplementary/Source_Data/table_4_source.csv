@@ -1,0 +1,6 @@
+Model,Status,Sci-Plex 3 use,Input contract,Adaptation level,Main limitation
+TranSiGen-style,Completed,Repeated-seed benchmark,"Basal, drug FP, dose, and cell-line features",Pseudobulk neural adaptation,Not a full original TranSiGen reproduction
+PRnet-style,Completed,Repeated-seed benchmark,Basal plus dose-scaled drug FP,Pseudobulk adapter using official PGM module,Not a full original PRnet reproduction
+chemCPA/CPA,Not run,Not used,Raw cells with perturbation covariates,Adapter/status row,Requires raw single-cell workflow
+scGPT frozen ridge/MLP,Not run,Not used,Frozen embeddings plus response head,Adapter/status row,Embeddings not generated
+scFoundation frozen ridge/MLP,Not run,Not used,Frozen embeddings plus response head,Adapter/status row,Embeddings not generated

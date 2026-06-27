@@ -1,0 +1,3 @@
+Dataset,Records,Drugs,Cell contexts,Scaffold annotation,Main role
+OpenProblems NeurIPS 2023,545 treated records,140,4,136 valid Bemis-Murcko scaffolds,Primary perturbation transcriptomics benchmark
+Sci-Plex 3 24 h pseudobulk,"2,200 drug-cell-line-dose records",188 mapped drugs,3 cell lines,165 valid Bemis-Murcko scaffolds,External chemical-transcriptomics validation

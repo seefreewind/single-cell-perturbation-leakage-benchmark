@@ -1,0 +1,3 @@
+dataset,model_name,contrast,mean_all_gene_pearson_difference,mean_all_gene_rmse_difference,status
+sciplex3_24h_top2000,transigen_adapted_sciplex3,random_minus_scaffold_heldout,0.021066306789583572,-0.0031363128661448803,completed
+sciplex3_24h_top2000,transigen_adapted_sciplex3,random_minus_cell_scaffold_heldout,0.21591171478515714,-0.5004455331145058,completed

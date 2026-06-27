@@ -1,0 +1,7 @@
+model_name,cell_heldout,cell_scaffold_heldout,random,scaffold_heldout
+transigen_basal_drug,4.0,2.0,1.0,4.0
+transigen_basal_drug_dose,5.0,3.0,2.0,5.0
+transigen_basal_drug_dose_cell,2.5,4.5,3.5,2.5
+transigen_basal_only,6.0,6.0,6.0,1.0
+transigen_drug_only,1.0,1.0,5.0,6.0
+transigen_full_current,2.5,4.5,3.5,2.5

@@ -1,0 +1,16 @@
+split_type,mean_pearson,model_name,model_label,split_label
+cell_scaffold_heldout,0.07553336734748886,global_mean,Global mean,Joint
+random,0.16234862651552243,global_mean,Global mean,Random
+scaffold_heldout,0.1604465745331974,global_mean,Global mean,Scaffold
+cell_scaffold_heldout,0.058222314194460355,ridge_drug_fp,Ridge drug FP,Joint
+random,0.24311705585801877,ridge_drug_fp,Ridge drug FP,Random
+scaffold_heldout,0.12635848490560092,ridge_drug_fp,Ridge drug FP,Scaffold
+cell_scaffold_heldout,0.059676572970595136,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,Joint
+random,0.2915578848941759,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,Random
+scaffold_heldout,0.1885129824204365,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,Scaffold
+cell_scaffold_heldout,0.016940423067588316,transigen_adapted_sciplex3,Control-conditioned regressor,Joint
+random,0.23285213785274544,transigen_adapted_sciplex3,Control-conditioned regressor,Random
+scaffold_heldout,0.21178583106316187,transigen_adapted_sciplex3,Control-conditioned regressor,Scaffold
+cell_scaffold_heldout,0.0006453008400636993,prnet_adapted_sciplex3,PRnet-interface adapter,Joint
+random,0.017478089076454924,prnet_adapted_sciplex3,PRnet-interface adapter,Random
+scaffold_heldout,0.015068344012598817,prnet_adapted_sciplex3,PRnet-interface adapter,Scaffold

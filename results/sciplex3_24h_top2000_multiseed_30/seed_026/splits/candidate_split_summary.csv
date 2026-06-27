@@ -1,0 +1,5 @@
+split,train_records,test_records,excluded_records
+split_random,1769,431,0
+split_cell_heldout,1456,744,0
+split_scaffold_heldout,1786,414,0
+split_cell_scaffold_heldout,1181,139,880

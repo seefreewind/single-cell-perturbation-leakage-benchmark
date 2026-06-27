@@ -1,0 +1,3 @@
+dataset,contrast,model_count,mean_spearman,sd_spearman,percent_negative,random_best_model,random_best_rank_in_joint,status
+sciplex3_24h_top2000,random_vs_scaffold_heldout,5,0.53,0.09486832980505137,0.0,seed_level_variable,,prnet_main10_seed1_10_completed
+sciplex3_24h_top2000,random_vs_joint_cell_scaffold_heldout,5,0.10999999999999996,0.5445691467165171,0.3,seed_level_variable,2.5,prnet_main10_seed1_10_completed

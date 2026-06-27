@@ -1,0 +1,1 @@
+dataset,seed,split_name,n_train,n_test,same_drug_overlap,same_scaffold_overlap,same_moa_overlap,same_cell_context_overlap,same_drug_dose_overlap,nearest_train_drug_tanimoto,model_name,mean_rowwise_pearson,mean_de_rowwise_pearson,rank_correlation_with_random

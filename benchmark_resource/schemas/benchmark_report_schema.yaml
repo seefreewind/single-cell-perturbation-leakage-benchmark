@@ -1,0 +1,21 @@
+schema_name: single_cell_drug_perturbation_leakage_audit
+version: 0.1.0
+required_fields:
+  dataset: Dataset identifier.
+  seed: Integer split seed.
+  split_name: random, cell_heldout, scaffold_heldout, cell_scaffold_heldout, or another declared split.
+  n_train: Number of training records.
+  n_test: Number of testing records.
+  same_drug_overlap: Fraction of test records with same drug in train.
+  same_scaffold_overlap: Fraction of test records with same scaffold in train.
+  same_cell_context_overlap: Fraction of test records with same cell context in train.
+  nearest_train_drug_tanimoto: Mean nearest training-drug Tanimoto similarity.
+  model_name: Model or baseline name.
+  mean_rowwise_pearson: Mean row-wise Pearson correlation.
+  mean_de_rowwise_pearson: Mean DE-gene row-wise Pearson correlation where available.
+recommended_fields:
+  same_moa_overlap: Fraction of test records with same annotated MoA in train.
+  same_drug_dose_overlap: Fraction of test drug-dose combinations observed in train.
+  random_to_strict_delta: Paired random-to-strict performance difference.
+  rank_correlation_with_random: Model-rank Spearman correlation with random split.
+  external_replication_dataset: Independent dataset used for replication.

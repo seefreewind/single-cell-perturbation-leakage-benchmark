@@ -1,0 +1,4 @@
+comparison_split,mean_spearman,sd_spearman,n_seeds
+split_cell_heldout,0.5374057545792984,0.1592630575036507,30
+split_cell_scaffold_heldout,-0.43411748210337125,0.24622244175951055,30
+split_scaffold_heldout,0.050452497910951306,0.16952027885778592,30

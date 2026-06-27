@@ -1,0 +1,19 @@
+model_name,split_type,rank,model_label,split_label
+global_mean,cell_heldout,3.0,Global mean,
+global_mean,cell_scaffold_heldout,1.4,Global mean,Joint
+global_mean,random,4.0,Global mean,Random
+global_mean,scaffold_heldout,3.0,Global mean,Scaffold
+prnet_adapted_sciplex3,cell_scaffold_heldout,3.8,PRnet adapted,Joint
+prnet_adapted_sciplex3,random,5.0,PRnet adapted,Random
+prnet_adapted_sciplex3,scaffold_heldout,5.0,PRnet adapted,Scaffold
+ridge_cell_dose_drug_fp,cell_heldout,1.8,Ridge cell+dose+drug FP,
+ridge_cell_dose_drug_fp,cell_scaffold_heldout,2.5,Ridge cell+dose+drug FP,Joint
+ridge_cell_dose_drug_fp,random,1.0,Ridge cell+dose+drug FP,Random
+ridge_cell_dose_drug_fp,scaffold_heldout,2.0,Ridge cell+dose+drug FP,Scaffold
+ridge_drug_fp,cell_heldout,1.2,Ridge drug FP,
+ridge_drug_fp,cell_scaffold_heldout,3.1,Ridge drug FP,Joint
+ridge_drug_fp,random,2.1,Ridge drug FP,Random
+ridge_drug_fp,scaffold_heldout,4.0,Ridge drug FP,Scaffold
+transigen_adapted_sciplex3,cell_scaffold_heldout,4.2,TranSiGen-style,Joint
+transigen_adapted_sciplex3,random,2.9,TranSiGen-style,Random
+transigen_adapted_sciplex3,scaffold_heldout,1.0,TranSiGen-style,Scaffold

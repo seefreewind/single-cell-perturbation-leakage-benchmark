@@ -1,0 +1,7 @@
+model_name,feature_parts,input_dim
+transigen_basal_only,basal,2000
+transigen_drug_only,drug,1024
+transigen_basal_drug,basal+drug,3024
+transigen_basal_drug_dose,basal+drug+dose,3025
+transigen_basal_drug_dose_cell,basal+drug+dose+cell,3028
+transigen_full_current,basal+drug+dose+cell,3028

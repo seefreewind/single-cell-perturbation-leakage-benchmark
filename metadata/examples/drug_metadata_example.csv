@@ -1,0 +1,6 @@
+drug_id,drug_name,smiles,inchikey,pubchem_cid,chembl_id,drugbank_id,target,moa,atc_class
+D001,Aspirin,CC(=O)Oc1ccccc1C(=O)O,,,,PTGS1;PTGS2,COX inhibitor,
+D002,Ibuprofen,CC(C)Cc1ccc(cc1)[C@@H](C)C(=O)O,,,,PTGS1;PTGS2,COX inhibitor,
+D003,Imatinib,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,,,,ABL1;KIT,kinase inhibitor,
+D004,Erlotinib,COCCOc1cc2ncnc(Nc3cccc(Cl)c3)c2cc1OCCOC,,,,EGFR,kinase inhibitor,
+

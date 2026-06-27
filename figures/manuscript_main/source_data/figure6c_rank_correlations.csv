@@ -1,0 +1,13 @@
+comparison_split,mean_spearman,sd_spearman,dataset,comparison_label,n_seeds
+split_cell_heldout,0.531360154175469,0.2769489204243879,OpenProblems,"Cell
+held-out",
+split_cell_scaffold_heldout,-0.5735888348594405,0.19137923167750598,OpenProblems,"Cell + scaffold
+held-out",
+split_scaffold_heldout,0.0971116484717851,0.43617070721578866,OpenProblems,"Scaffold
+held-out",
+split_cell_heldout,0.5374057545792984,0.1592630575036507,Sci-Plex 3,"Cell
+held-out",30.0
+split_cell_scaffold_heldout,-0.4341174821033712,0.2462224417595105,Sci-Plex 3,"Cell + scaffold
+held-out",30.0
+split_scaffold_heldout,0.0504524979109513,0.1695202788577859,Sci-Plex 3,"Scaffold
+held-out",30.0

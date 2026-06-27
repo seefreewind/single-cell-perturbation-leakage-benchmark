@@ -1,0 +1,5 @@
+dataset,contrast,model_count,mean_spearman,sd_spearman,percent_negative,random_best_model,random_best_rank_in_joint,status
+openproblems_neurips2023,random_vs_scaffold_heldout,11,0.4236913042477308,,0.0,svd50_ridge_cell_drug_fp,4.0,aggregate_existing_results
+openproblems_neurips2023,random_vs_joint_cell_scaffold_heldout,11,0.0597740636833213,,0.0,svd50_ridge_cell_drug_fp,6.0,aggregate_existing_results
+sciplex3_24h_top2000,random_vs_scaffold_heldout,5,0.5299999999999999,0.09153857298880941,0.0,seed_level_variable,,prnet_main30_seed1_30_completed
+sciplex3_24h_top2000,random_vs_joint_cell_scaffold_heldout,5,0.14333333333333334,0.4199206274206273,0.2,seed_level_variable,2.433333333333333,prnet_main30_seed1_30_completed

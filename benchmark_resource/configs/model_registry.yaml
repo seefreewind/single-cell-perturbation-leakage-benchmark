@@ -1,0 +1,112 @@
+models:
+  global_train_mean:
+    family: baseline
+    adapter: src.models.baselines.existing_results.ExistingResultsAdapter
+    status: completed_existing
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: false
+    supports_dose: false
+    supports_cell_context: false
+  ridge_cell_drug_fp:
+    family: baseline
+    adapter: src.models.baselines.existing_results.ExistingResultsAdapter
+    status: completed_existing
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: true
+    supports_dose: false
+    supports_cell_context: true
+  svd50_ridge_cell_drug_fp:
+    family: baseline
+    adapter: src.models.baselines.existing_results.ExistingResultsAdapter
+    status: completed_existing
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: true
+    supports_dose: false
+    supports_cell_context: true
+  nearest_drug:
+    family: retrieval_baseline
+    adapter: src.models.baselines.existing_results.ExistingResultsAdapter
+    status: completed_existing
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: true
+    supports_dose: false
+    supports_cell_context: false
+  prnet:
+    family: modern_chemical_perturbation_model
+    adapter: src.models.deep.prnet.PRNetAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: pending
+    requires_raw_single_cell: pending
+    supports_drug_structure: true
+    supports_dose: pending
+    supports_cell_context: true
+  control_conditioned_response_regressor:
+    family: local_neural_response_model
+    adapter: src.models.deep.transigen_adapter.TranSiGenAdapter
+    status: completed_sciplex3_pseudobulk_adaptation
+    provenance_note: "Local auditable control-conditioned response regressor; not a line-by-line reproduction of any published TranSiGen workflow."
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  transigen_adapted_sciplex3:
+    family: local_neural_response_model
+    adapter: src.models.deep.transigen_adapter.TranSiGenAdapter
+    status: completed
+    display_name: control_conditioned_response_regressor
+    provenance_note: "Historical result-file identifier retained for reproducibility."
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: false
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  chemcpa_or_cpa:
+    family: single_cell_perturbation_model
+    adapter: src.models.deep.chemcpa.ChemCPAAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: pending
+    requires_raw_single_cell: true
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  scgpt_frozen_ridge:
+    family: frozen_foundation_embedding
+    adapter: src.models.foundation.frozen_embedding.FrozenFoundationRidgeAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: true
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  scgpt_frozen_mlp:
+    family: frozen_foundation_embedding
+    adapter: src.models.foundation.frozen_embedding.FrozenFoundationMLPAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: true
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  scfoundation_frozen_ridge:
+    family: frozen_foundation_embedding
+    adapter: src.models.foundation.frozen_embedding.FrozenFoundationRidgeAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: true
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true
+  scfoundation_frozen_mlp:
+    family: frozen_foundation_embedding
+    adapter: src.models.foundation.frozen_embedding.FrozenFoundationMLPAdapter
+    status: feasibility_pending
+    supports_pseudobulk_response: true
+    requires_raw_single_cell: true
+    supports_drug_structure: true
+    supports_dose: true
+    supports_cell_context: true

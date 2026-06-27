@@ -1,0 +1,5 @@
+plot_model,random,scaffold_heldout,joint_cell_scaffold_heldout
+Global mean,4.0,3.0,1.0
+Ridge cell+dose+drug FP,1.0,2.0,2.0
+Ridge drug FP,2.0,4.0,3.0
+TranSiGen adapted,3.0,1.0,4.0

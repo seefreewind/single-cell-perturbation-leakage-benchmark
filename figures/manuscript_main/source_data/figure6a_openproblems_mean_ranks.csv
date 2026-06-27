@@ -1,0 +1,36 @@
+split,baseline,mean_rank,sd_rank,mean_score,sd_score,n_seeds,dataset,split_label,baseline_label
+split_cell_heldout,ridge_cell_drug_fp,1.24,0.4292346959909278,0.4957637766986807,0.0886359486169822,100,OpenProblems,"Cell
+held-out",Ridge cell+drug FP
+split_cell_heldout,ridge_drug_fp,1.76,0.4292346959909278,0.4957178429382896,0.0885965211155257,100,OpenProblems,"Cell
+held-out",Ridge drug FP
+split_cell_heldout,drug_mean,3.0,0.0,0.4925815322249772,0.0880020432129145,100,OpenProblems,"Cell
+held-out",Drug mean
+split_cell_heldout,cell_context_mean,4.24,0.4292346959909278,0.290300605950691,0.0645414302874484,100,OpenProblems,"Cell
+held-out",Cell mean
+split_cell_heldout,global_train_mean,4.24,0.4292346959909278,0.290300605950691,0.0645414302874484,100,OpenProblems,"Cell
+held-out",Global mean
+split_cell_scaffold_heldout,cell_context_mean,1.24,0.4292346959909277,0.2884419926006352,0.0792031284872231,100,OpenProblems,"Cell + scaffold
+held-out",Cell mean
+split_cell_scaffold_heldout,drug_mean,1.24,0.4292346959909277,0.2884419926006352,0.0792031284872231,100,OpenProblems,"Cell + scaffold
+held-out",Drug mean
+split_cell_scaffold_heldout,global_train_mean,1.24,0.4292346959909277,0.2884419926006352,0.0792031284872231,100,OpenProblems,"Cell + scaffold
+held-out",Global mean
+split_cell_scaffold_heldout,ridge_cell_drug_fp,5.33,0.472581562625261,0.2090615969991763,0.0591082389354795,100,OpenProblems,"Cell + scaffold
+held-out",Ridge cell+drug FP
+split_cell_scaffold_heldout,ridge_drug_fp,5.66,0.4760952285695232,0.2089276274807542,0.0591046565918092,100,OpenProblems,"Cell + scaffold
+held-out",Ridge drug FP
+split_random,ridge_cell_drug_fp,1.0,0.0,0.5683231463329339,0.0180685355529621,100,OpenProblems,Random,Ridge cell+drug FP
+split_random,cell_context_mean,2.91,0.911154224158578,0.4702387343869018,0.0220617732617667,100,OpenProblems,Random,Cell mean
+split_random,ridge_drug_fp,2.93,0.9770601131181564,0.4738259409800966,0.0193878438988995,100,OpenProblems,Random,Ridge drug FP
+split_random,drug_mean,4.35,0.967919772950572,0.4607145456431483,0.0200840577473929,100,OpenProblems,Random,Drug mean
+split_random,global_train_mean,6.0,0.0,0.3754044297098769,0.0242011833460129,100,OpenProblems,Random,Global mean
+split_scaffold_heldout,cell_context_mean,1.08,0.2726599243442908,0.4767890898451856,0.0422217554852001,100,OpenProblems,"Scaffold
+held-out",Cell mean
+split_scaffold_heldout,ridge_cell_drug_fp,3.58,0.9120960431441372,0.3919682772508012,0.0372432827975709,100,OpenProblems,"Scaffold
+held-out",Ridge cell+drug FP
+split_scaffold_heldout,drug_mean,3.71,0.4560480215720686,0.377810280207541,0.0457146828483055,100,OpenProblems,"Scaffold
+held-out",Drug mean
+split_scaffold_heldout,global_train_mean,3.71,0.4560480215720686,0.377810280207541,0.0457146828483055,100,OpenProblems,"Scaffold
+held-out",Global mean
+split_scaffold_heldout,ridge_drug_fp,6.0,0.0,0.2820425165945799,0.0396936727314878,100,OpenProblems,"Scaffold
+held-out",Ridge drug FP

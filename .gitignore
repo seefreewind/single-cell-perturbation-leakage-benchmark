@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+envs/
+*.log
+data/raw/
+results/pathway_level/pathway_metrics_long.csv
+*.tmp
+~$*

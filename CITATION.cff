@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Leakage-aware single-cell chemical perturbation benchmark"
+message: "Please cite the manuscript and archived release once a DOI is available."
+type: software
+authors:
+  - family-names: Lin
+    given-names: Da
+  - family-names: Zhang
+    given-names: Yu
+    email: zhangyu1@wzhealth.com
+repository-code: "https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark"
+abstract: "Code, split manifests, leakage-audit tables, model-result summaries, and manuscript source files for leakage-aware benchmarking of single-cell chemical perturbation transcriptomics."
+keywords:
+  - single-cell perturbation transcriptomics
+  - chemical perturbation
+  - benchmark leakage
+  - scaffold split
+  - model ranking
+license: MIT
+version: "v17-control-conditioned-neural"
+date-released: "2026-06-27"

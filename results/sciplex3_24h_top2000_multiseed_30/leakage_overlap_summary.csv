@@ -1,0 +1,5 @@
+split,n_seeds,mean_n_test,same_drug_in_train,same_scaffold_in_train,same_cell_in_train,same_drug_cell_in_train
+split_cell_heldout,30,731.2,0.9977746870653685,0.9649454163643949,0.0,0.0
+split_cell_scaffold_heldout,30,141.93333333333334,0.0,0.0,0.0,0.0
+split_random,30,437.46666666666664,1.0,0.9665600633420056,1.0,0.9908630794583498
+split_scaffold_heldout,30,427.06666666666666,0.0,0.0,1.0,0.0

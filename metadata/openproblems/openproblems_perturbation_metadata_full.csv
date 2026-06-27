@@ -1,0 +1,554 @@
+sample_id,dataset,drug_id,drug_name,cell_context,cell_type,cell_line,tissue,batch,dose,time,condition,control_sample_id,source_file,source_split,split,control
+"NK cells, TIE2 Kinase Inhibitor",openproblems_neurips2023,TIE2 Kinase Inhibitor,TIE2 Kinase Inhibitor,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, TIE2 Kinase Inhibitor",openproblems_neurips2023,TIE2 Kinase Inhibitor,TIE2 Kinase Inhibitor,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, MK-5108",openproblems_neurips2023,MK-5108,MK-5108,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, MK-5108",openproblems_neurips2023,MK-5108,MK-5108,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, MK-5108",openproblems_neurips2023,MK-5108,MK-5108,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, MK-5108",openproblems_neurips2023,MK-5108,MK-5108,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Lapatinib",openproblems_neurips2023,Lapatinib,Lapatinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Lapatinib",openproblems_neurips2023,Lapatinib,Lapatinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Belinostat",openproblems_neurips2023,Belinostat,Belinostat,B cells,B cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"Myeloid cells, Belinostat",openproblems_neurips2023,Belinostat,Belinostat,Myeloid cells,Myeloid cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"NK cells, Belinostat",openproblems_neurips2023,Belinostat,Belinostat,NK cells,NK cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"T cells, Belinostat",openproblems_neurips2023,Belinostat,Belinostat,T cells,T cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"B cells, Dabrafenib",openproblems_neurips2023,Dabrafenib,Dabrafenib,B cells,B cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"Myeloid cells, Dabrafenib",openproblems_neurips2023,Dabrafenib,Dabrafenib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"NK cells, Dabrafenib",openproblems_neurips2023,Dabrafenib,Dabrafenib,NK cells,NK cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"T cells, Dabrafenib",openproblems_neurips2023,Dabrafenib,Dabrafenib,T cells,T cells,PBMC,blood,de_train:control,not_available_in_de_h5ad,24h,control,,de_train.h5ad,de_train,control,True
+"NK cells, Atorvastatin",openproblems_neurips2023,Atorvastatin,Atorvastatin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Atorvastatin",openproblems_neurips2023,Atorvastatin,Atorvastatin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Ganetespib (STA-9090)",openproblems_neurips2023,Ganetespib (STA-9090),Ganetespib (STA-9090),B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Ganetespib (STA-9090)",openproblems_neurips2023,Ganetespib (STA-9090),Ganetespib (STA-9090),Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Ganetespib (STA-9090)",openproblems_neurips2023,Ganetespib (STA-9090),Ganetespib (STA-9090),NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ganetespib (STA-9090)",openproblems_neurips2023,Ganetespib (STA-9090),Ganetespib (STA-9090),T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Clomipramine",openproblems_neurips2023,Clomipramine,Clomipramine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Clomipramine",openproblems_neurips2023,Clomipramine,Clomipramine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Sunitinib",openproblems_neurips2023,Sunitinib,Sunitinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Sunitinib",openproblems_neurips2023,Sunitinib,Sunitinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Sunitinib",openproblems_neurips2023,Sunitinib,Sunitinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Sunitinib",openproblems_neurips2023,Sunitinib,Sunitinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Tivozanib",openproblems_neurips2023,Tivozanib,Tivozanib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Tivozanib",openproblems_neurips2023,Tivozanib,Tivozanib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Tivozanib",openproblems_neurips2023,Tivozanib,Tivozanib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tivozanib",openproblems_neurips2023,Tivozanib,Tivozanib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Tamatinib",openproblems_neurips2023,Tamatinib,Tamatinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Tamatinib",openproblems_neurips2023,Tamatinib,Tamatinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Tamatinib",openproblems_neurips2023,Tamatinib,Tamatinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tamatinib",openproblems_neurips2023,Tamatinib,Tamatinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Ixabepilone",openproblems_neurips2023,Ixabepilone,Ixabepilone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ixabepilone",openproblems_neurips2023,Ixabepilone,Ixabepilone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Linagliptin",openproblems_neurips2023,Linagliptin,Linagliptin,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Linagliptin",openproblems_neurips2023,Linagliptin,Linagliptin,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Linagliptin",openproblems_neurips2023,Linagliptin,Linagliptin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Linagliptin",openproblems_neurips2023,Linagliptin,Linagliptin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, 5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine",openproblems_neurips2023,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, 5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine",openproblems_neurips2023,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, 5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine",openproblems_neurips2023,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, 5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine",openproblems_neurips2023,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, O-Demethylated Adapalene",openproblems_neurips2023,O-Demethylated Adapalene,O-Demethylated Adapalene,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, O-Demethylated Adapalene",openproblems_neurips2023,O-Demethylated Adapalene,O-Demethylated Adapalene,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, O-Demethylated Adapalene",openproblems_neurips2023,O-Demethylated Adapalene,O-Demethylated Adapalene,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, O-Demethylated Adapalene",openproblems_neurips2023,O-Demethylated Adapalene,O-Demethylated Adapalene,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Protriptyline",openproblems_neurips2023,Protriptyline,Protriptyline,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Protriptyline",openproblems_neurips2023,Protriptyline,Protriptyline,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, I-BET151",openproblems_neurips2023,I-BET151,I-BET151,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, I-BET151",openproblems_neurips2023,I-BET151,I-BET151,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, I-BET151",openproblems_neurips2023,I-BET151,I-BET151,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, I-BET151",openproblems_neurips2023,I-BET151,I-BET151,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Foretinib",openproblems_neurips2023,Foretinib,Foretinib,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Foretinib",openproblems_neurips2023,Foretinib,Foretinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Foretinib",openproblems_neurips2023,Foretinib,Foretinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, GW843682X",openproblems_neurips2023,GW843682X,GW843682X,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, GW843682X",openproblems_neurips2023,GW843682X,GW843682X,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, GW843682X",openproblems_neurips2023,GW843682X,GW843682X,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, GW843682X",openproblems_neurips2023,GW843682X,GW843682X,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, BMS-387032",openproblems_neurips2023,BMS-387032,BMS-387032,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BMS-387032",openproblems_neurips2023,BMS-387032,BMS-387032,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, IN1451",openproblems_neurips2023,IN1451,IN1451,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, IN1451",openproblems_neurips2023,IN1451,IN1451,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, IN1451",openproblems_neurips2023,IN1451,IN1451,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, IN1451",openproblems_neurips2023,IN1451,IN1451,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Raloxifene",openproblems_neurips2023,Raloxifene,Raloxifene,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Raloxifene",openproblems_neurips2023,Raloxifene,Raloxifene,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Raloxifene",openproblems_neurips2023,Raloxifene,Raloxifene,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Raloxifene",openproblems_neurips2023,Raloxifene,Raloxifene,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Topotecan",openproblems_neurips2023,Topotecan,Topotecan,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Topotecan",openproblems_neurips2023,Topotecan,Topotecan,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Topotecan",openproblems_neurips2023,Topotecan,Topotecan,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Topotecan",openproblems_neurips2023,Topotecan,Topotecan,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, BAY 87-2243",openproblems_neurips2023,BAY 87-2243,BAY 87-2243,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, BAY 87-2243",openproblems_neurips2023,BAY 87-2243,BAY 87-2243,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, BAY 87-2243",openproblems_neurips2023,BAY 87-2243,BAY 87-2243,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BAY 87-2243",openproblems_neurips2023,BAY 87-2243,BAY 87-2243,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Phenylbutazone",openproblems_neurips2023,Phenylbutazone,Phenylbutazone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Phenylbutazone",openproblems_neurips2023,Phenylbutazone,Phenylbutazone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, K-02288",openproblems_neurips2023,K-02288,K-02288,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, K-02288",openproblems_neurips2023,K-02288,K-02288,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, BMS-777607",openproblems_neurips2023,BMS-777607,BMS-777607,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BMS-777607",openproblems_neurips2023,BMS-777607,BMS-777607,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Porcn Inhibitor III",openproblems_neurips2023,Porcn Inhibitor III,Porcn Inhibitor III,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Porcn Inhibitor III",openproblems_neurips2023,Porcn Inhibitor III,Porcn Inhibitor III,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Porcn Inhibitor III",openproblems_neurips2023,Porcn Inhibitor III,Porcn Inhibitor III,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Porcn Inhibitor III",openproblems_neurips2023,Porcn Inhibitor III,Porcn Inhibitor III,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, TL_HRAS26",openproblems_neurips2023,TL_HRAS26,TL_HRAS26,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, TL_HRAS26",openproblems_neurips2023,TL_HRAS26,TL_HRAS26,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, TL_HRAS26",openproblems_neurips2023,TL_HRAS26,TL_HRAS26,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, TL_HRAS26",openproblems_neurips2023,TL_HRAS26,TL_HRAS26,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Proscillaridin A;Proscillaridin-A",openproblems_neurips2023,Proscillaridin A;Proscillaridin-A,Proscillaridin A;Proscillaridin-A,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Proscillaridin A;Proscillaridin-A",openproblems_neurips2023,Proscillaridin A;Proscillaridin-A,Proscillaridin A;Proscillaridin-A,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Proscillaridin A;Proscillaridin-A",openproblems_neurips2023,Proscillaridin A;Proscillaridin-A,Proscillaridin A;Proscillaridin-A,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Vorinostat",openproblems_neurips2023,Vorinostat,Vorinostat,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Vorinostat",openproblems_neurips2023,Vorinostat,Vorinostat,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, BMS-265246",openproblems_neurips2023,BMS-265246,BMS-265246,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, BMS-265246",openproblems_neurips2023,BMS-265246,BMS-265246,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, BMS-265246",openproblems_neurips2023,BMS-265246,BMS-265246,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BMS-265246",openproblems_neurips2023,BMS-265246,BMS-265246,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Ruxolitinib",openproblems_neurips2023,Ruxolitinib,Ruxolitinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ruxolitinib",openproblems_neurips2023,Ruxolitinib,Ruxolitinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Pomalidomide",openproblems_neurips2023,Pomalidomide,Pomalidomide,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Pomalidomide",openproblems_neurips2023,Pomalidomide,Pomalidomide,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Pomalidomide",openproblems_neurips2023,Pomalidomide,Pomalidomide,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Pomalidomide",openproblems_neurips2023,Pomalidomide,Pomalidomide,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Dovitinib",openproblems_neurips2023,Dovitinib,Dovitinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Dovitinib",openproblems_neurips2023,Dovitinib,Dovitinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Dovitinib",openproblems_neurips2023,Dovitinib,Dovitinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Dovitinib",openproblems_neurips2023,Dovitinib,Dovitinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, AVL-292",openproblems_neurips2023,AVL-292,AVL-292,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AVL-292",openproblems_neurips2023,AVL-292,AVL-292,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Navitoclax",openproblems_neurips2023,Navitoclax,Navitoclax,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Navitoclax",openproblems_neurips2023,Navitoclax,Navitoclax,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Navitoclax",openproblems_neurips2023,Navitoclax,Navitoclax,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Navitoclax",openproblems_neurips2023,Navitoclax,Navitoclax,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Methotrexate",openproblems_neurips2023,Methotrexate,Methotrexate,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Methotrexate",openproblems_neurips2023,Methotrexate,Methotrexate,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Methotrexate",openproblems_neurips2023,Methotrexate,Methotrexate,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Methotrexate",openproblems_neurips2023,Methotrexate,Methotrexate,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Palbociclib",openproblems_neurips2023,Palbociclib,Palbociclib,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Palbociclib",openproblems_neurips2023,Palbociclib,Palbociclib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Palbociclib",openproblems_neurips2023,Palbociclib,Palbociclib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Palbociclib",openproblems_neurips2023,Palbociclib,Palbociclib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Trametinib",openproblems_neurips2023,Trametinib,Trametinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Trametinib",openproblems_neurips2023,Trametinib,Trametinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, AMD-070 (hydrochloride)",openproblems_neurips2023,AMD-070 (hydrochloride),AMD-070 (hydrochloride),B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, AMD-070 (hydrochloride)",openproblems_neurips2023,AMD-070 (hydrochloride),AMD-070 (hydrochloride),Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, AMD-070 (hydrochloride)",openproblems_neurips2023,AMD-070 (hydrochloride),AMD-070 (hydrochloride),NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AMD-070 (hydrochloride)",openproblems_neurips2023,AMD-070 (hydrochloride),AMD-070 (hydrochloride),T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Sgc-cbp30",openproblems_neurips2023,Sgc-cbp30,Sgc-cbp30,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Sgc-cbp30",openproblems_neurips2023,Sgc-cbp30,Sgc-cbp30,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, FK 866",openproblems_neurips2023,FK 866,FK 866,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, FK 866",openproblems_neurips2023,FK 866,FK 866,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, FK 866",openproblems_neurips2023,FK 866,FK 866,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, FK 866",openproblems_neurips2023,FK 866,FK 866,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Chlorpheniramine",openproblems_neurips2023,Chlorpheniramine,Chlorpheniramine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Chlorpheniramine",openproblems_neurips2023,Chlorpheniramine,Chlorpheniramine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Scriptaid",openproblems_neurips2023,Scriptaid,Scriptaid,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Scriptaid",openproblems_neurips2023,Scriptaid,Scriptaid,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Scriptaid",openproblems_neurips2023,Scriptaid,Scriptaid,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Scriptaid",openproblems_neurips2023,Scriptaid,Scriptaid,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, BAY 61-3606",openproblems_neurips2023,BAY 61-3606,BAY 61-3606,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BAY 61-3606",openproblems_neurips2023,BAY 61-3606,BAY 61-3606,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, LY2090314",openproblems_neurips2023,LY2090314,LY2090314,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, LY2090314",openproblems_neurips2023,LY2090314,LY2090314,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Vardenafil",openproblems_neurips2023,Vardenafil,Vardenafil,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Vardenafil",openproblems_neurips2023,Vardenafil,Vardenafil,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Dasatinib",openproblems_neurips2023,Dasatinib,Dasatinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Dasatinib",openproblems_neurips2023,Dasatinib,Dasatinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, AT13387",openproblems_neurips2023,AT13387,AT13387,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AT13387",openproblems_neurips2023,AT13387,AT13387,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, PF-04691502",openproblems_neurips2023,PF-04691502,PF-04691502,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, PF-04691502",openproblems_neurips2023,PF-04691502,PF-04691502,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, PF-04691502",openproblems_neurips2023,PF-04691502,PF-04691502,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Perhexiline",openproblems_neurips2023,Perhexiline,Perhexiline,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Perhexiline",openproblems_neurips2023,Perhexiline,Perhexiline,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, RVX-208",openproblems_neurips2023,RVX-208,RVX-208,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, RVX-208",openproblems_neurips2023,RVX-208,RVX-208,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Ketoconazole",openproblems_neurips2023,Ketoconazole,Ketoconazole,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ketoconazole",openproblems_neurips2023,Ketoconazole,Ketoconazole,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Disulfiram",openproblems_neurips2023,Disulfiram,Disulfiram,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Disulfiram",openproblems_neurips2023,Disulfiram,Disulfiram,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Flutamide",openproblems_neurips2023,Flutamide,Flutamide,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Flutamide",openproblems_neurips2023,Flutamide,Flutamide,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Desloratadine",openproblems_neurips2023,Desloratadine,Desloratadine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Desloratadine",openproblems_neurips2023,Desloratadine,Desloratadine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Dactolisib",openproblems_neurips2023,Dactolisib,Dactolisib,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Dactolisib",openproblems_neurips2023,Dactolisib,Dactolisib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Dactolisib",openproblems_neurips2023,Dactolisib,Dactolisib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Dactolisib",openproblems_neurips2023,Dactolisib,Dactolisib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, BMS-536924",openproblems_neurips2023,BMS-536924,BMS-536924,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BMS-536924",openproblems_neurips2023,BMS-536924,BMS-536924,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, IKK Inhibitor VII",openproblems_neurips2023,IKK Inhibitor VII,IKK Inhibitor VII,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, IKK Inhibitor VII",openproblems_neurips2023,IKK Inhibitor VII,IKK Inhibitor VII,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Amiodarone",openproblems_neurips2023,Amiodarone,Amiodarone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Amiodarone",openproblems_neurips2023,Amiodarone,Amiodarone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Isoniazid",openproblems_neurips2023,Isoniazid,Isoniazid,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Isoniazid",openproblems_neurips2023,Isoniazid,Isoniazid,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Isoniazid",openproblems_neurips2023,Isoniazid,Isoniazid,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Isoniazid",openproblems_neurips2023,Isoniazid,Isoniazid,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, IMD-0354",openproblems_neurips2023,IMD-0354,IMD-0354,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, IMD-0354",openproblems_neurips2023,IMD-0354,IMD-0354,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Canertinib",openproblems_neurips2023,Canertinib,Canertinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Canertinib",openproblems_neurips2023,Canertinib,Canertinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Idelalisib",openproblems_neurips2023,Idelalisib,Idelalisib,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Idelalisib",openproblems_neurips2023,Idelalisib,Idelalisib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Idelalisib",openproblems_neurips2023,Idelalisib,Idelalisib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Idelalisib",openproblems_neurips2023,Idelalisib,Idelalisib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Alogliptin",openproblems_neurips2023,Alogliptin,Alogliptin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Alogliptin",openproblems_neurips2023,Alogliptin,Alogliptin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Penfluridol",openproblems_neurips2023,Penfluridol,Penfluridol,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Penfluridol",openproblems_neurips2023,Penfluridol,Penfluridol,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Penfluridol",openproblems_neurips2023,Penfluridol,Penfluridol,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Penfluridol",openproblems_neurips2023,Penfluridol,Penfluridol,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Quizartinib",openproblems_neurips2023,Quizartinib,Quizartinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Quizartinib",openproblems_neurips2023,Quizartinib,Quizartinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Quizartinib",openproblems_neurips2023,Quizartinib,Quizartinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Quizartinib",openproblems_neurips2023,Quizartinib,Quizartinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, RN-486",openproblems_neurips2023,RN-486,RN-486,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, RN-486",openproblems_neurips2023,RN-486,RN-486,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, PD-0325901",openproblems_neurips2023,PD-0325901,PD-0325901,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, PD-0325901",openproblems_neurips2023,PD-0325901,PD-0325901,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, PD-0325901",openproblems_neurips2023,PD-0325901,PD-0325901,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, PD-0325901",openproblems_neurips2023,PD-0325901,PD-0325901,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Decitabine",openproblems_neurips2023,Decitabine,Decitabine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Decitabine",openproblems_neurips2023,Decitabine,Decitabine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, LDN 193189",openproblems_neurips2023,LDN 193189,LDN 193189,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, LDN 193189",openproblems_neurips2023,LDN 193189,LDN 193189,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, LDN 193189",openproblems_neurips2023,LDN 193189,LDN 193189,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, LDN 193189",openproblems_neurips2023,LDN 193189,LDN 193189,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Cabozantinib",openproblems_neurips2023,Cabozantinib,Cabozantinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Cabozantinib",openproblems_neurips2023,Cabozantinib,Cabozantinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Riociguat",openproblems_neurips2023,Riociguat,Riociguat,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Riociguat",openproblems_neurips2023,Riociguat,Riociguat,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Riociguat",openproblems_neurips2023,Riociguat,Riociguat,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Riociguat",openproblems_neurips2023,Riociguat,Riociguat,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, CHIR-99021",openproblems_neurips2023,CHIR-99021,CHIR-99021,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, CHIR-99021",openproblems_neurips2023,CHIR-99021,CHIR-99021,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, CHIR-99021",openproblems_neurips2023,CHIR-99021,CHIR-99021,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, CHIR-99021",openproblems_neurips2023,CHIR-99021,CHIR-99021,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Defactinib",openproblems_neurips2023,Defactinib,Defactinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Defactinib",openproblems_neurips2023,Defactinib,Defactinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, BI-D1870",openproblems_neurips2023,BI-D1870,BI-D1870,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, BI-D1870",openproblems_neurips2023,BI-D1870,BI-D1870,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, BI-D1870",openproblems_neurips2023,BI-D1870,BI-D1870,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BI-D1870",openproblems_neurips2023,BI-D1870,BI-D1870,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, AZD3514",openproblems_neurips2023,AZD3514,AZD3514,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AZD3514",openproblems_neurips2023,AZD3514,AZD3514,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, HMN-214",openproblems_neurips2023,HMN-214,HMN-214,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, HMN-214",openproblems_neurips2023,HMN-214,HMN-214,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, CC-401",openproblems_neurips2023,CC-401,CC-401,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, CC-401",openproblems_neurips2023,CC-401,CC-401,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Resminostat",openproblems_neurips2023,Resminostat,Resminostat,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Resminostat",openproblems_neurips2023,Resminostat,Resminostat,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Crizotinib",openproblems_neurips2023,Crizotinib,Crizotinib,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, Crizotinib",openproblems_neurips2023,Crizotinib,Crizotinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Crizotinib",openproblems_neurips2023,Crizotinib,Crizotinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Crizotinib",openproblems_neurips2023,Crizotinib,Crizotinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Azacitidine",openproblems_neurips2023,Azacitidine,Azacitidine,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Azacitidine",openproblems_neurips2023,Azacitidine,Azacitidine,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Azacitidine",openproblems_neurips2023,Azacitidine,Azacitidine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Azacitidine",openproblems_neurips2023,Azacitidine,Azacitidine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, TR-14035",openproblems_neurips2023,TR-14035,TR-14035,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, TR-14035",openproblems_neurips2023,TR-14035,TR-14035,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, TR-14035",openproblems_neurips2023,TR-14035,TR-14035,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, TR-14035",openproblems_neurips2023,TR-14035,TR-14035,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Nilotinib",openproblems_neurips2023,Nilotinib,Nilotinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Nilotinib",openproblems_neurips2023,Nilotinib,Nilotinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, AT 7867",openproblems_neurips2023,AT 7867,AT 7867,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, AT 7867",openproblems_neurips2023,AT 7867,AT 7867,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, AT 7867",openproblems_neurips2023,AT 7867,AT 7867,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AT 7867",openproblems_neurips2023,AT 7867,AT 7867,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, OSI-930",openproblems_neurips2023,OSI-930,OSI-930,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, OSI-930",openproblems_neurips2023,OSI-930,OSI-930,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, GO-6976",openproblems_neurips2023,GO-6976,GO-6976,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, GO-6976",openproblems_neurips2023,GO-6976,GO-6976,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, GO-6976",openproblems_neurips2023,GO-6976,GO-6976,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, GO-6976",openproblems_neurips2023,GO-6976,GO-6976,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Saracatinib",openproblems_neurips2023,Saracatinib,Saracatinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Saracatinib",openproblems_neurips2023,Saracatinib,Saracatinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, RG7112",openproblems_neurips2023,RG7112,RG7112,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, RG7112",openproblems_neurips2023,RG7112,RG7112,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Lamivudine",openproblems_neurips2023,Lamivudine,Lamivudine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Lamivudine",openproblems_neurips2023,Lamivudine,Lamivudine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, TGX 221",openproblems_neurips2023,TGX 221,TGX 221,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, TGX 221",openproblems_neurips2023,TGX 221,TGX 221,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, TGX 221",openproblems_neurips2023,TGX 221,TGX 221,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, TGX 221",openproblems_neurips2023,TGX 221,TGX 221,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Pitavastatin Calcium",openproblems_neurips2023,Pitavastatin Calcium,Pitavastatin Calcium,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Pitavastatin Calcium",openproblems_neurips2023,Pitavastatin Calcium,Pitavastatin Calcium,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Pitavastatin Calcium",openproblems_neurips2023,Pitavastatin Calcium,Pitavastatin Calcium,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Pitavastatin Calcium",openproblems_neurips2023,Pitavastatin Calcium,Pitavastatin Calcium,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, ABT737",openproblems_neurips2023,ABT737,ABT737,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, ABT737",openproblems_neurips2023,ABT737,ABT737,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, ABT737",openproblems_neurips2023,ABT737,ABT737,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, ABT737",openproblems_neurips2023,ABT737,ABT737,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, PRT-062607",openproblems_neurips2023,PRT-062607,PRT-062607,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, PRT-062607",openproblems_neurips2023,PRT-062607,PRT-062607,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, PRT-062607",openproblems_neurips2023,PRT-062607,PRT-062607,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, PRT-062607",openproblems_neurips2023,PRT-062607,PRT-062607,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, AZ628",openproblems_neurips2023,AZ628,AZ628,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, AZ628",openproblems_neurips2023,AZ628,AZ628,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, AZ628",openproblems_neurips2023,AZ628,AZ628,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AZ628",openproblems_neurips2023,AZ628,AZ628,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, AZD-8330",openproblems_neurips2023,AZD-8330,AZD-8330,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AZD-8330",openproblems_neurips2023,AZD-8330,AZD-8330,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Masitinib",openproblems_neurips2023,Masitinib,Masitinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Masitinib",openproblems_neurips2023,Masitinib,Masitinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Masitinib",openproblems_neurips2023,Masitinib,Masitinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Masitinib",openproblems_neurips2023,Masitinib,Masitinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Ceritinib",openproblems_neurips2023,Ceritinib,Ceritinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ceritinib",openproblems_neurips2023,Ceritinib,Ceritinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, CGM-097",openproblems_neurips2023,CGM-097,CGM-097,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, CGM-097",openproblems_neurips2023,CGM-097,CGM-097,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, SLx-2119",openproblems_neurips2023,SLx-2119,SLx-2119,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, SLx-2119",openproblems_neurips2023,SLx-2119,SLx-2119,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Nefazodone",openproblems_neurips2023,Nefazodone,Nefazodone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Nefazodone",openproblems_neurips2023,Nefazodone,Nefazodone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, STK219801",openproblems_neurips2023,STK219801,STK219801,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, STK219801",openproblems_neurips2023,STK219801,STK219801,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, STK219801",openproblems_neurips2023,STK219801,STK219801,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, STK219801",openproblems_neurips2023,STK219801,STK219801,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, TPCA-1",openproblems_neurips2023,TPCA-1,TPCA-1,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, TPCA-1",openproblems_neurips2023,TPCA-1,TPCA-1,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, MGCD-265",openproblems_neurips2023,MGCD-265,MGCD-265,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, MGCD-265",openproblems_neurips2023,MGCD-265,MGCD-265,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, GSK-1070916",openproblems_neurips2023,GSK-1070916,GSK-1070916,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, GSK-1070916",openproblems_neurips2023,GSK-1070916,GSK-1070916,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Ricolinostat",openproblems_neurips2023,Ricolinostat,Ricolinostat,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Ricolinostat",openproblems_neurips2023,Ricolinostat,Ricolinostat,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Ricolinostat",openproblems_neurips2023,Ricolinostat,Ricolinostat,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Ricolinostat",openproblems_neurips2023,Ricolinostat,Ricolinostat,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Bosutinib",openproblems_neurips2023,Bosutinib,Bosutinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Bosutinib",openproblems_neurips2023,Bosutinib,Bosutinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Clemastine",openproblems_neurips2023,Clemastine,Clemastine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Clemastine",openproblems_neurips2023,Clemastine,Clemastine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, YK 4-279",openproblems_neurips2023,YK 4-279,YK 4-279,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, YK 4-279",openproblems_neurips2023,YK 4-279,YK 4-279,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Buspirone",openproblems_neurips2023,Buspirone,Buspirone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Buspirone",openproblems_neurips2023,Buspirone,Buspirone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Midostaurin",openproblems_neurips2023,Midostaurin,Midostaurin,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Midostaurin",openproblems_neurips2023,Midostaurin,Midostaurin,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Midostaurin",openproblems_neurips2023,Midostaurin,Midostaurin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Midostaurin",openproblems_neurips2023,Midostaurin,Midostaurin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, CEP-37440",openproblems_neurips2023,CEP-37440,CEP-37440,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, CEP-37440",openproblems_neurips2023,CEP-37440,CEP-37440,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, CEP-37440",openproblems_neurips2023,CEP-37440,CEP-37440,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, CEP-37440",openproblems_neurips2023,CEP-37440,CEP-37440,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, GSK256066",openproblems_neurips2023,GSK256066,GSK256066,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, GSK256066",openproblems_neurips2023,GSK256066,GSK256066,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, R428",openproblems_neurips2023,R428,R428,B cells,B cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"Myeloid cells, R428",openproblems_neurips2023,R428,R428,Myeloid cells,Myeloid cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, R428",openproblems_neurips2023,R428,R428,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Oxybenzone",openproblems_neurips2023,Oxybenzone,Oxybenzone,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Oxybenzone",openproblems_neurips2023,Oxybenzone,Oxybenzone,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Oxybenzone",openproblems_neurips2023,Oxybenzone,Oxybenzone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Oxybenzone",openproblems_neurips2023,Oxybenzone,Oxybenzone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Vandetanib",openproblems_neurips2023,Vandetanib,Vandetanib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Vandetanib",openproblems_neurips2023,Vandetanib,Vandetanib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Imatinib",openproblems_neurips2023,Imatinib,Imatinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Imatinib",openproblems_neurips2023,Imatinib,Imatinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, SCH-58261",openproblems_neurips2023,SCH-58261,SCH-58261,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, SCH-58261",openproblems_neurips2023,SCH-58261,SCH-58261,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Colforsin",openproblems_neurips2023,Colforsin,Colforsin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Colforsin",openproblems_neurips2023,Colforsin,Colforsin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Tivantinib",openproblems_neurips2023,Tivantinib,Tivantinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Tivantinib",openproblems_neurips2023,Tivantinib,Tivantinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Tivantinib",openproblems_neurips2023,Tivantinib,Tivantinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tivantinib",openproblems_neurips2023,Tivantinib,Tivantinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Tosedostat",openproblems_neurips2023,Tosedostat,Tosedostat,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tosedostat",openproblems_neurips2023,Tosedostat,Tosedostat,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Colchicine",openproblems_neurips2023,Colchicine,Colchicine,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Colchicine",openproblems_neurips2023,Colchicine,Colchicine,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Colchicine",openproblems_neurips2023,Colchicine,Colchicine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Colchicine",openproblems_neurips2023,Colchicine,Colchicine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, ABT-199 (GDC-0199)",openproblems_neurips2023,ABT-199 (GDC-0199),ABT-199 (GDC-0199),NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, ABT-199 (GDC-0199)",openproblems_neurips2023,ABT-199 (GDC-0199),ABT-199 (GDC-0199),T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Mometasone Furoate",openproblems_neurips2023,Mometasone Furoate,Mometasone Furoate,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Mometasone Furoate",openproblems_neurips2023,Mometasone Furoate,Mometasone Furoate,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Tipifarnib",openproblems_neurips2023,Tipifarnib,Tipifarnib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tipifarnib",openproblems_neurips2023,Tipifarnib,Tipifarnib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, BX 912",openproblems_neurips2023,BX 912,BX 912,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, BX 912",openproblems_neurips2023,BX 912,BX 912,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, BX 912",openproblems_neurips2023,BX 912,BX 912,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, BX 912",openproblems_neurips2023,BX 912,BX 912,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Doxorubicin",openproblems_neurips2023,Doxorubicin,Doxorubicin,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Doxorubicin",openproblems_neurips2023,Doxorubicin,Doxorubicin,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, PF-03814735",openproblems_neurips2023,PF-03814735,PF-03814735,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, PF-03814735",openproblems_neurips2023,PF-03814735,PF-03814735,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, AZD4547",openproblems_neurips2023,AZD4547,AZD4547,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, AZD4547",openproblems_neurips2023,AZD4547,AZD4547,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Prednisolone",openproblems_neurips2023,Prednisolone,Prednisolone,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Prednisolone",openproblems_neurips2023,Prednisolone,Prednisolone,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Tacalcitol",openproblems_neurips2023,Tacalcitol,Tacalcitol,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Tacalcitol",openproblems_neurips2023,Tacalcitol,Tacalcitol,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, Selumetinib",openproblems_neurips2023,Selumetinib,Selumetinib,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, Selumetinib",openproblems_neurips2023,Selumetinib,Selumetinib,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, Selumetinib",openproblems_neurips2023,Selumetinib,Selumetinib,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Selumetinib",openproblems_neurips2023,Selumetinib,Selumetinib,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Clotrimazole",openproblems_neurips2023,Clotrimazole,Clotrimazole,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Clotrimazole",openproblems_neurips2023,Clotrimazole,Clotrimazole,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, RG7090",openproblems_neurips2023,RG7090,RG7090,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, RG7090",openproblems_neurips2023,RG7090,RG7090,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, RG7090",openproblems_neurips2023,RG7090,RG7090,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, RG7090",openproblems_neurips2023,RG7090,RG7090,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, GLPG0634",openproblems_neurips2023,GLPG0634,GLPG0634,B cells,B cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"Myeloid cells, GLPG0634",openproblems_neurips2023,GLPG0634,GLPG0634,Myeloid cells,Myeloid cells,PBMC,blood,de_train:public_test,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,public_test,False
+"NK cells, GLPG0634",openproblems_neurips2023,GLPG0634,GLPG0634,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, GLPG0634",openproblems_neurips2023,GLPG0634,GLPG0634,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Mubritinib (TAK 165)",openproblems_neurips2023,Mubritinib (TAK 165),Mubritinib (TAK 165),NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Mubritinib (TAK 165)",openproblems_neurips2023,Mubritinib (TAK 165),Mubritinib (TAK 165),T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, Vanoxerine",openproblems_neurips2023,Vanoxerine,Vanoxerine,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, Vanoxerine",openproblems_neurips2023,Vanoxerine,Vanoxerine,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, SB525334",openproblems_neurips2023,SB525334,SB525334,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, SB525334",openproblems_neurips2023,SB525334,SB525334,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"NK cells, HYDROXYUREA",openproblems_neurips2023,HYDROXYUREA,HYDROXYUREA,NK cells,NK cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"T cells, HYDROXYUREA",openproblems_neurips2023,HYDROXYUREA,HYDROXYUREA,T cells,T cells,PBMC,blood,de_train:train,not_available_in_de_h5ad,24h,treated,,de_train.h5ad,de_train,train,False
+"B cells, TIE2 Kinase Inhibitor",openproblems_neurips2023,TIE2 Kinase Inhibitor,TIE2 Kinase Inhibitor,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, TIE2 Kinase Inhibitor",openproblems_neurips2023,TIE2 Kinase Inhibitor,TIE2 Kinase Inhibitor,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Lapatinib",openproblems_neurips2023,Lapatinib,Lapatinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Lapatinib",openproblems_neurips2023,Lapatinib,Lapatinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Atorvastatin",openproblems_neurips2023,Atorvastatin,Atorvastatin,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Atorvastatin",openproblems_neurips2023,Atorvastatin,Atorvastatin,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Clomipramine",openproblems_neurips2023,Clomipramine,Clomipramine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Clomipramine",openproblems_neurips2023,Clomipramine,Clomipramine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Ixabepilone",openproblems_neurips2023,Ixabepilone,Ixabepilone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Ixabepilone",openproblems_neurips2023,Ixabepilone,Ixabepilone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Protriptyline",openproblems_neurips2023,Protriptyline,Protriptyline,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Protriptyline",openproblems_neurips2023,Protriptyline,Protriptyline,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Phenylbutazone",openproblems_neurips2023,Phenylbutazone,Phenylbutazone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Phenylbutazone",openproblems_neurips2023,Phenylbutazone,Phenylbutazone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, K-02288",openproblems_neurips2023,K-02288,K-02288,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, K-02288",openproblems_neurips2023,K-02288,K-02288,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, BMS-777607",openproblems_neurips2023,BMS-777607,BMS-777607,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, BMS-777607",openproblems_neurips2023,BMS-777607,BMS-777607,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Vorinostat",openproblems_neurips2023,Vorinostat,Vorinostat,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Vorinostat",openproblems_neurips2023,Vorinostat,Vorinostat,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Ruxolitinib",openproblems_neurips2023,Ruxolitinib,Ruxolitinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Ruxolitinib",openproblems_neurips2023,Ruxolitinib,Ruxolitinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, AVL-292",openproblems_neurips2023,AVL-292,AVL-292,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, AVL-292",openproblems_neurips2023,AVL-292,AVL-292,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Trametinib",openproblems_neurips2023,Trametinib,Trametinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Trametinib",openproblems_neurips2023,Trametinib,Trametinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Sgc-cbp30",openproblems_neurips2023,Sgc-cbp30,Sgc-cbp30,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Sgc-cbp30",openproblems_neurips2023,Sgc-cbp30,Sgc-cbp30,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Chlorpheniramine",openproblems_neurips2023,Chlorpheniramine,Chlorpheniramine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Chlorpheniramine",openproblems_neurips2023,Chlorpheniramine,Chlorpheniramine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, BAY 61-3606",openproblems_neurips2023,BAY 61-3606,BAY 61-3606,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, BAY 61-3606",openproblems_neurips2023,BAY 61-3606,BAY 61-3606,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, LY2090314",openproblems_neurips2023,LY2090314,LY2090314,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, LY2090314",openproblems_neurips2023,LY2090314,LY2090314,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Vardenafil",openproblems_neurips2023,Vardenafil,Vardenafil,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Vardenafil",openproblems_neurips2023,Vardenafil,Vardenafil,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Dasatinib",openproblems_neurips2023,Dasatinib,Dasatinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Dasatinib",openproblems_neurips2023,Dasatinib,Dasatinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, AT13387",openproblems_neurips2023,AT13387,AT13387,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, AT13387",openproblems_neurips2023,AT13387,AT13387,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Perhexiline",openproblems_neurips2023,Perhexiline,Perhexiline,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Perhexiline",openproblems_neurips2023,Perhexiline,Perhexiline,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, RVX-208",openproblems_neurips2023,RVX-208,RVX-208,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, RVX-208",openproblems_neurips2023,RVX-208,RVX-208,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Ketoconazole",openproblems_neurips2023,Ketoconazole,Ketoconazole,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Ketoconazole",openproblems_neurips2023,Ketoconazole,Ketoconazole,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Disulfiram",openproblems_neurips2023,Disulfiram,Disulfiram,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Disulfiram",openproblems_neurips2023,Disulfiram,Disulfiram,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Flutamide",openproblems_neurips2023,Flutamide,Flutamide,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Flutamide",openproblems_neurips2023,Flutamide,Flutamide,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Desloratadine",openproblems_neurips2023,Desloratadine,Desloratadine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Desloratadine",openproblems_neurips2023,Desloratadine,Desloratadine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, BMS-536924",openproblems_neurips2023,BMS-536924,BMS-536924,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, BMS-536924",openproblems_neurips2023,BMS-536924,BMS-536924,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, IKK Inhibitor VII",openproblems_neurips2023,IKK Inhibitor VII,IKK Inhibitor VII,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, IKK Inhibitor VII",openproblems_neurips2023,IKK Inhibitor VII,IKK Inhibitor VII,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Amiodarone",openproblems_neurips2023,Amiodarone,Amiodarone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Amiodarone",openproblems_neurips2023,Amiodarone,Amiodarone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, IMD-0354",openproblems_neurips2023,IMD-0354,IMD-0354,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, IMD-0354",openproblems_neurips2023,IMD-0354,IMD-0354,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Canertinib",openproblems_neurips2023,Canertinib,Canertinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Alogliptin",openproblems_neurips2023,Alogliptin,Alogliptin,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Alogliptin",openproblems_neurips2023,Alogliptin,Alogliptin,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, RN-486",openproblems_neurips2023,RN-486,RN-486,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, RN-486",openproblems_neurips2023,RN-486,RN-486,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Decitabine",openproblems_neurips2023,Decitabine,Decitabine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Decitabine",openproblems_neurips2023,Decitabine,Decitabine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Cabozantinib",openproblems_neurips2023,Cabozantinib,Cabozantinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Cabozantinib",openproblems_neurips2023,Cabozantinib,Cabozantinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Defactinib",openproblems_neurips2023,Defactinib,Defactinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Defactinib",openproblems_neurips2023,Defactinib,Defactinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, AZD3514",openproblems_neurips2023,AZD3514,AZD3514,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, AZD3514",openproblems_neurips2023,AZD3514,AZD3514,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, HMN-214",openproblems_neurips2023,HMN-214,HMN-214,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, HMN-214",openproblems_neurips2023,HMN-214,HMN-214,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, CC-401",openproblems_neurips2023,CC-401,CC-401,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, CC-401",openproblems_neurips2023,CC-401,CC-401,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Resminostat",openproblems_neurips2023,Resminostat,Resminostat,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Resminostat",openproblems_neurips2023,Resminostat,Resminostat,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Nilotinib",openproblems_neurips2023,Nilotinib,Nilotinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Nilotinib",openproblems_neurips2023,Nilotinib,Nilotinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, OSI-930",openproblems_neurips2023,OSI-930,OSI-930,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, OSI-930",openproblems_neurips2023,OSI-930,OSI-930,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Saracatinib",openproblems_neurips2023,Saracatinib,Saracatinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Saracatinib",openproblems_neurips2023,Saracatinib,Saracatinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, RG7112",openproblems_neurips2023,RG7112,RG7112,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, RG7112",openproblems_neurips2023,RG7112,RG7112,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Lamivudine",openproblems_neurips2023,Lamivudine,Lamivudine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Lamivudine",openproblems_neurips2023,Lamivudine,Lamivudine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, AZD-8330",openproblems_neurips2023,AZD-8330,AZD-8330,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, AZD-8330",openproblems_neurips2023,AZD-8330,AZD-8330,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Ceritinib",openproblems_neurips2023,Ceritinib,Ceritinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Ceritinib",openproblems_neurips2023,Ceritinib,Ceritinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, CGM-097",openproblems_neurips2023,CGM-097,CGM-097,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, CGM-097",openproblems_neurips2023,CGM-097,CGM-097,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, SLx-2119",openproblems_neurips2023,SLx-2119,SLx-2119,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, SLx-2119",openproblems_neurips2023,SLx-2119,SLx-2119,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Nefazodone",openproblems_neurips2023,Nefazodone,Nefazodone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Nefazodone",openproblems_neurips2023,Nefazodone,Nefazodone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, TPCA-1",openproblems_neurips2023,TPCA-1,TPCA-1,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, TPCA-1",openproblems_neurips2023,TPCA-1,TPCA-1,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, MGCD-265",openproblems_neurips2023,MGCD-265,MGCD-265,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, MGCD-265",openproblems_neurips2023,MGCD-265,MGCD-265,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, GSK-1070916",openproblems_neurips2023,GSK-1070916,GSK-1070916,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, GSK-1070916",openproblems_neurips2023,GSK-1070916,GSK-1070916,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Bosutinib",openproblems_neurips2023,Bosutinib,Bosutinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Bosutinib",openproblems_neurips2023,Bosutinib,Bosutinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Clemastine",openproblems_neurips2023,Clemastine,Clemastine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Clemastine",openproblems_neurips2023,Clemastine,Clemastine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, YK 4-279",openproblems_neurips2023,YK 4-279,YK 4-279,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, YK 4-279",openproblems_neurips2023,YK 4-279,YK 4-279,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Buspirone",openproblems_neurips2023,Buspirone,Buspirone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Buspirone",openproblems_neurips2023,Buspirone,Buspirone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, GSK256066",openproblems_neurips2023,GSK256066,GSK256066,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, GSK256066",openproblems_neurips2023,GSK256066,GSK256066,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Vandetanib",openproblems_neurips2023,Vandetanib,Vandetanib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Vandetanib",openproblems_neurips2023,Vandetanib,Vandetanib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Imatinib",openproblems_neurips2023,Imatinib,Imatinib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Imatinib",openproblems_neurips2023,Imatinib,Imatinib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, SCH-58261",openproblems_neurips2023,SCH-58261,SCH-58261,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, SCH-58261",openproblems_neurips2023,SCH-58261,SCH-58261,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Colforsin",openproblems_neurips2023,Colforsin,Colforsin,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Colforsin",openproblems_neurips2023,Colforsin,Colforsin,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Tosedostat",openproblems_neurips2023,Tosedostat,Tosedostat,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Tosedostat",openproblems_neurips2023,Tosedostat,Tosedostat,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, ABT-199 (GDC-0199)",openproblems_neurips2023,ABT-199 (GDC-0199),ABT-199 (GDC-0199),B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, ABT-199 (GDC-0199)",openproblems_neurips2023,ABT-199 (GDC-0199),ABT-199 (GDC-0199),Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Mometasone Furoate",openproblems_neurips2023,Mometasone Furoate,Mometasone Furoate,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Mometasone Furoate",openproblems_neurips2023,Mometasone Furoate,Mometasone Furoate,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Tipifarnib",openproblems_neurips2023,Tipifarnib,Tipifarnib,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Tipifarnib",openproblems_neurips2023,Tipifarnib,Tipifarnib,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Doxorubicin",openproblems_neurips2023,Doxorubicin,Doxorubicin,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Doxorubicin",openproblems_neurips2023,Doxorubicin,Doxorubicin,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, PF-03814735",openproblems_neurips2023,PF-03814735,PF-03814735,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, PF-03814735",openproblems_neurips2023,PF-03814735,PF-03814735,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, AZD4547",openproblems_neurips2023,AZD4547,AZD4547,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, AZD4547",openproblems_neurips2023,AZD4547,AZD4547,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Prednisolone",openproblems_neurips2023,Prednisolone,Prednisolone,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Prednisolone",openproblems_neurips2023,Prednisolone,Prednisolone,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Tacalcitol",openproblems_neurips2023,Tacalcitol,Tacalcitol,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Tacalcitol",openproblems_neurips2023,Tacalcitol,Tacalcitol,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Clotrimazole",openproblems_neurips2023,Clotrimazole,Clotrimazole,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Clotrimazole",openproblems_neurips2023,Clotrimazole,Clotrimazole,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Mubritinib (TAK 165)",openproblems_neurips2023,Mubritinib (TAK 165),Mubritinib (TAK 165),B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Mubritinib (TAK 165)",openproblems_neurips2023,Mubritinib (TAK 165),Mubritinib (TAK 165),Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, Vanoxerine",openproblems_neurips2023,Vanoxerine,Vanoxerine,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, Vanoxerine",openproblems_neurips2023,Vanoxerine,Vanoxerine,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, SB525334",openproblems_neurips2023,SB525334,SB525334,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, SB525334",openproblems_neurips2023,SB525334,SB525334,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"B cells, HYDROXYUREA",openproblems_neurips2023,HYDROXYUREA,HYDROXYUREA,B cells,B cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False
+"Myeloid cells, HYDROXYUREA",openproblems_neurips2023,HYDROXYUREA,HYDROXYUREA,Myeloid cells,Myeloid cells,PBMC,blood,de_test:private_test,not_available_in_de_h5ad,24h,treated,,de_test.h5ad,de_test,private_test,False

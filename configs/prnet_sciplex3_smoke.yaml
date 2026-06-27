@@ -1,0 +1,12 @@
+dataset: sciplex3_24h_top2000
+model_name: prnet_adapted_sciplex3
+requested_seed: 0
+split_type: random
+epochs: 2
+batch_size: 128
+learning_rate: 0.001
+notes: >
+  Smoke-test configuration. The existing split manifest contains seeds 1-30,
+  so the runner uses requested_seed=0 for model initialization and the first
+  available manifest seed for train/test assignment unless seed 0 is later
+  added to the manifest.

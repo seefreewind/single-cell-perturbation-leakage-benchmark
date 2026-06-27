@@ -1,0 +1,10 @@
+sample_id,dataset,drug_id,drug_name,cell_context,cell_type,cell_line,tissue,batch,dose,time,condition,control_sample_id
+S001,example,D001,Aspirin,A549,epithelial,A549,lung,B1,1uM,24h,treated,C001
+S002,example,D001,Aspirin,MCF7,epithelial,MCF7,breast,B1,1uM,24h,treated,C002
+S003,example,D002,Ibuprofen,A549,epithelial,A549,lung,B1,1uM,24h,treated,C001
+S004,example,D002,Ibuprofen,MCF7,epithelial,MCF7,breast,B2,1uM,24h,treated,C002
+S005,example,D003,Imatinib,K562,myeloid,K562,blood,B2,1uM,24h,treated,C003
+S006,example,D003,Imatinib,MCF7,epithelial,MCF7,breast,B2,1uM,24h,treated,C002
+S007,example,D004,Erlotinib,A549,epithelial,A549,lung,B3,1uM,24h,treated,C001
+S008,example,D004,Erlotinib,K562,myeloid,K562,blood,B3,1uM,24h,treated,C003
+

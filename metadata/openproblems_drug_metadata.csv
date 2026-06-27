@@ -1,0 +1,148 @@
+drug_id,drug_name,smiles,inchikey,pubchem_cid,chembl_id,drugbank_id,target,moa,atc_class,compound_id,sm_lincs_id,lincs_pert_id,annotation_source
+Methotrexate,Methotrexate,CN(Cc1cnc2nc(N)nc(N)c2n1)c1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1,,,,,,Dihydrofolate reductase inhibitor,,CY-2003849,LSM-5690,BRD-K59456551,lincs
+Sunitinib,Sunitinib,CCN(CC)CCNC(=O)c1c(C)[nH]c(/C=C2\C(=O)Nc3ccc(F)cc32)c1C,,,,,,RET tyrosine kinase inhibitor,,CY-2004273,LSM-42800,BRD-M64432851,lincs
+BX 912,BX 912,O=C(Nc1cccc(Nc2ncc(Br)c(NCCc3c[nH]cn3)n2)c1)N1CCCC1,,,,,,Pyruvate dehydrogenase kinase inhibitor,,CY-2005229,LSM-1055,BRD-K49669041,lincs
+Perhexiline,Perhexiline,C1CCC(C(CC2CCCCN2)C2CCCCC2)CC1,,,,,,Carnitine palmitoyltransferase inhibitor,,CY-2004467,LSM-4353,BRD-A19633847,lincs
+LDN 193189,LDN 193189,c1ccc2c(-c3cnn4cc(-c5ccc(N6CCNCC6)cc5)cnc34)ccnc2c1,,,,,,Serine/threonine kinase inhibitor,,CY-2003853,LSM-1115,BRD-K04853698,lincs
+Linagliptin,Linagliptin,CC#CCn1c(N2CCC[C@@H](N)C2)nc2c1c(=O)n(Cc1nc(C)c3ccccc3n1)c(=O)n2C,,,,,,Dipeptidyl peptidase inhibitor,,CY-2002150,LSM-45916,BRD-K96550715,lincs
+Palbociclib,Palbociclib,CC(=O)c1c(C)c2cnc(Nc3ccc(N4CCNCC4)cn3)nc2n(C2CCCC2)c1=O,,,,,,CDK inhibitor,,CY-2002162,LSM-1071,BRD-K51313569,lincs
+Ketoconazole,Ketoconazole,CC(=O)N1CCN(c2ccc(OC[C@H]3CO[C@](Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1,,,,,,Sterol demethylase inhibitor,,CY-2004017,LSM-5430,BRD-K29113274,lincs
+Colforsin,Colforsin,C=C[C@@]1(C)CC(=O)[C@]2(O)[C@@]3(C)[C@@H](O)CCC(C)(C)[C@@H]3[C@H](O)[C@H](OC(C)=O)[C@@]2(C)O1,,,,,,Adenylyl cyclase activator,,CY-2005007,LSM-2193,BRD-K09602097,lincs
+Dabrafenib,Dabrafenib,CC(C)(C)c1nc(-c2cccc(NS(=O)(=O)c3c(F)cccc3F)c2F)c(-c2ccnc(N)n2)s1,,,,,,RAF inhibitor,,CY-2002164,LSM-6303,BRD-K09951645,lincs
+BMS-387032,BMS-387032,CC(C)(C)c1cnc(CSc2cnc(NC(=O)C3CCNCC3)s2)o1,,,,,,Cell cycle inhibitor,,CY-2003942,LSM-1132,BRD-K43389698,lincs
+Flutamide,Flutamide,CC(C)C(=O)Nc1ccc([N+](=O)[O-])c(C(F)(F)F)c1,,,,,,Androgen receptor antagonist,,CY-2002133,LSM-2621,BRD-K28307902,lincs
+BI-D1870,BI-D1870,CC(C)CCN1c2nc(Nc3cc(F)c(O)c(F)c3)ncc2N(C)C(=O)C1C,,,,,,Ribosomal protein inhibitor,,CY-2004486,LSM-45220,BRD-A81370665,lincs
+MLN 2238,MLN 2238,CC(C)C[C@H](NC(=O)CNC(=O)c1cc(Cl)ccc1Cl)B(O)O,,,,,,Proteasome inhibitor,,CY-2004177,LSM-4944,BRD-K78659596,lincs
+Tosedostat,Tosedostat,CC(C)C[C@@H](C(=O)N[C@H](C(=O)OC1CCCC1)c1ccccc1)[C@H](O)C(=O)NO,,,,,,Peptidase inhibitor,,CY-2004098,LSM-6286,BRD-K92241597,lincs
+Ceritinib,Ceritinib,Cc1cc(Nc2ncc(Cl)c(Nc3ccccc3S(=O)(=O)C(C)C)n2)c(OC(C)C)cc1C1CCNCC1,,,,,,ALK inhibitor,,CY-2002078,LSM-36374,BRD-K22149900,lincs
+Tacalcitol,Tacalcitol,C=C1/C(=C\C=C2/CCC[C@]3(C)[C@@H]([C@H](C)CC[C@@H](O)C(C)C)CC[C@@H]23)C[C@@H](O)C[C@@H]1O,,,,,,Vitamin D receptor agonist,,CY-2003875,LSM-45518,BRD-K73237276,lincs
+Ganetespib (STA-9090),Ganetespib (STA-9090),CC(C)c1cc(-c2n[nH]c(=O)n2-c2ccc3c(ccn3C)c2)c(O)cc1O,,,,,,HSP inhibitor,,CY-2006042,LSM-45281,BRD-K38852836,lincs
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Cc1nc2c(-c3cnc(N)nc3)nc(N3CCOCC3)nc2n1C(C)C,,,,,,PI3K inhibitor,,CY-2006960,LSM-47134,BRD-K98795921,lincs
+Navitoclax,Navitoclax,CC1(C)CCC(c2ccc(Cl)cc2)=C(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(N[C@H](CCN5CCOCC5)CSc5ccccc5)c(S(=O)(=O)C(F)(F)F)c4)cc3)CC2)C1,,,,,,BCL inhibitor,,CY-2004067,LSM-4738,BRD-K82746043,lincs
+Nefazodone,Nefazodone,CCc1nn(CCCN2CCN(c3cccc(Cl)c3)CC2)c(=O)n1CCOc1ccccc1,,,,,,Norepinephrine reuptake inhibitor,,CY-2005060,LSM-4031,BRD-K90789829,lincs
+Phenylbutazone,Phenylbutazone,CCCCC1C(=O)N(c2ccccc2)N(c2ccccc2)C1=O,,,,,,Prostanoid receptor antagonist,,CY-2005036,LSM-2219,BRD-K10843433,lincs
+Amiodarone,Amiodarone,CCCCc1oc2ccccc2c1C(=O)c1cc(I)c(OCCN(CC)CC)c(I)c1,,,,,,Potassium channel blocker,,CY-2004113,LSM-2379,BRD-K17561142,lincs
+Vardenafil,Vardenafil,CCCc1nc(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(CC)CC4)ccc3OCC)nn12,,,,,,Phosphodiesterase inhibitor,,CY-2002159,LSM-2292,BRD-K13926615,lincs
+Disulfiram,Disulfiram,CCN(CC)C(=S)SSC(=S)N(CC)CC,,,,,,Aldehyde dehydrogenase inhibitor,,CY-2002158,LSM-5467,BRD-K32744045,lincs
+BMS-777607,BMS-777607,CCOc1ccn(-c2ccc(F)cc2)c(=O)c1C(=O)Nc1ccc(Oc2ccnc(N)c2Cl)c(F)c1,,,,,,Hepatocyte growth factor receptor inhibitor,,CY-2004137,LSM-1144,BRD-K40738845,lincs
+Topotecan,Topotecan,CC[C@@]1(O)C(=O)OCc2c1cc1n(c2=O)Cc2cc3c(CN(C)C)c(O)ccc3nc2-1,,,,,,Topoisomerase inhibitor,,CY-2006883,LSM-5662,BRD-K55696337,lincs
+UNII-BXU45ZH6LI,UNII-BXU45ZH6LI,CCc1ccc(OCc2ccccc2C(=O)Nc2ccc3nc(C)cc(N)c3c2)cc1,,,,,,Opioid receptor antagonist,,CY-2004151,LSM-2382,BRD-K17705806,lincs
+GSK-1070916,GSK-1070916,CCn1cc(-c2ccnc3[nH]c(-c4cccc(CN(C)C)c4)cc23)c(-c2ccc(NC(=O)N(C)C)cc2)n1,,,,,,Aurora kinase inhibitor,,CY-2003970,LSM-1062,BRD-K36740062,lincs
+Clomipramine,Clomipramine,CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21,,,,,,SERT inhibitor,,CY-2005051,LSM-3171,BRD-K52989797,lincs
+Resminostat,Resminostat,CN(C)Cc1ccc(S(=O)(=O)n2ccc(/C=C/C(=O)NO)c2)cc1,,,,,,HDAC inhibitor,,CY-2003171,LSM-45663,BRD-K28822270,lincs
+Trametinib,Trametinib,CC(=O)Nc1cccc(-n2c(=O)n(C3CC3)c(=O)c3c(Nc4ccc(I)cc4F)n(C)c(=O)c(C)c32)c1,,,,,,MEK inhibitor,,CY-2002138,LSM-1143,BRD-K12343256,lincs
+Tipifarnib,Tipifarnib,Cn1cncc1[C@@](N)(c1ccc(Cl)cc1)c1ccc2c(c1)c(-c1cccc(Cl)c1)cc(=O)n2C,,,,,,Farnesyltransferase inhibitor,,CY-2006559,LSM-6258,BRD-K62965247,lincs
+Clemastine,Clemastine,CN1CCC[C@@H]1CCO[C@](C)(c1ccccc1)c1ccc(Cl)cc1,,,,,,Histamine receptor antagonist,,CY-2006908,LSM-2655,BRD-K30240666,lincs
+Dovitinib,Dovitinib,CN1CCN(c2ccc3[nH]c(-c4c(N)c5c(F)cccc5[nH]c4=O)nc3c2)CC1,,,,,,FGFR inhibitor,,CY-2004179,LSM-1127,BRD-K85402309,lincs
+Saracatinib,Saracatinib,CN1CCN(CCOc2cc(OC3CCOCC3)c3c(Nc4c(Cl)ccc5c4OCO5)ncnc3c2)CC1,,,,,,Src inhibitor,,CY-2003983,LSM-1032,BRD-U07805514,lincs
+Imatinib,Imatinib,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cccnc2)n1,,,,,,Abl kinase inhibitor,,CY-2006848,LSM-1023,BRD-K92723993,lincs
+Defactinib,Defactinib,CNC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(NCc3nccnc3N(C)S(C)(=O)=O)n2)cc1,,,,,,Focal adhesion kinase inhibitor,,CY-2005195,LSM-45153,BRD-K43578482,lincs
+Protriptyline,Protriptyline,CNCCCC1c2ccccc2C=Cc2ccccc21,,,,,,Tricyclic antidepressant,,CY-2005039,LSM-2936,BRD-K42098891,lincs
+Riociguat,Riociguat,COC(=O)N(C)c1c(N)nc(-c2nn(Cc3ccccc3F)c3ncccc23)nc1N,,,,,,Guanylate cyclase stimulant,,CY-2010015,LSM-45758,BRD-K84783599,lincs
+AVL-292,AVL-292,C=CC(=O)Nc1cccc(Nc2nc(Nc3ccc(OCCOC)cc3)ncc2F)c1,,,,,,BTK inhibitor,,CY-2004136,LSM-45948,BRD-K87782578,lincs
+Midostaurin,Midostaurin,CO[C@@H]1[C@H](N(C)C(=O)c2ccccc2)C[C@H]2O[C@]1(C)n1c3ccccc3c3c4c(c5c6ccccc6n2c5c31)C(=O)NC4,,,,,,PKC inhibitor,,CY-2004186,LSM-2287,BRD-K13646352,lincs
+Tamatinib,Tamatinib,COc1cc(Nc2ncc(F)c(Nc3ccc4c(n3)NC(=O)C(C)(C)O4)n2)cc(OC)c1OC,,,,,,Syk inhibitor,,CY-2004091,LSM-1040,BRD-K20285085,lincs
+GW843682X,GW843682X,COc1cc2ncn(-c3cc(OCc4ccccc4C(F)(F)F)c(C(N)=O)s3)c2cc1OC,,,,,,PLK inhibitor,,CY-2004084,LSM-1014,BRD-K90382497,lincs
+YK 4-279,YK 4-279,COc1ccc(C(=O)CC2(O)C(=O)Nc3c(Cl)ccc(Cl)c32)cc1,,,,,,Binding of RNA helicase A to the transcription factor EWS-FLI1 inhibitor,,CY-2005853,LSM-4933,BRD-A62182663,lincs
+Lapatinib,Lapatinib,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,,,,,,ErbB2 inhibitor,,CY-2002153,LSM-1051,BRD-M07438658,lincs
+Mometasone Furoate,Mometasone Furoate,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(Cl)[C@@H](O)C[C@]2(C)[C@@]1(OC(=O)c1ccco1)C(=O)CCl,,,,,,Glucocorticoid receptor agonist,,CY-2001479,LSM-3349,BRD-K60640630,lincs
+Ixabepilone,Ixabepilone,C/C(=C\c1csc(C)n1)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1,,,,,,Microtubule stabilizing agent,,CY-2002323,LSM-43293,BRD-K03601870,lincs
+BMS-536924,BMS-536924,Cc1cc(N2CCOCC2)cc2[nH]c(-c3c(NC[C@@H](O)c4cccc(Cl)c4)cc[nH]c3=O)nc12,,,,,,IGF-1 inhibitor,,CY-2004297,LSM-1210,BRD-K34581968,lincs
+BAY 87-2243,BAY 87-2243,Cc1cc(-c2nc(-c3ccc(OC(F)(F)F)cc3)no2)nn1Cc1ccnc(N2CCN(C3CC3)CC2)c1,,,,,,HIF inhibitor,,CY-2005709,LSM-45786,BRD-K70463136,lincs
+SB525334,SB525334,Cc1cccc(-c2[nH]c(C(C)(C)C)nc2-c2ccc3nccnc3c2)n1,,,,,,TGF beta receptor inhibitor,,CY-2004135,LSM-1121,BRD-K37720887,lincs
+RG7090,RG7090,Cc1nc(C#Cc2ccnc(Cl)c2)c(C)n1-c1ccc(F)cc1,,,,,,Glutamate receptor antagonist,,CY-2006505,LSM-45680,BRD-K62387885,lincs
+Dasatinib,Dasatinib,Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1,,,,,,Ephrin inhibitor,,CY-2002134,LSM-1020,BRD-K49328571,lincs
+Clotrimazole,Clotrimazole,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,,,,,,Cytochrome P450 inhibitor,,CY-2001469,LSM-5341,BRD-K15916496,lincs
+Mubritinib (TAK 165),Mubritinib (TAK 165),FC(F)(F)c1ccc(/C=C/c2nc(COc3ccc(CCCCn4ccnn4)cc3)co2)cc1,,,,,,Receptor tyrosine protein kinase inhibitor,,CY-2004591,LSM-45710,BRD-K19061412,lincs
+Vanoxerine,Vanoxerine,Fc1ccc(C(OCCN2CCN(CCCc3ccccc3)CC2)c2ccc(F)cc2)cc1,,,,,,Dopamine uptake inhibitor,,CY-2004172,LSM-2703,BRD-K32501161,lincs
+HYDROXYUREA,HYDROXYUREA,NC(O)=NO,,,,,,Ribonucleoside reductase inhibitor,,CY-2004056,LSM-45988,BRD-K51747290,lincs
+TPCA-1,TPCA-1,NC(=O)Nc1sc(-c2ccc(F)cc2)cc1C(N)=O,,,,,,IKK inhibitor,,CY-2004162,LSM-1136,BRD-K51575138,lincs
+Isoniazid,Isoniazid,NNC(=O)c1ccncc1,,,,,,Enoyl-acyl-carrier protein reductase inhibitor,,CY-2003969,LSM-46042,BRD-K87202646,lincs
+Pomalidomide,Pomalidomide,Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O,,,,,,Tumor necrosis factor production inhibitor,,CY-2004984,LSM-45637,BRD-A12994259,lincs
+SCH-58261,SCH-58261,Nc1nc2c(cnn2CCc2ccccc2)c2nc(-c3ccco3)nn12,,,,,,Adenosine receptor antagonist,,CY-2005239,LSM-3822,BRD-K81225797,lincs
+Porcn Inhibitor III,Porcn Inhibitor III,O=C(CSc1nc2c(c(=O)n1-c1ccccc1)SCC2)Nc1ccc(-c2ccccc2)cn1,,,,,,Porcupine inhibitor,,CY-2004073,LSM-47425,BRD-K53234107,lincs
+FK 866,FK 866,O=C(/C=C/c1cccnc1)NCCCCC1CCN(C(=O)c2ccccc2)CC1,,,,,,Niacinamide phosphoribosyltransferase inhibitor,,CY-2004500,LSM-43216,BRD-K58550667,lincs
+GLPG0634,GLPG0634,O=C(Nc1nc2cccc(-c3ccc(CN4CCS(=O)(=O)CC4)cc3)n2n1)C1CC1,,,,,,JAK inhibitor,,CY-2005207,LSM-45924,BRD-K16803204,lincs
+Buspirone,Buspirone,O=C1CC2(CCCC2)CC(=O)N1CCCCN1CCN(c2ncccn2)CC1,,,,,,Serotonin receptor agonist,,CY-2005049,LSM-4105,BRD-K93461745,lincs
+O-Demethylated Adapalene,O-Demethylated Adapalene,O=C(O)c1ccc2cc(-c3ccc(O)c(C45CC6CC(CC(C6)C4)C5)c3)ccc2c1,,,,,,Retinoid receptor agonist,,CY-2005830,LSM-6237,BRD-K28907958,lincs
+PD-0325901,PD-0325901,O=C(NOC[C@H](O)CO)c1ccc(F)c(F)c1Nc1ccc(I)cc1F,,,,,,Protein kinase inhibitor,,CY-2003964,LSM-1101,BRD-K49865102,lincs
+Pitavastatin Calcium,Pitavastatin Calcium,O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(C2CC2)nc2ccccc2c1-c1ccc(F)cc1,,,,,,HMGCR inhibitor,,CY-2006460,LSM-45806,BRD-K30097969,lincs
+Raloxifene,Raloxifene,O=C(c1ccc(OCCN2CCCCC2)cc1)c1c(-c2ccc(O)cc2)sc2cc(O)ccc12,,,,,,Selective estrogen receptor modulator,,CY-2002145,LSM-3425,BRD-K63828191,lincs
+Proscillaridin A;Proscillaridin-A,Proscillaridin A;Proscillaridin-A,C[C@@H]1O[C@@H](O[C@@H]2C=C3CC[C@@H]4[C@H](CC[C@]5(C)[C@@H](c6ccc(=O)oc6)CC[C@]45O)[C@@]3(C)CC2)[C@H](O)[C@H](O)[C@H]1O,,,,,,unknown,,CY-2002189,LSM-1476;LSM-5290,,andrew
+IN1451,IN1451,Nc1ncnc2c1c(I)cn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O,,,,,,Adenosine kinase inhibitor,,CY-2002193,LSM-4349,,andrew
+RG7112,RG7112,CCOc1cc(C(C)(C)C)ccc1C1=N[C@@](C)(c2ccc(Cl)cc2)[C@@](C)(c2ccc(Cl)cc2)N1C(=O)N1CCN(CCCS(C)(=O)=O)CC1,,,,,,MDM2 inhibitor,,CY-2002778,LSM-47459,,andrew
+Colchicine,Colchicine,COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2,,,,,,unknown,,CY-2003881,LSM-5199,,andrew
+Oprozomib (ONX 0912),Oprozomib (ONX 0912),COC[C@H](NC(=O)c1cnc(C)s1)C(=O)N[C@@H](COC)C(=O)N[C@@H](Cc1ccccc1)C(=O)[C@@]1(C)CO1,,,,,,Proteasome inhibitor,,CY-2006330,LSM-45496,,andrew
+CC-401,CC-401,c1cc(OCCN2CCCCC2)cc(-c2[nH]nc3ccc(-c4nc[nH]n4)cc23)c1,,,,,,JNK inhibitor,,CY-2003986,LSM-1186,BRD-K45746021,andrew
+AZD3514,AZD3514,CC(=O)N1CCN(CCOc2ccc(C3CCN(C4=Nn5c(nnc5C(F)(F)F)CC4)CC3)cc2)CC1,,,,,,Androgen receptor inhibitor,,CY-2004166,LSM-45831,BRD-K84996356,andrew
+PF-03814735,PF-03814735,CC(=O)NCC(=O)N1[C@@H]2CC[C@H]1c1ccc(Nc3ncc(C(F)(F)F)c(NC4CCC4)n3)cc12,,,,,,Aurora kinase inhibitor,,CY-2004173,LSM-45437,BRD-K68747584,andrew
+Quizartinib,Quizartinib,CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1,,,,,,FLT3 inhibitor,,CY-2004145,LSM-1037,BRD-K93918653,andrew
+CEP-18770 (Delanzomib),CEP-18770 (Delanzomib),CC(C)C[C@H](NC(=O)[C@@H](NC(=O)c1cccc(-c2ccccc2)n1)[C@@H](C)O)B(O)O,,,,,,Proteasome inhibitor,,CY-2002745,LSM-45410,BRD-K59325863,andrew
+SLx-2119,SLx-2119,CC(C)NC(=O)COc1cccc(-c2nc(Nc3ccc4[nH]ncc4c3)c3ccccc3n2)c1,,,,,,ROCK inhibitor,,CY-2006142,LSM-45630,BRD-K88506063,andrew
+Atorvastatin,Atorvastatin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CC[C@@H](O)C[C@@H](O)CC(=O)O,,,,,,HMGCR inhibitor,,CY-2010008,LSM-5771,BRD-M13639915,andrew
+AT13387,AT13387,CC(C)c1cc(C(=O)N2Cc3ccc(CN4CCN(C)CC4)cc3C2)c(O)cc1O,,,,,,HSP inhibitor,,CY-2006490,LSM-45514,BRD-K58435339,andrew
+TGX 221,TGX 221,Cc1cc(C(C)Nc2ccccc2)c2nc(N3CCOCC3)cc(=O)n2c1,,,,,,PI3K inhibitor,,CY-2008230,LSM-1172,BRD-A41692738,andrew
+ABT-199 (GDC-0199),ABT-199 (GDC-0199),CC1(C)CCC(CN2CCN(c3ccc(C(=O)NS(=O)(=O)c4ccc(NCC5CCOCC5)c([N+](=O)[O-])c4)c(Oc4cnc5[nH]ccc5c4)c3)CC2)=C(c2ccc(Cl)cc2)C1,,,,,,BCL inhibitor,,CY-2002139,LSM-45468,BRD-K62391742,andrew
+STK219801,STK219801,CC1=NN(c2ccc(C(=O)O)cc2)C(=O)/C1=C/c1ccc(-c2cc(C)c(C)cc2[N+](=O)[O-])o1,,,,,,unknown,,CY-2004196,LSM-43281,C646,andrew
+BMS-265246,BMS-265246,CCCCOc1c(C(=O)c2c(F)cc(C)cc2F)cnc2[nH]ncc12,,,,,,CDK inhibitor,,CY-2006549,LSM-46203,BRD-K62814476,andrew
+Idelalisib,Idelalisib,CC[C@H](Nc1ncnc2[nH]cnc12)c1nc2cccc(F)c2c(=O)n1-c1ccccc1,,,,,,PI3K inhibitor,,CY-2002066,LSM-1205,BRD-K60866521,andrew
+Chlorpheniramine,Chlorpheniramine,CN(C)CCC(c1ccc(Cl)cc1)c1ccccn1,,,,,,H1 receptor antagonist,,CY-2004153,LSM-1263,BRD-A04553218,andrew
+ABT737,ABT737,CN(C)CC[C@H](CSc1ccccc1)Nc1ccc(S(=O)(=O)NC(=O)c2ccc(N3CCN(Cc4ccccc4-c4ccc(Cl)cc4)CC3)cc2)cc1[N+](=O)[O-],,,,,,BCL inhibitor,,CY-2005161,LSM-1180,BRD-K56301217,andrew
+AZD-8330,AZD-8330,Cc1cc(C(=O)NOCCO)c(Nc2ccc(I)cc2F)n(C)c1=O,,,,,,MEK inhibitor,,CY-2004106,LSM-1165,BRD-K37687095,andrew
+Alogliptin,Alogliptin,Cn1c(=O)cc(N2CCC[C@@H](N)C2)n(Cc2ccccc2C#N)c1=O,,,,,,DPP-4 inhibitor,,CY-2005055,LSM-46889,BRD-K83003151,andrew
+Dactolisib,Dactolisib,Cn1c(=O)n(-c2ccc(C(C)(C)C#N)cc2)c2c3cc(-c4cnc5ccccc5c4)ccc3ncc21,,,,,,PI3K inhibitor,,CY-2005166,LSM-4255,BRD-K12184916,andrew
+AZ628,AZ628,Cc1ccc(NC(=O)c2cccc(C(C)(C)C#N)c2)cc1Nc1ccc2ncn(C)c(=O)c2c1,,,,,,RAF inhibitor,,CY-2004163,LSM-1050,BRD-K05804044,andrew
+RN-486,RN-486,CN1CCN(c2ccc(Nc3cc(-c4cccc(-n5ccc6cc(C7CC7)cc(F)c6c5=O)c4CO)cn(C)c3=O)nc2)CC1,,,,,,BTK inhibitor,,CY-2004111,LSM-47132,BRD-K10916705,andrew
+Masitinib,Masitinib,Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nc(-c2cccnc2)cs1,,,,,,Tyrosine-kinase inhibitor,,CY-2003976,LSM-1130,BRD-K71035033,andrew
+Alvocidib,Alvocidib,CN1CC[C@H](c2c(O)cc(O)c3c(=O)cc(-c4ccccc4Cl)oc23)[C@H](O)C1,,,,,,CDK inhibitor,,CY-2003842,LSM-1011,BRD-K87909389,andrew
+CEP-37440,CEP-37440,CNC(=O)c1ccccc1Nc1nc(Nc2ccc3c(c2OC)CCC[C@H](N2CCN(CCO)CC2)C3)ncc1Cl,,,,,,ALK/FAK inhibitor,,CY-2004160,LSM-45849,BRD-K72827473,andrew
+AZD4547,AZD4547,COc1cc(CCc2cc(NC(=O)c3ccc(N4C[C@@H](C)N[C@@H](C)C4)cc3)[nH]n2)cc(OC)c1,,,,,,FGFR inhibitor,,CY-2004139,LSM-6308,BRD-K28392481,andrew
+Bosutinib,Bosutinib,COc1cc(Nc2c(C#N)cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)c(Cl)cc1Cl,,,,,,Bcr-Abl tyrosine-kinase inhibitor,,CY-2002073,LSM-1190,BRD-K99964838,andrew
+K-02288,K-02288,COc1cc(-c2cc(-c3cccc(O)c3)cnc2N)cc(OC)c1OC,,,,,,BMP inhibitor,,CY-2004183,LSM-47120,BRD-K58568447,andrew
+CGM-097,CGM-097,COc1cc2c(cc1OC(C)C)[C@H](c1ccc(Cl)cc1)N(c1ccc(N(C)C[C@H]3CC[C@H](N4CCN(C)C(=O)C4)CC3)cc1)C(=O)C2,,,,,,MDM2 inhibitor,,CY-2006975,LSM-47602,BRD-K79584249,andrew
+RVX-208,RVX-208,COc1cc(OC)c2c(=O)[nH]c(-c3cc(C)c(OCCO)c(C)c3)nc2c1,,,,,,BET inhibitor,,CY-2004126,LSM-45724,BRD-K20001883,andrew
+Vandetanib,Vandetanib,COc1cc2c(Nc3ccc(Br)cc3F)ncnc2cc1OCC1CCN(C)CC1,,,,,,VEGFR/EGFR/RET-tyrosine kinase inhibitor,,CY-2002069,LSM-1199,BRD-K77625799,andrew
+Foretinib,Foretinib,COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1,,,,,,c-Met/VEGFR2 inhibitor,,CY-2004142,LSM-1158,BRD-K03449891,andrew
+I-BET151,I-BET151,COc1cc2c(cc1-c1c(C)noc1C)ncc1[nH]c(=O)n([C@H](C)c3ccccn3)c12,,,,,,BET inhibitor,,CY-2004190,LSM-6335,BRD-K36363294,andrew
+Cabozantinib,Cabozantinib,COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC,,,,,,c-Met/VEGFR2 inhibitor,,CY-2002131,LSM-1195,BRD-K51544265,andrew
+Tivozanib,Tivozanib,COc1cc2nccc(Oc3ccc(NC(=O)Nc4cc(C)on4)c(Cl)c3)c2cc1OC,,,,,,VEGFR inhibtor,,CY-2004144,LSM-1005,BRD-K53414658,andrew
+Oxybenzone,Oxybenzone,COc1ccc(C(=O)c2ccccc2)c(O)c1,,,,,,unknown,,CY-2002140,LSM-3309,BRD-K59037100,andrew
+Sgc-cbp30,Sgc-cbp30,COc1ccc(CCc2nc3cc(-c4c(C)noc4C)ccc3n2C[C@H](C)N2CCOCC2)cc1Cl,,,,,,CREBBP/EP300 inhibitor,,CY-2005227,LSM-47437,BRD-K24821794,andrew
+HMN-214,HMN-214,COc1ccc(S(=O)(=O)N(C(C)=O)c2ccccc2/C=C/c2cc[n+]([O-])cc2)cc1,,,,,,PLK inhibitor,,CY-2004133,LSM-42802,BRD-K70511574,andrew
+BAY 61-3606,BAY 61-3606,COc1ccc(-c2cc3nccn3c(Nc3ncccc3C(N)=O)n2)cc1OC,,,,,,Syk inhibitor,,CY-2004058,LSM-1167,BRD-K53281329,andrew
+PF-04691502,PF-04691502,COc1ccc(-c2cc3c(C)nc(N)nc3n([C@H]3CC[C@H](OCCO)CC3)c2=O)cn1,,,,,,PI3K inhibitor,,CY-2005196,LSM-45239,BRD-K07310275,andrew
+TIE2 Kinase Inhibitor,TIE2 Kinase Inhibitor,COc1ccc2cc(-c3[nH]c(-c4ccc([S+](C)[O-])cc4)nc3-c3ccncc3)ccc2c1,,,,,,Tie2 inhibitor,,CY-2003953,LSM-1194,BRD-A92800748,andrew
+GSK256066,GSK256066,COc1cccc(Nc2c(C(N)=O)cnc3c(C)cc(S(=O)(=O)c4cccc(C(=O)N(C)C)c4)cc23)c1,,,,,,PDE inhibitor,,CY-2004100,LSM-45984,BRD-K37590257,andrew
+TR-14035,TR-14035,COc1cccc(OC)c1-c1ccc(C[C@H](NC(=O)c2c(Cl)cccc2Cl)C(=O)O)cc1,,,,,,Integrin antagonist,,CY-2006474,LSM-45616,BRD-K24968862,andrew
+Doxorubicin,Doxorubicin,COc1cccc2c1C(=O)c1c(O)c3c(c(O)c1C2=O)C[C@@](O)(C(=O)CO)C[C@@H]3O[C@H]1C[C@H](N)[C@H](O)[C@H](C)O1,,,,,,unknown,,CY-2004927,LSM-4062,BRD-K61468417,andrew
+Crizotinib,Crizotinib,C[C@@H](Oc1cc(-c2cnn(C3CCNCC3)c2)cnc1N)c1c(Cl)ccc(F)c1Cl,,,,,,ALK/ROS1 inhibitor,,CY-2002129,LSM-1027,BRD-K78431006,andrew
+Prednisolone,Prednisolone,C[C@]12C=CC(=O)C=C1CC[C@@H]1[C@@H]2[C@@H](O)C[C@@]2(C)[C@H]1CC[C@]2(O)C(=O)CO,,,,,,Glucocorticoid receptor agonist,,CY-2004085,LSM-24954,BRD-K98039984,andrew
+CHIR-99021,CHIR-99021,Cc1cnc(-c2cnc(NCCNc3ccc(C#N)cn3)nc2-c2ccc(Cl)cc2Cl)[nH]1,,,,,,GSK3 inhibitor,,CY-2006496,LSM-1181,BRD-K76894938,andrew
+Nilotinib,Nilotinib,Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1,,,,,,Bcr-Abl tyrosine-kinase inhibitor,,CY-2005187,LSM-1099,BRD-K81528515,andrew
+TL_HRAS26,TL_HRAS26,Cc1onc(C(=O)N2CCN(C(c3ccc(Cl)cc3)c3ccc(Cl)cc3)CC2)c1[N+](=O)[O-],,,,,,unknown,,CY-2003939,LSM-2013,BRD-K01877528,andrew
+AT 7867,AT 7867,Clc1ccc(C2(c3ccc(-c4cn[nH]c4)cc3)CCNCC2)cc1,,,,,,AKT/p70S6K inhibitor,,CY-2004204,LSM-1155,BRD-K12040459,andrew
+Desloratadine,Desloratadine,Clc1ccc2c(c1)CCc1cccnc1C2=C1CCNCC1,,,,,,H1 receptor antagonist,,CY-2006439,LSM-5887,BRD-K82357231,andrew
+GO-6976,GO-6976,Cn1c2ccccc2c2c3c(c4c5ccccc5n(CCC#N)c4c21)CNC3=O,,,,,,PKC inhibitor,,CY-2004127,LSM-1211,BRD-K59304176,andrew
+MGCD-265,MGCD-265,Cn1cnc(-c2cc3nccc(Oc4ccc(NC(=S)NC(=O)Cc5ccccc5)cc4F)c3s2)c1,,,,,,unknown,,CY-2004101,LSM-1124,BRD-K56277358,andrew
+Selumetinib,Selumetinib,Cn1cnc2c(F)c(Nc3ccc(Br)cc3Cl)c(C(=O)NOCCO)cc21,,,,,,MEK inhibitor,,CY-2002137,LSM-1056,BRD-K57080016,andrew
+OSI-930,OSI-930,O=C(Nc1ccc(OC(F)(F)F)cc1)c1sccc1NCc1ccnc2ccccc12,,,,,,unknown,,CY-2004164,LSM-1179,BRD-K25340465,andrew
+LY2090314,LY2090314,O=C1NC(=O)C(c2cnc3ccccn23)=C1c1cn2c3c(cc(F)cc13)CN(C(=O)N1CCCCC1)CC2,,,,,,GSK3 inhibitor,,CY-2003847,LSM-45915,BRD-K78055238,andrew
+Canertinib,Canertinib,C=CC(=O)Nc1cc2c(Nc3ccc(F)c(Cl)c3)ncnc2cc1OCCCN1CCOCC1,,,,,,unknown,,CY-2002156,LSM-1120,BRD-K50168500,andrew
+Ruxolitinib,Ruxolitinib,N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1,,,,,,JAK inhibitor,,CY-2005466,LSM-1139,BRD-K19601669,andrew
+Lamivudine,Lamivudine,Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1,,,,,,HIV reverse transcriptase inhibitor,,CY-2002127,LSM-5215,BRD-K02992638,andrew
+Azacitidine,Azacitidine,Nc1ncn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)n1,,,,,,DNA methylation inhibitor,,CY-2010001,LSM-5218,BRD-K03406345,andrew
+Decitabine,Decitabine,Nc1ncn([C@H]2C[C@H](O)[C@@H](CO)O2)c(=O)n1,,,,,,DNA methylation inhibitor,,CY-2003993,LSM-5855,BRD-K79254416,andrew
+AMD-070 (hydrochloride),AMD-070 (hydrochloride),NCCCCN(Cc1nc2ccccc2[nH]1)[C@H]1CCCc2cccnc21,,,,,,CXCR4 antagonist,,CY-2006539,LSM-45591,BRD-K42948882,andrew
+PRT-062607,PRT-062607,NC(=O)c1cnc(N[C@@H]2CCCC[C@@H]2N)nc1Nc1cccc(-n2nccn2)c1,,,,,,Syk inhibitor,,CY-2004201,LSM-46971,BRD-K53734668,andrew
+R428,R428,Nc1nc(Nc2ccc3c(c2)CC[C@@H](N2CCCC2)CC3)nn1-c1cc2c(nn1)-c1ccccc1CCC2,,,,,,AXL inhibitor,,CY-2003916,LSM-45574,BRD-K14870255,andrew
+IKK Inhibitor VII,IKK Inhibitor VII,O=C(c1ccc(Nc2nccc(-c3cc4ccccc4s3)n2)cc1)N1CCC(N2CCCC2)CC1,,,,,,IKK inhibitor,,CY-2004150,LSM-2309,BRD-K14618467,andrew
+Tivantinib,Tivantinib,O=C1NC(=O)[C@@H](c2cn3c4c(cccc24)CCC3)[C@@H]1c1c[nH]c2ccccc12,,,,,,c-Met inhibitor,,CY-2004155,LSM-1131,BRD-K33379087,andrew
+MK-5108,MK-5108,O=C(O)[C@]1(Cc2cccc(Nc3nccs3)n2)CC[C@@H](Oc2cccc(Cl)c2F)CC1,,,,,,Aurora kinase inhibitor,,CY-2003148,LSM-36812,BRD-K53665955,andrew
+Penfluridol,Penfluridol,OC1(c2ccc(Cl)c(C(F)(F)F)c2)CCN(CCCC(c2ccc(F)cc2)c2ccc(F)cc2)CC1,,,,,,unknown,,CY-2004287,LSM-2334,BRD-K15409150,andrew
+CGP 60474,CGP 60474,OCCCNc1cc(-c2ccnc(Nc3cccc(Cl)c3)n2)ccn1,,,,,,CDK inhibitor,,CY-2003952,LSM-1025,BRD-K79090631,andrew
+Vorinostat,Vorinostat,O=C(CCCCCCC(=O)Nc1ccccc1)NO,,,,,,HDAC inhibitor,,CY-2002142,LSM-3828,SAHA,andrew
+Ricolinostat,Ricolinostat,O=C(CCCCCCNC(=O)c1cnc(N(c2ccccc2)c2ccccc2)nc1)NO,,,,,,HDAC inhibitor,,CY-2002163,LSM-6324,BRD-K82928847,andrew
+Scriptaid,Scriptaid,O=C1c2cccc3cccc(c23)C(=O)N1CCCCCC(O)=NO,,,,,,HDAC inhibitor,,CY-2004129,LSM-2499,BRD-K22503835,andrew
+Belinostat,Belinostat,O=C(/C=C/c1cccc(S(=O)(=O)Nc2ccccc2)c1)NO,,,,,,HDAC inhibitor,,CY-2004125,LSM-43181,BRD-K07781811,andrew
+IMD-0354,IMD-0354,O=C(Nc1cc(C(F)(F)F)cc(C(F)(F)F)c1)c1cc(Cl)ccc1O,,,,,,IKK inhibitor,,CY-2003839,LSM-3667,BRD-K74305673,andrew
+Dimethyl Sulfoxide,Dimethyl Sulfoxide,C[S+](C)[O-],,,,,,,,CY-2003980,LSM-36361,BRD-K08970894,andrew

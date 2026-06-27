@@ -1,0 +1,50 @@
+split,baseline,mean_rank,sd_rank,mean_score,sd_score,n_seeds,dataset,split_label,baseline_label
+split_cell_heldout,ridge_drug_fp,1.6,0.4982728791224398,0.1349158085151763,0.0290112171324092,30,Sci-Plex 3,"Cell
+held-out",Ridge drug FP
+split_cell_heldout,drug_mean,1.8,0.7611243951073873,0.1346002064699959,0.0280203870747637,30,Sci-Plex 3,"Cell
+held-out",Drug mean
+split_cell_heldout,ridge_cell_dose_drug_fp,2.6,0.8136762043449723,0.1326306904101603,0.0305659648631639,30,Sci-Plex 3,"Cell
+held-out",Ridge cell+dose+drug FP
+split_cell_heldout,cell_context_mean,4.0,0.0,0.0763536922596687,0.0216500597135567,30,Sci-Plex 3,"Cell
+held-out",Cell mean
+split_cell_heldout,cell_dose_mean,4.0,0.0,0.0763536922596687,0.0216500597135567,30,Sci-Plex 3,"Cell
+held-out",Cell+dose mean
+split_cell_heldout,global_train_mean,4.0,0.0,0.0763536922596687,0.0216500597135567,30,Sci-Plex 3,"Cell
+held-out",Global mean
+split_cell_heldout,ridge_cell_dose,7.0,0.0,0.0719615674016422,0.0243047621538378,30,Sci-Plex 3,"Cell
+held-out",Ridge cell+dose
+split_cell_scaffold_heldout,cell_context_mean,1.1333333333333333,0.4341724854553047,0.0755333673474889,0.0255544650194393,30,Sci-Plex 3,"Cell + scaffold
+held-out",Cell mean
+split_cell_scaffold_heldout,cell_dose_mean,1.1333333333333333,0.4341724854553047,0.0755333673474889,0.0255544650194393,30,Sci-Plex 3,"Cell + scaffold
+held-out",Cell+dose mean
+split_cell_scaffold_heldout,drug_mean,1.1333333333333333,0.4341724854553047,0.0755333673474889,0.0255544650194393,30,Sci-Plex 3,"Cell + scaffold
+held-out",Drug mean
+split_cell_scaffold_heldout,global_train_mean,1.1333333333333333,0.4341724854553047,0.0755333673474889,0.0255544650194393,30,Sci-Plex 3,"Cell + scaffold
+held-out",Global mean
+split_cell_scaffold_heldout,ridge_cell_dose,5.0,1.2865350418053538,0.0709431868209175,0.0275293517370873,30,Sci-Plex 3,"Cell + scaffold
+held-out",Ridge cell+dose
+split_cell_scaffold_heldout,ridge_cell_dose_drug_fp,5.966666666666667,1.0333518722845685,0.0596765729705951,0.0246187653134774,30,Sci-Plex 3,"Cell + scaffold
+held-out",Ridge cell+dose+drug FP
+split_cell_scaffold_heldout,ridge_drug_fp,6.5,1.0422125006694771,0.0582223141944604,0.0233747338353739,30,Sci-Plex 3,"Cell + scaffold
+held-out",Ridge drug FP
+split_random,ridge_cell_dose_drug_fp,1.0,0.0,0.2915578848941759,0.0077441364796479,30,Sci-Plex 3,Random,Ridge cell+dose+drug FP
+split_random,cell_dose_mean,2.4,0.7239737088005909,0.2476349766288948,0.0077026873816787,30,Sci-Plex 3,Random,Cell+dose mean
+split_random,ridge_drug_fp,2.7333333333333334,0.4497764451088035,0.2431170558580188,0.0078072807329161,30,Sci-Plex 3,Random,Ridge drug FP
+split_random,drug_mean,4.066666666666666,0.7396799556440672,0.2401845045859874,0.0077087763940656,30,Sci-Plex 3,Random,Drug mean
+split_random,cell_context_mean,5.233333333333333,0.5040069329937309,0.2316768319602159,0.0074284385486546,30,Sci-Plex 3,Random,Cell mean
+split_random,ridge_cell_dose,5.566666666666666,0.6260623155792927,0.2307299296437657,0.007869209908504,30,Sci-Plex 3,Random,Ridge cell+dose
+split_random,global_train_mean,7.0,0.0,0.1623486265155224,0.0067005203204081,30,Sci-Plex 3,Random,Global mean
+split_scaffold_heldout,cell_dose_mean,1.0,0.0,0.2499488521424057,0.0180661562923631,30,Sci-Plex 3,"Scaffold
+held-out",Cell+dose mean
+split_scaffold_heldout,cell_context_mean,2.3666666666666667,0.4901325178535609,0.2295330453964813,0.0201700557774747,30,Sci-Plex 3,"Scaffold
+held-out",Cell mean
+split_scaffold_heldout,ridge_cell_dose,2.6333333333333333,0.4901325178535609,0.2289289691336929,0.0198535160269045,30,Sci-Plex 3,"Scaffold
+held-out",Ridge cell+dose
+split_scaffold_heldout,ridge_cell_dose_drug_fp,4.0,0.0,0.1885129824204365,0.0194338865503274,30,Sci-Plex 3,"Scaffold
+held-out",Ridge cell+dose+drug FP
+split_scaffold_heldout,drug_mean,5.0,0.0,0.1604465745331974,0.0182222055080932,30,Sci-Plex 3,"Scaffold
+held-out",Drug mean
+split_scaffold_heldout,global_train_mean,5.0,0.0,0.1604465745331974,0.0182222055080932,30,Sci-Plex 3,"Scaffold
+held-out",Global mean
+split_scaffold_heldout,ridge_drug_fp,7.0,0.0,0.1263584849056009,0.0182732150307909,30,Sci-Plex 3,"Scaffold
+held-out",Ridge drug FP

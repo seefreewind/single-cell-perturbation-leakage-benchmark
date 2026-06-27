@@ -1,0 +1,34 @@
+{
+  "title": "Leakage-aware single-cell chemical perturbation benchmark",
+  "upload_type": "dataset",
+  "description": "Split manifests, leakage-audit tables, model-result summaries, figure source data, scripts, and manuscript artifacts for a leakage-aware benchmark of single-cell chemical perturbation transcriptomics. Large raw source datasets are not redistributed and should be obtained from their original providers.",
+  "creators": [
+    {
+      "name": "Lin, Da",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University"
+    },
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "single-cell perturbation transcriptomics",
+    "chemical perturbation",
+    "benchmark leakage",
+    "scaffold split",
+    "model ranking",
+    "Sci-Plex",
+    "OpenProblems"
+  ],
+  "license": "MIT",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/single-cell-perturbation-leakage-benchmark",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "access_right": "open"
+}

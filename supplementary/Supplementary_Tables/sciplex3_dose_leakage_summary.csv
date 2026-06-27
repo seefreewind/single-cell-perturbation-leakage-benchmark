@@ -1,0 +1,5 @@
+split,seeds,mean_test_records,mean_same_drug,mean_same_drug_dose,mean_same_drug_cell_dose,mean_same_numeric_dose
+split_cell_heldout,30,731.2,0.9977746870653685,0.9945199739234077,0.0,1.0
+split_cell_scaffold_heldout,30,141.93333333333334,0.0,0.0,0.0,1.0
+split_random,30,437.46666666666664,1.0,0.9475904116776234,0.0,1.0
+split_scaffold_heldout,30,427.06666666666666,0.0,0.0,0.0,1.0

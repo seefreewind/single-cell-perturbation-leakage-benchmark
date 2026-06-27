@@ -1,0 +1,2 @@
+same_drug_overlap,same_scaffold_overlap,same_cell_line_overlap,same_drug_dose_overlap,same_drug_cell_line_dose_overlap,same_numeric_dose_overlap,dataset,seed,split_type,model_name,status
+1.0,1.0,1.0,0.9330254041570438,0.0,1.0,sciplex3_24h_top2000,1,random,transigen_adapted_sciplex3,completed

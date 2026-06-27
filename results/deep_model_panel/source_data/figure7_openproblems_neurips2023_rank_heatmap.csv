@@ -1,0 +1,12 @@
+model_name,random,cell_heldout,scaffold_heldout,joint_cell_scaffold_heldout,moa_heldout
+svd50_ridge_cell_drug_fp,1.0,2.0,4.0,6.0,
+ridge_cell_drug_fp,2.0,3.0,5.0,8.0,5.0
+svd50_ridge_drug_fp,3.0,1.0,8.0,7.0,
+ridge_drug_fp,4.0,4.0,9.0,9.0,6.0
+cell_context_mean,5.0,9.5,1.0,3.0,1.0
+ridge_cell,6.0,11.0,2.0,5.0,2.0
+svd50_ridge_cell,7.0,8.0,3.0,1.0,
+drug_mean,8.0,5.0,6.5,3.0,3.5
+global_mean,9.0,9.5,6.5,3.0,3.5
+nearest_drug_any_cell,10.0,6.5,11.0,10.5,
+nearest_drug_same_cell,11.0,6.5,10.0,10.5,

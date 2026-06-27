@@ -1,0 +1,10 @@
+Reporting item,Required output
+Split type,"Random, cell held-out, scaffold held-out, joint held-out, and mechanism-aware split where feasible"
+Leakage overlap,"Same drug, scaffold, MoA, cell context, and dose overlap"
+Chemical similarity,Nearest training-drug Tanimoto
+Mechanism-neighbor audit,Same-MoA or target-class overlap where annotations are available
+Model adaptation level,"Original workflow, benchmark-compatible adaptation, pseudobulk adaptation, frozen embedding head, failed, or not run"
+Performance,"Pearson, RMSE, DE-gene metrics, top-k overlap, direction agreement"
+Model ranking,Random-to-strict rank transfer
+Failure reporting,Explicit status rows for not-run or failed models
+External validation,At least one independent dataset when available

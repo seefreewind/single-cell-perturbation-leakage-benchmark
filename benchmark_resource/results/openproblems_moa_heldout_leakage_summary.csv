@@ -1,0 +1,2 @@
+seeds,mean_train_records,sd_train_records,mean_test_records,sd_test_records,mean_heldout_moa,mean_test_drugs,mean_test_scaffolds,mean_same_drug_overlap,mean_same_scaffold_overlap,mean_same_moa_overlap
+100,434.17,19.537094994089596,110.83,19.537094994089596,19.0,28.09,27.42,0.0,0.025084178698820327,0.0

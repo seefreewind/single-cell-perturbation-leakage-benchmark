@@ -1,0 +1,5 @@
+split,train_records,test_records,excluded_records
+split_random,7,1,0
+split_cell_heldout,5,3,0
+split_scaffold_heldout,6,2,0
+split_cell_scaffold_heldout,4,1,3

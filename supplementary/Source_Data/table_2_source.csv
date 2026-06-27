@@ -1,0 +1,6 @@
+Split,Held-out unit,Training-test shortcut removed,Interpretation
+Random,Record,None by design,Local interpolation benchmark
+Cell held-out,Cell context or cell line,Same cell context,Cellular-context extrapolation
+Scaffold held-out,Bemis-Murcko scaffold,Same drug and same scaffold,Chemical-scaffold extrapolation
+Joint cell+scaffold held-out,Cell context plus scaffold,"Same drug, scaffold, and cell context",Joint cellular and chemical extrapolation
+MoA-held-out,Mechanism annotation,Same MoA,Mechanism-level secondary stress test

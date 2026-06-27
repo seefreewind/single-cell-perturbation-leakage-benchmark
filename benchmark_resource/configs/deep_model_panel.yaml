@@ -1,0 +1,98 @@
+project:
+  name: leakage_aware_single_cell_chemical_perturbation_benchmark
+  version: v8_deep_model_panel
+  no_test_tuning: true
+  failure_policy: record_status_row
+
+datasets:
+  openproblems:
+    response_matrix:
+      - data/raw/openproblems_neurips2023/de_train.h5ad
+      - data/raw/openproblems_neurips2023/de_test.h5ad
+    metadata: metadata/openproblems/openproblems_perturbation_metadata_full.csv
+    drug_metadata: metadata/openproblems/openproblems_drug_metadata_full.csv
+    split_manifest: benchmark_resource/split_manifests/split_manifest_openproblems.csv
+    splits:
+      - split_random
+      - split_cell_heldout
+      - split_scaffold_heldout
+      - split_cell_scaffold_heldout
+      - split_moa_heldout
+    seeds:
+      pilot: 10
+      main_deep_models: 30
+      existing_baseline: use_existing_100_if_available
+  sciplex3:
+    response_matrix: data/processed/sciplex3/sciplex3_24h_top2000_response.h5ad
+    metadata: metadata/sciplex3_24h_top2000_split_metadata.csv
+    drug_metadata: metadata/sciplex3_pubchem_smiles_with_scaffolds.csv
+    split_manifest: benchmark_resource/split_manifests/split_manifest_sciplex3.csv
+    splits:
+      - split_random
+      - split_cell_heldout
+      - split_scaffold_heldout
+      - split_cell_scaffold_heldout
+    seeds:
+      smoke: 1
+      pilot: 10
+      main: 30
+
+models:
+  completed_or_existing:
+    - global_train_mean
+    - cell_context_mean
+    - drug_mean
+    - ridge_cell
+    - ridge_drug_fp
+    - ridge_cell_drug_fp
+    - svd50_ridge_cell_drug_fp
+    - nearest_drug
+    - transigen_adapted_sciplex3
+  planned_deep:
+    - prnet
+    - chemcpa_or_cpa
+  planned_foundation:
+    - scgpt_frozen_ridge
+    - scgpt_frozen_mlp
+    - scfoundation_frozen_ridge
+    - scfoundation_frozen_mlp
+    - geneformer_frozen_ridge
+
+training_protocol:
+  validation_source: train_split_internal_only
+  validation_fraction: 0.1
+  early_stopping_allowed: true
+  test_split_used_for_tuning: false
+  random_seed_policy: use_existing_split_seed
+
+metrics:
+  - all_gene_rowwise_pearson
+  - de_gene_rowwise_pearson
+  - all_gene_rmse
+  - de_gene_rmse
+  - top50_response_gene_overlap
+  - top100_response_gene_overlap
+  - top200_response_gene_overlap
+  - top50_direction_agreement
+  - top100_direction_agreement
+  - top200_direction_agreement
+  - nearest_training_drug_tanimoto
+  - same_drug_overlap
+  - same_scaffold_overlap
+  - same_moa_overlap
+  - same_cell_or_cell_line_overlap
+  - sciplex3_same_drug_dose
+  - sciplex3_same_drug_cell_line_dose
+  - sciplex3_same_numeric_dose
+  - model_rank_by_de_gene_pearson
+  - random_to_strict_rank_spearman
+  - random_minus_scaffold_performance_difference
+  - random_minus_joint_performance_difference
+  - paired_bootstrap_95ci_by_seed
+
+outputs:
+  metrics_long: results/deep_model_panel/all_model_metrics_long.csv
+  leakage_long: results/deep_model_panel/all_model_leakage_audit_long.csv
+  rank_stability: results/deep_model_panel/model_rank_stability.csv
+  random_to_strict_contrasts: results/deep_model_panel/random_to_strict_contrasts.csv
+  bootstrap_ci: results/deep_model_panel/bootstrap_ci.csv

@@ -1,0 +1,5 @@
+Dataset,Contrast,Model count,Aggregate or mean Spearman,Random-best model,Random-best rank in joint
+OpenProblems,random vs scaffold held-out,11,0.424,SVD50 ridge cell+drug FP,4
+OpenProblems,random vs joint held-out,11,0.060,SVD50 ridge cell+drug FP,6
+Sci-Plex 3,random vs scaffold held-out,5,0.530,seed-level variable,NA
+Sci-Plex 3,random vs joint held-out,5,0.143,seed-level variable,2.43

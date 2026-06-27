@@ -1,0 +1,53 @@
+dataset,model,model_label,split,n_seed_units,mean,sd,median,iqr,metric,panel,contrast,mean_difference,ci95_low,ci95_high,gene_set_name,mean_abs_error
+openproblems_neurips2023,global_train_mean,Global mean,random,10.0,0.3660951108262564,0.0311395162488143,0.3592467497441962,0.0376537030100617,mean_pathway_pearson,A,,,,,,
+openproblems_neurips2023,ridge_cell_drug_fp,Ridge cell+drug FP,random,10.0,0.5519007185294886,0.0289589194949109,0.5542236822932731,0.0282265682945839,mean_pathway_pearson,A,,,,,,
+openproblems_neurips2023,global_train_mean,Global mean,scaffold_heldout,10.0,0.3691998980460911,0.0667343658354318,0.3540709812097038,0.085301838826461,mean_pathway_pearson,A,,,,,,
+openproblems_neurips2023,ridge_cell_drug_fp,Ridge cell+drug FP,scaffold_heldout,10.0,0.3169037357718426,0.0487717945664574,0.3209236463044811,0.0658534128267489,mean_pathway_pearson,A,,,,,,
+openproblems_neurips2023,global_train_mean,Global mean,cell_scaffold_heldout,10.0,0.3202813821810226,0.0418662994357097,0.3165066310433927,0.0581776192835595,mean_pathway_pearson,A,,,,,,
+openproblems_neurips2023,ridge_cell_drug_fp,Ridge cell+drug FP,cell_scaffold_heldout,10.0,0.2089660981464435,0.0718995942057248,0.1856545357216584,0.0917904973833471,mean_pathway_pearson,A,,,,,,
+sciplex3_24h_top2000,global_train_mean,Global mean,random,30.0,0.1801001329374931,0.0115823870969957,0.1802915628041955,0.0115714293036967,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,prnet_adapted_sciplex3,PRnet-interface adapter,random,30.0,0.0464451753853928,0.0306815462251941,0.0378964504634707,0.0385329224545266,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,random,30.0,0.3131579671712628,0.0152047700005512,0.310349606223508,0.0132326902524836,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_drug_fp,Ridge drug FP,random,30.0,0.2965295257728956,0.0149822074214944,0.2959570378741926,0.0198949734477051,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,transigen_adapted_sciplex3,Control-conditioned regressor,random,30.0,0.2448918168014681,0.0171268997307079,0.2442687534504485,0.0219292091990458,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,global_train_mean,Global mean,scaffold_heldout,30.0,0.183000952407838,0.0292470979347199,0.1805437643712169,0.0424805831017344,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,prnet_adapted_sciplex3,PRnet-interface adapter,scaffold_heldout,30.0,0.0324740408735666,0.0271623992333441,0.0311379978976584,0.0323721122512644,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,scaffold_heldout,30.0,0.1873166895165924,0.0294675325627551,0.189675777142483,0.0509373752905066,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_drug_fp,Ridge drug FP,scaffold_heldout,30.0,0.1361723349872906,0.030773762179558,0.1399443355712056,0.0439980152586167,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,transigen_adapted_sciplex3,Control-conditioned regressor,scaffold_heldout,30.0,0.2283911742044986,0.032554387462002,0.2260978140835486,0.0398185972401405,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,global_train_mean,Global mean,cell_scaffold_heldout,30.0,0.1166521290398078,0.0424476601574684,0.1045243139860132,0.0688933996829103,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,prnet_adapted_sciplex3,PRnet-interface adapter,cell_scaffold_heldout,30.0,0.0473339686694624,0.0541322320494494,0.0540603425592293,0.0617716133139029,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,cell_scaffold_heldout,30.0,0.0704552014457665,0.0513094066413987,0.0622773010458622,0.0836884588599843,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,ridge_drug_fp,Ridge drug FP,cell_scaffold_heldout,30.0,0.0686616675776433,0.0473608573779191,0.0655435148932308,0.0816941728492335,mean_pathway_pearson,B,,,,,,
+sciplex3_24h_top2000,transigen_adapted_sciplex3,Control-conditioned regressor,cell_scaffold_heldout,30.0,0.0270801485952019,0.0440316259565489,0.0409199871844334,0.0653861513519302,mean_pathway_pearson,B,,,,,,
+openproblems_neurips2023,global_train_mean,Global mean,,10.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.0458137286452338,0.01035849709571,0.0781526603456618,,
+openproblems_neurips2023,ridge_cell_drug_fp,Ridge cell+drug FP,,10.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.3429346203830451,0.2934656552902158,0.3893702310097817,,
+sciplex3_24h_top2000,global_train_mean,Global mean,,30.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.0634480038976852,0.0469584550971097,0.0793171660081683,,
+sciplex3_24h_top2000,prnet_adapted_sciplex3,PRnet-interface adapter,,30.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,-0.0008887932840695,-0.0198236913636657,0.0185244128443716,,
+sciplex3_24h_top2000,ridge_cell_dose_drug_fp,Ridge cell+dose+drug FP,,30.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.2427027657254963,0.2229013292335323,0.2619643744215504,,
+sciplex3_24h_top2000,ridge_drug_fp,Ridge drug FP,,30.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.2278678581952523,0.2091509963450052,0.2457468437265724,,
+sciplex3_24h_top2000,transigen_adapted_sciplex3,Control-conditioned regressor,,30.0,,,,,mean_pathway_pearson,C,random_minus_cell_scaffold_heldout,0.2178116682062661,0.2018243784447915,0.2351843095366567,,
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_APOPTOSIS,0.3939241774361813
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_APOPTOSIS,0.0253605057521037
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_APOPTOSIS,0.1414471002020254
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_E2F_TARGETS,0.33215330259421
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_E2F_TARGETS,0.0413730469668074
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_E2F_TARGETS,0.247478900926259
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_G2M_CHECKPOINT,0.3559658788012856
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_G2M_CHECKPOINT,0.0330727941502907
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_G2M_CHECKPOINT,0.1904805589178083
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_INTERFERON_GAMMA_RESPONSE,0.3287982553858607
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_INTERFERON_GAMMA_RESPONSE,0.0268812753936447
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_INTERFERON_GAMMA_RESPONSE,0.0963615801261591
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_MTORC1_SIGNALING,0.4322626322086195
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_MTORC1_SIGNALING,0.0333303677562736
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_MTORC1_SIGNALING,0.1559278103695229
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_P53_PATHWAY,0.3375552738337283
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_P53_PATHWAY,0.0271976405511476
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_P53_PATHWAY,0.1117949278733347
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_TNFA_SIGNALING_VIA_NFKB,0.4253957794065693
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_TNFA_SIGNALING_VIA_NFKB,0.0360797049604891
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_TNFA_SIGNALING_VIA_NFKB,0.1650931913211472
+,,PRnet-interface adapter,,,,,,,,D,,,,,HALLMARK_UNFOLDED_PROTEIN_RESPONSE,0.3681547819088929
+,,Ridge cell+dose+drug FP,,,,,,,,D,,,,,HALLMARK_UNFOLDED_PROTEIN_RESPONSE,0.0317427000701958
+,,Control-conditioned regressor,,,,,,,,D,,,,,HALLMARK_UNFOLDED_PROTEIN_RESPONSE,0.1422969763712092

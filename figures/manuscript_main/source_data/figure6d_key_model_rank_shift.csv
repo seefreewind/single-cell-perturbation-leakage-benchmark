@@ -1,0 +1,11 @@
+dataset,baseline,split,split_label,mean_rank,mean_score
+OpenProblems,ridge_cell_drug_fp,split_random,Random,1.0,0.5683231463329339
+OpenProblems,ridge_cell_drug_fp,split_scaffold_heldout,"Scaffold
+held-out",3.58,0.3919682772508012
+OpenProblems,ridge_cell_drug_fp,split_cell_scaffold_heldout,"Cell + scaffold
+held-out",5.33,0.2090615969991763
+Sci-Plex 3,ridge_cell_dose_drug_fp,split_random,Random,1.0,0.2915578848941759
+Sci-Plex 3,ridge_cell_dose_drug_fp,split_scaffold_heldout,"Scaffold
+held-out",4.0,0.1885129824204365
+Sci-Plex 3,ridge_cell_dose_drug_fp,split_cell_scaffold_heldout,"Cell + scaffold
+held-out",5.966666666666667,0.0596765729705951

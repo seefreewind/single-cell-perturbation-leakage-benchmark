@@ -1,0 +1,5 @@
+split,baseline,metric,n_seeds,mean,ci_low,ci_high
+split_random,ridge_cell_drug_fp,mean_max_train_tanimoto,10,0.993139266338687,0.9862439786245796,1.0
+split_cell_heldout,ridge_cell_drug_fp,mean_max_train_tanimoto,10,1.0,1.0,1.0
+split_scaffold_heldout,ridge_cell_drug_fp,mean_max_train_tanimoto,10,0.2792972378625776,0.2707556336510561,0.2876513119453718
+split_cell_scaffold_heldout,ridge_cell_drug_fp,mean_max_train_tanimoto,10,0.2786879916811963,0.2691097402163934,0.2876322295126897

@@ -1,0 +1,20 @@
+model_name,split_type,rank,model_label,split_label
+global_mean,cell_heldout,3.0,Global mean,Cell
+global_mean,cell_scaffold_heldout,1.2,Global mean,Joint
+global_mean,random,4.0,Global mean,Random
+global_mean,scaffold_heldout,3.0,Global mean,Scaffold
+prnet_adapted_sciplex3,cell_heldout,4.0,PRnet-interface adapter,Cell
+prnet_adapted_sciplex3,cell_scaffold_heldout,4.033333333333333,PRnet-interface adapter,Joint
+prnet_adapted_sciplex3,random,5.0,PRnet-interface adapter,Random
+prnet_adapted_sciplex3,scaffold_heldout,5.0,PRnet-interface adapter,Scaffold
+ridge_cell_dose_drug_fp,cell_heldout,1.8,Ridge cell+dose+drug FP,Cell
+ridge_cell_dose_drug_fp,cell_scaffold_heldout,2.433333333333333,Ridge cell+dose+drug FP,Joint
+ridge_cell_dose_drug_fp,random,1.0,Ridge cell+dose+drug FP,Random
+ridge_cell_dose_drug_fp,scaffold_heldout,2.0,Ridge cell+dose+drug FP,Scaffold
+ridge_drug_fp,cell_heldout,1.2,Ridge drug FP,Cell
+ridge_drug_fp,cell_scaffold_heldout,2.966666666666667,Ridge drug FP,Joint
+ridge_drug_fp,random,2.1,Ridge drug FP,Random
+ridge_drug_fp,scaffold_heldout,4.0,Ridge drug FP,Scaffold
+transigen_adapted_sciplex3,cell_scaffold_heldout,4.366666666666666,Control-conditioned regressor,Joint
+transigen_adapted_sciplex3,random,2.9,Control-conditioned regressor,Random
+transigen_adapted_sciplex3,scaffold_heldout,1.0,Control-conditioned regressor,Scaffold
