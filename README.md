@@ -74,7 +74,7 @@ The most important provenance files are:
 
 Please cite the manuscript and archived Zenodo release:
 
-https://doi.org/10.5281/zenodo.20961313
+https://doi.org/10.5281/zenodo.21348707
 
 ## License and data-use terms
 
