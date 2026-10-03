@@ -2,7 +2,7 @@
 
 ## Current fixed-cohort revision
 
-The current manuscript is **Auditing chemical and cellular train-test overlap in perturbation-response prediction**. Current revision code, frozen outputs, consolidated Supplementary Information, logs, and exact file checksums are described in [BMC_revision_20261003/README.md](BMC_revision_20261003/README.md). This revision evaluates an audit protocol with transparent probes; it does not rank untested model families or reproduce original published neural workflows. The sections below document the preserved historical v17 release. The existing Zenodo DOI identifies that earlier archive until a revised version is published.
+The current manuscript is **Auditing chemical and cellular train-test overlap in perturbation-response prediction**. Current revision code, frozen outputs, consolidated Supplementary Information, logs, and exact file checksums are described in [BMC_revision_20261003/README.md](BMC_revision_20261003/README.md). This revision evaluates an audit protocol with transparent probes; it does not rank untested model families or reproduce original published neural workflows. The revision resources are archived as [Zenodo version 1](https://doi.org/10.5281/zenodo.23116924), corresponding to GitHub release `1` at commit `c644e76c6139b27313542434bf44ed22c8f53919`. Later documentation-only commits do not change that immutable archive. The sections below document the preserved historical v17 release, separately archived under DOI `10.5281/zenodo.21348707`.
 
 This repository contains the code, split manifests, leakage-audit tables, model-result summaries, figure source data, and manuscript draft for a leakage-aware benchmark of single-cell chemical perturbation transcriptomics.
 

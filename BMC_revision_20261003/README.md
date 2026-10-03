@@ -32,4 +32,4 @@ MoA source: https://openproblems-bio.s3.amazonaws.com/public/neurips-2023-compet
 
 Expected SHA256: `2ab652b6ec33239b5e4172176fb8a68980e7066b0fae9fd54a12efc8f920d30e`.
 
-No raw source H5AD files, MSigDB Hallmark gene-set redistribution, private reviews, author correspondence, credentials, or local runtime installations are included. Upstream data remain governed by their original access and reuse terms. The existing Zenodo DOI identifies the earlier release until a new version is successfully published.
+No raw source H5AD files, MSigDB Hallmark gene-set redistribution, private reviews, author correspondence, credentials, or local runtime installations are included. Upstream data remain governed by their original access and reuse terms. This revision is archived as [Zenodo version 1](https://doi.org/10.5281/zenodo.23116924), corresponding to GitHub release `1` at commit `c644e76c6139b27313542434bf44ed22c8f53919`. The checksums describe the frozen packaged files at that commit; subsequent documentation-only DOI updates do not alter the archived results. The earlier DOI `10.5281/zenodo.21348707` remains a separate historical archive.
