@@ -2,6 +2,8 @@
 
 This revision accompanies **Auditing chemical and cellular train-test overlap in perturbation-response prediction**. It supplies an evaluation protocol and cohort-specific scripts, not a general plug-in perturbation-model framework. Published-model adapters are not full reproductions of their original workflows. PRnet results are not primary evidence.
 
+Current clean submission documents are indexed in [BMC_Bioinformatics_submission/README.md](../BMC_Bioinformatics_submission/README.md). They contain subsequent DOI, source-data wording, and presentation updates. The files and checksums below describe the immutable release-1 analysis archive.
+
 ## Frozen outputs
 
 `results/bmc_master/` contains the fixed-manifest master tables. This directory adds paired baseline-adjusted scores, common-test-record comparisons, chemical annotation coverage, and training-only top-2,000-gene sensitivity outputs and actual run logs. No analysis was rerun during public-release preparation.

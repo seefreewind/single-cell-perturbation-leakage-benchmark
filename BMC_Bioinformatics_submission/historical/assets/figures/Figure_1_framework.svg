@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-03T10:17:11.090263</dc:date>
+    <dc:date>2026-07-22T15:48:12.130968</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -35,7 +35,7 @@ L 235.3968 79.4772
 L 235.3968 45.4644 
 L 41.9256 45.4644 
 z
-" clip-path="url(#p780478d30a)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 265.1616 79.4772 
@@ -43,7 +43,7 @@ L 458.6328 79.4772
 L 458.6328 45.4644 
 L 265.1616 45.4644 
 z
-" clip-path="url(#p780478d30a)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 27.0432 175.8468 
@@ -51,7 +51,7 @@ L 128.7396 175.8468
 L 128.7396 97.9008 
 L 27.0432 97.9008 
 z
-" clip-path="url(#p780478d30a)" style="fill: #e8f1fa; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #e8f1fa; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 143.622 175.8468 
@@ -59,7 +59,7 @@ L 245.3184 175.8468
 L 245.3184 97.9008 
 L 143.622 97.9008 
 z
-" clip-path="url(#p780478d30a)" style="fill: #eef6e9; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #eef6e9; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 260.2008 175.8468 
@@ -67,7 +67,7 @@ L 361.8972 175.8468
 L 361.8972 97.9008 
 L 260.2008 97.9008 
 z
-" clip-path="url(#p780478d30a)" style="fill: #fdf2df; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #fdf2df; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 376.7796 175.8468 
@@ -75,7 +75,7 @@ L 478.476 175.8468
 L 478.476 97.9008 
 L 376.7796 97.9008 
 z
-" clip-path="url(#p780478d30a)" style="fill: #f7eaf4; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #f7eaf4; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 66.7296 250.9584 
@@ -83,7 +83,7 @@ L 175.8672 250.9584
 L 175.8672 216.9456 
 L 66.7296 216.9456 
 z
-" clip-path="url(#p780478d30a)" style="fill: #ffffff; stroke: #277da1; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #277da1; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_9">
     <path d="M 205.632 250.9584 
@@ -91,7 +91,7 @@ L 314.7696 250.9584
 L 314.7696 216.9456 
 L 205.632 216.9456 
 z
-" clip-path="url(#p780478d30a)" style="fill: #ffffff; stroke: #e8a13a; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #e8a13a; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="patch_10">
     <path d="M 344.5344 250.9584 
@@ -99,13 +99,13 @@ L 453.672 250.9584
 L 453.672 216.9456 
 L 344.5344 216.9456 
 z
-" clip-path="url(#p780478d30a)" style="fill: #ffffff; stroke: #c84b57; stroke-width: 1.1; stroke-linejoin: miter"/>
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #c84b57; stroke-width: 1.1; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="255.24" y="20.149073" transform="rotate(-0 255.24 20.149073)">Evaluation workflow for structured perturbation-response data</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="255.24" y="20.149073" transform="rotate(-0 255.24 20.149073)">Leakage-aware benchmark evaluation defines what each score can claim</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="37.951397" transform="rotate(-0 255.24 37.951397)">Different splits evaluate different prediction settings</text>
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="37.951397" transform="rotate(-0 255.24 37.951397)">Generalization is interpreted as a model--data--split--claim system</text>
    </g>
    <g id="text_3">
     <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="51.8472" y="58.768797" transform="rotate(-0 51.8472 58.768797)">OpenProblems</text>
@@ -124,7 +124,7 @@ z
     <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(275.0832 79.057066)">30 fixed seeds</text>
    </g>
    <g id="text_7">
-    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="32.99616" y="110.04433" transform="rotate(-0 32.99616 110.04433)">A. Fixed tasks</text>
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="32.99616" y="110.147846" transform="rotate(-0 32.99616 110.147846)">A. Fixed tasks</text>
    </g>
    <g id="text_8">
     <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(32.99616 133.058346)">random local interpolation</text>
@@ -142,7 +142,7 @@ L 134.455763 138.41552
 " style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_9">
-    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="149.57496" y="110.044267" transform="rotate(-0 149.57496 110.044267)">B. Neighborhood audit</text>
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="149.57496" y="110.147779" transform="rotate(-0 149.57496 110.147779)">B. Neighborhood audit</text>
    </g>
    <g id="text_10">
     <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(149.57496 135.860821)">same drug / scaffold / cell / dose / MoA</text>
@@ -159,7 +159,7 @@ L 251.034563 138.41552
 " style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_11">
-    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="266.15376" y="110.04433" transform="rotate(-0 266.15376 110.04433)">C. Transparent probes</text>
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="266.15376" y="110.147846" transform="rotate(-0 266.15376 110.147846)">C. Transparent probes</text>
    </g>
    <g id="text_12">
     <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(266.15376 135.860872)">mean and ridge baselines</text>
@@ -176,7 +176,7 @@ L 367.613363 138.41552
 " style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
    </g>
    <g id="text_13">
-    <text style="font-weight: 700; font-size: 6.4px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="382.73256" y="110.044267" transform="rotate(-0 382.73256 110.044267)">D. Reproducibility outputs</text>
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="382.73256" y="110.147846" transform="rotate(-0 382.73256 110.147846)">D. Portable evidence</text>
    </g>
    <g id="text_14">
     <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(382.73256 135.860922)">seed-level metrics</text>
@@ -187,27 +187,27 @@ L 367.613363 138.41552
     <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #277da1" x="121.2984" y="230.042966" transform="rotate(-0 121.2984 230.042966)">Random</text>
    </g>
    <g id="text_16">
-    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="121.2984" y="242.461286" transform="rotate(-0 121.2984 242.461286)">familiar chemical neighborhoods</text>
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="121.2984" y="242.461286" transform="rotate(-0 121.2984 242.461286)">familiar drug/cell neighborhoods</text>
    </g>
    <g id="text_17">
     <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #e8a13a" x="260.2008" y="230.042966" transform="rotate(-0 260.2008 230.042966)">Scaffold held-out</text>
    </g>
    <g id="text_18">
-    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="260.2008" y="242.46134" transform="rotate(-0 260.2008 242.46134)">unseen scaffold</text>
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="260.2008" y="242.46134" transform="rotate(-0 260.2008 242.46134)">new chemical framework</text>
    </g>
    <g id="text_19">
     <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #c84b57" x="399.1032" y="230.042966" transform="rotate(-0 399.1032 230.042966)">Joint held-out</text>
    </g>
    <g id="text_20">
-    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="399.1032" y="242.46134" transform="rotate(-0 399.1032 242.46134)">unseen cell + unseen scaffold</text>
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="399.1032" y="242.46134" transform="rotate(-0 399.1032 242.46134)">new cell + new scaffold intersection</text>
    </g>
    <g id="text_21">
-    <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="275.0508" transform="rotate(-0 255.24 275.0508)">Outputs: audit fields, predictions, metrics, and source data</text>
+    <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="275.0508" transform="rotate(-0 255.24 275.0508)">Output: interpretable scores, not a single undifferentiated claim of model generalization</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p780478d30a">
+  <clipPath id="pa61e515531">
    <rect x="7.2" y="7.2" width="496.08" height="283.44"/>
   </clipPath>
  </defs>

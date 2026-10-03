@@ -1,12 +1,16 @@
-# Leakage-aware single-cell chemical perturbation benchmark
+# Auditing chemical and cellular train-test overlap in perturbation-response prediction
 
 ## Current fixed-cohort revision
 
 The current manuscript is **Auditing chemical and cellular train-test overlap in perturbation-response prediction**. Current revision code, frozen outputs, consolidated Supplementary Information, logs, and exact file checksums are described in [BMC_revision_20261003/README.md](BMC_revision_20261003/README.md). This revision evaluates an audit protocol with transparent probes; it does not rank untested model families or reproduce original published neural workflows. The revision resources are archived as [Zenodo version 1](https://doi.org/10.5281/zenodo.23116924), corresponding to GitHub release `1` at commit `c644e76c6139b27313542434bf44ed22c8f53919`. Later documentation-only commits do not change that immutable archive. The sections below document the preserved historical v17 release, separately archived under DOI `10.5281/zenodo.21348707`.
 
-This repository contains the code, split manifests, leakage-audit tables, model-result summaries, figure source data, and manuscript draft for a leakage-aware benchmark of single-cell chemical perturbation transcriptomics.
+Current clean submission documents and Figure 1-4 are indexed in [BMC_Bioinformatics_submission/README.md](BMC_Bioinformatics_submission/README.md). Figure-specific numerical source data and the immutable analysis release remain available under the revision archive above.
 
-The accompanying manuscript draft is:
+## Historical release / archived previous version
+
+The following sections describe the preserved v17 release. Its manuscript, figures, and supplementary material are historical and should not be interpreted as the current submission.
+
+The historical manuscript draft is:
 
 **Leakage-aware benchmarking reveals chemical-neighbor leakage and model-ranking instability in single-cell chemical perturbation transcriptomics**
 
@@ -17,7 +21,7 @@ The accompanying manuscript draft is:
 - Long-format model metrics and random-to-strict contrasts for completed baselines and benchmark-compatible neural adapters.
 - Source data for main and supplementary figures.
 - Scripts used to build the benchmark outputs and manuscript figures.
-- Current manuscript draft, tables, figure legends, rendered DOCX, and rendered PDF.
+- Historical manuscript draft, tables, figure legends, rendered DOCX, and rendered PDF.
 - QC and provenance reports for the v17 revision.
 
 ## What is not included
@@ -35,16 +39,16 @@ data/processed/              Processed Sci-Plex 3 pseudobulk matrices and split 
 docs/                        QC, provenance, submission, and run reports
 env/                         Requirements file
 figures/                     Main/supplementary figures and source data
-manuscript/                  Current v17 manuscript markdown, tables, and legends
+manuscript/                  Historical v17 manuscript markdown, tables, and legends
 metadata/                    Drug, perturbation, and split metadata
 results/                     Model metrics, leakage audits, pathway summaries, and source tables
 scripts/                     Analysis, QC, plotting, and manuscript-build scripts
 src/                         Reusable model and metric code
-submission_package_v17_control_conditioned_neural/  Current DOCX/PDF manuscript draft
+submission_package_v17_control_conditioned_neural/  Historical DOCX/PDF manuscript draft
 tests/                       Split, prediction-alignment, and leakage tests
 ```
 
-## Current manuscript artifacts
+## Historical manuscript artifacts
 
 - `manuscript/manuscript_full_en_v17_control_conditioned_neural.md`
 - `manuscript/tables_draft_en_v17_control_conditioned_neural.md`
@@ -54,7 +58,7 @@ tests/                       Split, prediction-alignment, and leakage tests
 
 ## Reproducibility notes
 
-The main QC checks used in the current revision were:
+The main QC checks used in the historical v17 revision were:
 
 ```bash
 python scripts/qc_deep_model_panel.py
@@ -74,9 +78,9 @@ The most important provenance files are:
 - `docs/resource_file_tree_v17.md`
 - `summary_v17_control_conditioned_neural_revision.md`
 
-## Citation
+## Historical citation
 
-Please cite the manuscript and archived Zenodo release:
+The historical release is separately archived at:
 
 https://doi.org/10.5281/zenodo.21348707
 
