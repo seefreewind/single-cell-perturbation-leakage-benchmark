@@ -1,0 +1,2 @@
+Wrote audit outputs to /Volumes/EMPTY2TB/New project 4/BMC_revision_20261003/cli_smoke
+{'passed': True, 'n_records': 8, 'n_train': 4, 'n_test': 1, 'n_excluded': 3, 'test_records_in_train': 0, 'excluded_records_in_train': 0, 'excluded_records_in_test': 0}

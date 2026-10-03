@@ -1,0 +1,69 @@
+dataset,split,split_label,count_stage,source_file,quantity,mean,sd,median,iqr,n_seeds
+OpenProblems,split_cell_heldout,cell held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_train,408.66,1.9343779831817207,408.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_test,136.34,1.934377983181721,137.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_excluded,,,,,0
+OpenProblems,split_cell_heldout,cell held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_train,414.66,1.9343779831817207,414.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_test,138.34,1.934377983181721,139.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_excluded,0.0,0.0,0.0,0.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_train,328.72,2.90621069540056,328.0,4.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_test,26.76,1.1730991501836563,27.0,1.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_excluded,,,,,0
+OpenProblems,split_cell_scaffold_heldout,joint held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_train,333.52,2.062067218138442,334.0,2.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_test,27.16,0.9504916324904409,27.0,1.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_excluded,192.32,1.5101006722745476,192.5,2.0,100
+OpenProblems,split_random,random,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_train,436.59,8.52458713713373,436.5,12.0,100
+OpenProblems,split_random,random,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_test,108.41,8.52458713713373,108.5,12.0,100
+OpenProblems,split_random,random,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_excluded,,,,,0
+OpenProblems,split_random,random,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_train,443.03,8.661367844012453,442.5,11.5,100
+OpenProblems,split_random,random,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_test,109.97,8.661367844012453,110.5,11.5,100
+OpenProblems,split_random,random,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_excluded,0.0,0.0,0.0,0.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_train,438.3,3.6528665926138526,438.0,6.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_test,106.7,3.652866592613854,107.0,6.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,evaluable_treated_records,results/openproblems_multiseed_100_de/all_[simple|ridge]_baseline_summary.csv,n_excluded,,,,,0
+OpenProblems,split_scaffold_heldout,scaffold held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_train,444.7,2.5917507050585935,445.0,3.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_test,108.3,2.5917507050585935,108.0,3.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,manifest_all_records,results/openproblems_multiseed_100_de/all_split_summary.csv,n_excluded,0.0,0.0,0.0,0.0,100
+Sci-Plex 3,split_cell_heldout,cell held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_train,1468.8,10.459775167360153,1463.0,18.0,30
+Sci-Plex 3,split_cell_heldout,cell held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_test,731.2,10.459775167360153,737.0,18.0,30
+Sci-Plex 3,split_cell_heldout,cell held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_excluded,0.0,0.0,0.0,0.0,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_train,1183.6666666666667,25.831460814597612,1187.5,25.25,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_test,141.93333333333334,11.758880234436274,139.5,10.25,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_excluded,874.4,14.896424009669639,873.5,14.25,30
+Sci-Plex 3,split_random,random,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_train,1762.5333333333333,16.441606879548278,1762.0,18.5,30
+Sci-Plex 3,split_random,random,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_test,437.46666666666664,16.441606879548274,438.0,18.5,30
+Sci-Plex 3,split_random,random,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_excluded,0.0,0.0,0.0,0.0,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_train,1772.9333333333334,34.960009995001066,1780.0,33.25,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_test,427.06666666666666,34.960009995001066,420.0,33.25,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,manifest_and_evaluable_records,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv,n_excluded,0.0,0.0,0.0,0.0,30
+OpenProblems,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,414.66,1.9343779831817207,414.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,138.34,1.934377983181721,139.0,1.0,100
+OpenProblems,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,100
+OpenProblems,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,136.34,1.934377983181721,137.0,1.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,333.52,2.062067218138442,334.0,2.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,27.16,0.9504916324904409,27.0,1.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,192.32,1.5101006722745476,192.5,2.0,100
+OpenProblems,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,26.76,1.1730991501836563,27.0,1.0,100
+OpenProblems,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,443.03,8.661367844012453,442.5,11.5,100
+OpenProblems,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,109.97,8.661367844012453,110.5,11.5,100
+OpenProblems,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,100
+OpenProblems,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,108.41,8.52458713713373,108.5,12.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,444.7,2.5917507050585935,445.0,3.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,108.3,2.5917507050585935,108.0,3.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,100
+OpenProblems,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,106.7,3.652866592613854,107.0,6.0,100
+Sci-Plex 3,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,1468.8,10.459775167360153,1463.0,18.0,30
+Sci-Plex 3,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,731.2,10.459775167360153,737.0,18.0,30
+Sci-Plex 3,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,30
+Sci-Plex 3,split_cell_heldout,cell held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,731.2,10.459775167360153,737.0,18.0,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,1183.6666666666667,25.831460814597612,1187.5,25.25,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,141.93333333333334,11.758880234436274,139.5,10.25,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,874.4,14.896424009669639,873.5,14.25,30
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,141.93333333333334,11.758880234436274,139.5,10.25,30
+Sci-Plex 3,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,1762.5333333333333,16.441606879548278,1762.0,18.5,30
+Sci-Plex 3,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,437.46666666666664,16.441606879548274,438.0,18.5,30
+Sci-Plex 3,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,30
+Sci-Plex 3,split_random,random,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,437.46666666666664,16.441606879548274,438.0,18.5,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_train,1772.9333333333334,34.960009995001066,1780.0,33.25,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_test,427.06666666666666,34.960009995001066,420.0,33.25,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,manifest_excluded,0.0,0.0,0.0,0.0,30
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,canonical_manuscript_reporting,derived_from_fixed_manifest_and_evaluator_rows,evaluable_test,427.06666666666666,34.960009995001066,420.0,33.25,30

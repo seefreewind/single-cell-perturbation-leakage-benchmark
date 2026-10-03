@@ -1,0 +1,401 @@
+seed,split,split_label,model,n_records,n_unique_drugs,spearman_drug_level
+1,split_random,random,ridge_cell_drug_fp,109,80,0.18270578138912205
+1,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+1,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.38461539902649144
+1,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.3315083617231894
+2,split_random,random,ridge_cell_drug_fp,115,81,0.10998198300342585
+2,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+2,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.23812782486581366
+2,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.16821859454116225
+3,split_random,random,ridge_cell_drug_fp,112,81,
+3,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+3,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,102,26,0.05709401709401708
+3,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,24,24,-0.07826086956521738
+4,split_random,random,ridge_cell_drug_fp,96,76,
+4,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+4,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.03338806787082649
+4,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.10290093048713739
+5,split_random,random,ridge_cell_drug_fp,114,85,0.16009015020806322
+5,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+5,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,112,28,-0.13466539061377047
+5,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.010400985453909103
+6,split_random,random,ridge_cell_drug_fp,102,85,
+6,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+6,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.18409403359041895
+6,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.29216913788728177
+7,split_random,random,ridge_cell_drug_fp,107,84,
+7,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+7,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,0.25797588455042125
+7,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.27833818153422046
+8,split_random,random,ridge_cell_drug_fp,103,75,
+8,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+8,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,116,29,0.17736174540246766
+8,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,29,29,0.19263456236768015
+9,split_random,random,ridge_cell_drug_fp,105,81,
+9,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+9,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,112,28,0.18719211822660098
+9,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.11220580186097427
+10,split_random,random,ridge_cell_drug_fp,111,86,
+10,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+10,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,101,26,0.3638228810226174
+10,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.31731920450092943
+11,split_random,random,ridge_cell_drug_fp,119,84,
+11,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+11,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,-0.08853610239008541
+11,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,-0.19264234692463408
+12,split_random,random,ridge_cell_drug_fp,119,82,-0.11500921583592376
+12,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+12,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,0.3565323565323565
+12,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.3435897435897436
+13,split_random,random,ridge_cell_drug_fp,108,87,
+13,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+13,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,-0.15076923076923074
+13,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,-0.04478632478632478
+14,split_random,random,ridge_cell_drug_fp,110,81,0.19127301391900148
+14,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+14,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.04182567595669551
+14,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,-0.0048847504766943665
+15,split_random,random,ridge_cell_drug_fp,95,74,
+15,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+15,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.2366051012148834
+15,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.28881087193455446
+16,split_random,random,ridge_cell_drug_fp,110,80,
+16,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+16,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.3914590894006283
+16,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.41226390813800434
+17,split_random,random,ridge_cell_drug_fp,104,74,
+17,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+17,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.0641025641025641
+17,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.10989010989010989
+18,split_random,random,ridge_cell_drug_fp,115,80,
+18,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+18,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,0.002442002442002442
+18,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.006923076923076924
+19,split_random,random,ridge_cell_drug_fp,112,83,
+19,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+19,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,-0.027472527472527472
+19,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,-0.004884004884004884
+20,split_random,random,ridge_cell_drug_fp,106,75,0.2790962859697443
+20,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+20,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,0.1392405389231477
+20,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,-0.007184401271218923
+21,split_random,random,ridge_cell_drug_fp,106,81,
+21,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+21,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,-0.01892840809719067
+21,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.029919096669753
+22,split_random,random,ridge_cell_drug_fp,122,88,
+22,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+22,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,27,0.28937728937728935
+22,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.20478632478632477
+23,split_random,random,ridge_cell_drug_fp,96,77,
+23,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+23,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.14992367111117882
+23,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.16610687797246695
+24,split_random,random,ridge_cell_drug_fp,100,73,0.011185934253567073
+24,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+24,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.09706959706959707
+24,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.18315018315018314
+25,split_random,random,ridge_cell_drug_fp,96,73,
+25,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+25,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.26190476190476186
+25,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.14324786324786323
+26,split_random,random,ridge_cell_drug_fp,103,75,
+26,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+26,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.11876049596463178
+26,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.09433674358115997
+27,split_random,random,ridge_cell_drug_fp,99,72,0.20272121351984582
+27,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+27,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,102,26,0.308034188034188
+27,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.23623931623931624
+28,split_random,random,ridge_cell_drug_fp,105,81,
+28,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+28,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,0.07593638762486407
+28,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.20050032203387883
+29,split_random,random,ridge_cell_drug_fp,94,71,
+29,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+29,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,-0.061207044833692215
+29,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.04240041094624488
+30,split_random,random,ridge_cell_drug_fp,105,81,0.062163729523675486
+30,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+30,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.35609689672462475
+30,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.2860270999825003
+31,split_random,random,ridge_cell_drug_fp,102,79,
+31,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+31,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,99,26,0.4632478632478632
+31,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,22,22,0.5640880858272164
+32,split_random,random,ridge_cell_drug_fp,115,84,0.16975959698091403
+32,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+32,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.15386964001587258
+32,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.3092657645557121
+33,split_random,random,ridge_cell_drug_fp,109,80,
+33,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+33,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.20515952002116342
+33,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.16577621930281508
+34,split_random,random,ridge_cell_drug_fp,99,73,
+34,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+34,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,0.3864468864468864
+34,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.3388278388278388
+35,split_random,random,ridge_cell_drug_fp,119,86,
+35,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+35,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,0.20341880341880342
+35,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.07555555555555556
+36,split_random,random,ridge_cell_drug_fp,104,76,0.16580382712986177
+36,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+36,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,102,26,0.3453581859331236
+36,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.22538461538461538
+37,split_random,random,ridge_cell_drug_fp,114,80,0.21429586014967447
+37,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+37,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.08273546119901085
+37,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.023813158573885034
+38,split_random,random,ridge_cell_drug_fp,111,84,
+38,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+38,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,99,26,0.12
+38,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.005128205128205127
+39,split_random,random,ridge_cell_drug_fp,114,82,0.19011727515734336
+39,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+39,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,101,26,0.11179487179487178
+39,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.026324786324786322
+40,split_random,random,ridge_cell_drug_fp,106,78,
+40,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+40,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.22039072039072038
+40,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.18376068376068375
+41,split_random,random,ridge_cell_drug_fp,103,79,
+41,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+41,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,112,28,0.1502668687946341
+41,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.20801970907818204
+42,split_random,random,ridge_cell_drug_fp,125,88,-0.055801221547048065
+42,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+42,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,112,28,0.41155537387357927
+42,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.32940859266128797
+43,split_random,random,ridge_cell_drug_fp,106,81,
+43,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+43,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.1761563140657906
+43,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.16943978216033584
+44,split_random,random,ridge_cell_drug_fp,117,85,
+44,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+44,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.02353585112205802
+44,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.09140667761357417
+45,split_random,random,ridge_cell_drug_fp,106,77,0.19095518421349494
+45,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+45,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.09087176764994268
+45,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.125632955877481
+46,split_random,random,ridge_cell_drug_fp,124,91,
+46,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+46,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.09085933223864258
+46,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.2818828680897646
+47,split_random,random,ridge_cell_drug_fp,101,73,0.17338198093028964
+47,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+47,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.37545787545787546
+47,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.1105006105006105
+48,split_random,random,ridge_cell_drug_fp,115,86,
+48,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+48,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.16395237597083032
+48,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.19148572685400916
+49,split_random,random,ridge_cell_drug_fp,110,81,
+49,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+49,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,105,27,0.03907203907203907
+49,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.10134310134310134
+50,split_random,random,ridge_cell_drug_fp,116,90,
+50,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+50,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.14698234707234706
+50,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.1439715354935839
+51,split_random,random,ridge_cell_drug_fp,113,81,0.19127301391900148
+51,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+51,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,112,28,0.19594964422550626
+51,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.10509031198686371
+52,split_random,random,ridge_cell_drug_fp,110,83,
+52,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+52,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.2654625068418172
+52,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.3196496989600438
+53,split_random,random,ridge_cell_drug_fp,123,81,
+53,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+53,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.1752136752136752
+53,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.01465201465201465
+54,split_random,random,ridge_cell_drug_fp,105,84,
+54,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+54,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.16121527453559106
+54,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.03311892736639477
+55,split_random,random,ridge_cell_drug_fp,119,87,
+55,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+55,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,-0.16666666666666663
+55,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,-0.1514041514041514
+56,split_random,random,ridge_cell_drug_fp,93,74,
+56,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+56,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.2479813900326749
+56,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.26002463634772754
+57,split_random,random,ridge_cell_drug_fp,102,84,
+57,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+57,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,27,0.3076923076923077
+57,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.17032967032967034
+58,split_random,random,ridge_cell_drug_fp,113,82,
+58,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+58,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,-0.009916225140654045
+58,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.033510002199451605
+59,split_random,random,ridge_cell_drug_fp,119,87,0.10734723050523202
+59,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+59,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.2838827838827839
+59,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.09401709401709402
+60,split_random,random,ridge_cell_drug_fp,112,84,
+60,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+60,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,0.3611491319274998
+60,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.35328319439498795
+61,split_random,random,ridge_cell_drug_fp,102,78,
+61,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+61,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,0.3429059829059829
+61,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.4051282051282051
+62,split_random,random,ridge_cell_drug_fp,112,83,
+62,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+62,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.1330049261083744
+62,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.2621784345922277
+63,split_random,random,ridge_cell_drug_fp,103,76,-0.09211323729436766
+63,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+63,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.054468318561260824
+63,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.13548652104434225
+64,split_random,random,ridge_cell_drug_fp,108,74,
+64,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+64,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,0.2014506656336079
+64,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.2980703462975529
+65,split_random,random,ridge_cell_drug_fp,100,73,
+65,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+65,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.18475434687864853
+65,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.19761872362427294
+66,split_random,random,ridge_cell_drug_fp,115,82,
+66,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+66,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,101,26,0.3415384615384615
+66,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,24,24,0.23391304347826083
+67,split_random,random,ridge_cell_drug_fp,100,74,
+67,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+67,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,101,26,0.28205128205128205
+67,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.27247863247863247
+68,split_random,random,ridge_cell_drug_fp,113,84,
+68,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+68,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.2741147741147741
+68,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.2844932844932845
+69,split_random,random,ridge_cell_drug_fp,110,83,
+69,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+69,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,110,28,-0.022441160372194853
+69,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.03418803418803419
+70,split_random,random,ridge_cell_drug_fp,101,78,0.273724466309494
+70,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+70,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.1215267232225034
+70,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.15633588515055713
+71,split_random,random,ridge_cell_drug_fp,113,85,
+71,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+71,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,0.26495726495726496
+71,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.17675213675213672
+72,split_random,random,ridge_cell_drug_fp,113,88,
+72,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+72,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,0.28683760683760684
+72,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.23350427350427347
+73,split_random,random,ridge_cell_drug_fp,102,80,
+73,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+73,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.3516483516483516
+73,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.2686202686202686
+74,split_random,random,ridge_cell_drug_fp,100,76,
+74,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+74,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,99,25,0.3278184159546986
+74,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.1385148236428304
+75,split_random,random,ridge_cell_drug_fp,94,72,
+75,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+75,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.3102764106275096
+75,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.4623607142618598
+76,split_random,random,ridge_cell_drug_fp,117,86,
+76,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+76,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.2063492063492063
+76,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.2271062271062271
+77,split_random,random,ridge_cell_drug_fp,119,84,0.11543652594702156
+77,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+77,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.021367521367521368
+77,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.08302808302808302
+78,split_random,random,ridge_cell_drug_fp,101,75,
+78,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+78,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.22344322344322343
+78,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.2765567765567765
+79,split_random,random,ridge_cell_drug_fp,114,83,
+79,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+79,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,-0.09768009768009767
+79,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,-0.03785103785103785
+80,split_random,random,ridge_cell_drug_fp,99,79,
+80,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+80,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.5012210012210012
+80,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.47374847374847373
+81,split_random,random,ridge_cell_drug_fp,117,85,
+81,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+81,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,0.24756368971839757
+81,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.1319484540661265
+82,split_random,random,ridge_cell_drug_fp,107,83,
+82,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+82,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.12702290668482766
+82,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.33832062645862754
+83,split_random,random,ridge_cell_drug_fp,106,84,
+83,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+83,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,116,29,0.21871921182266005
+83,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,29,29,-0.0024630541871921174
+84,split_random,random,ridge_cell_drug_fp,100,76,
+84,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+84,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.0757020757020757
+84,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.010378510378510378
+85,split_random,random,ridge_cell_drug_fp,94,75,-0.005369725771885312
+85,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+85,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,108,27,0.39474889789786355
+85,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.48084262504960174
+86,split_random,random,ridge_cell_drug_fp,114,79,
+86,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+86,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.14774114774114774
+86,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.16649572649572647
+87,split_random,random,ridge_cell_drug_fp,126,89,
+87,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+87,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.21279194264099838
+87,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.41306671218546737
+88,split_random,random,ridge_cell_drug_fp,123,89,0.1825741858350554
+88,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+88,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,100,25,0.3512889832941782
+88,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.293189710043991
+89,split_random,random,ridge_cell_drug_fp,126,89,
+89,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+89,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,26,0.206531033963967
+89,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.19661480882331298
+90,split_random,random,ridge_cell_drug_fp,112,81,
+90,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+90,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.19267176470703426
+90,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.07725191199822452
+91,split_random,random,ridge_cell_drug_fp,131,92,0.10855265507112767
+91,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+91,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,-0.004273504273504274
+91,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.03785103785103785
+92,split_random,random,ridge_cell_drug_fp,101,78,
+92,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+92,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,104,26,0.22598290598290596
+92,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,26,26,0.26153846153846155
+93,split_random,random,ridge_cell_drug_fp,109,85,
+93,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+93,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.379789349562987
+93,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.35292322194116804
+94,split_random,random,ridge_cell_drug_fp,108,72,0.20272121351984582
+94,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+94,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,111,28,0.38478379857690204
+94,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,28,28,0.3700054734537493
+95,split_random,random,ridge_cell_drug_fp,105,78,
+95,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+95,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.15323565323565325
+95,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.08424908424908426
+96,split_random,random,ridge_cell_drug_fp,109,85,-0.01778779446756258
+96,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+96,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,116,29,0.20667570054537548
+96,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,29,29,0.3963542338230145
+97,split_random,random,ridge_cell_drug_fp,102,78,-0.07845453458302815
+97,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+97,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,103,27,0.16544566544566544
+97,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,23,23,0.20454545454545459
+98,split_random,random,ridge_cell_drug_fp,109,83,0.12906103956412637
+98,split_cell_heldout,cell held-out,ridge_cell_drug_fp,138,138,
+98,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,106,27,0.0274851151146416
+98,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.137425575573208
+99,split_random,random,ridge_cell_drug_fp,91,65,0.1998756715833848
+99,split_cell_heldout,cell held-out,ridge_cell_drug_fp,137,137,
+99,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,107,27,0.09983208786744113
+99,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,27,27,0.2866737936010007
+100,split_random,random,ridge_cell_drug_fp,92,76,
+100,split_cell_heldout,cell held-out,ridge_cell_drug_fp,133,133,
+100,split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,100,25,0.1453846153846154
+100,split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,25,25,0.12307692307692307

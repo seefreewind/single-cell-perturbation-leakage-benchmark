@@ -1,5 +1,9 @@
 # Leakage-aware single-cell chemical perturbation benchmark
 
+## Current fixed-cohort revision
+
+The current manuscript is **Auditing chemical and cellular train-test overlap in perturbation-response prediction**. Current revision code, frozen outputs, consolidated Supplementary Information, logs, and exact file checksums are described in [BMC_revision_20261003/README.md](BMC_revision_20261003/README.md). This revision evaluates an audit protocol with transparent probes; it does not rank untested model families or reproduce original published neural workflows. The sections below document the preserved historical v17 release. The existing Zenodo DOI identifies that earlier archive until a revised version is published.
+
 This repository contains the code, split manifests, leakage-audit tables, model-result summaries, figure source data, and manuscript draft for a leakage-aware benchmark of single-cell chemical perturbation transcriptomics.
 
 The accompanying manuscript draft is:

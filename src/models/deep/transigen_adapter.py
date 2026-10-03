@@ -75,7 +75,7 @@ class TranSiGenAdapter:
             raise RuntimeError("Target scaler is not fitted.")
         return ((y - self.y_mean) / self.y_std).astype(np.float32)
 
-    def fit(self, train_data: dict[str, np.ndarray], val_data: dict[str, np.ndarray] | None = None, config: dict[str, Any] | None = None) -> None:
+    def fit(self, train_data: dict[str, np.ndarray], val_data: dict[str, np.ndarray] | None = None, config: dict[str, Any] | None = None) -> list[dict[str, float]]:
         cfg = {
             "epochs": 20,
             "batch_size": 64,
@@ -102,7 +102,8 @@ class TranSiGenAdapter:
         bad_epochs = 0
         rng = np.random.default_rng(int(self.config["seed"]))
 
-        for _epoch in range(int(cfg["epochs"])):
+        history: list[dict[str, float]] = []
+        for epoch in range(int(cfg["epochs"])):
             order = rng.permutation(n)
             self.model.train()
             for start in range(0, n, batch_size):
@@ -114,10 +115,16 @@ class TranSiGenAdapter:
                 loss.backward()
                 optimizer.step()
 
+            self.model.eval()
+            with torch.no_grad():
+                train_loss = float(loss_fn(self.model(torch.from_numpy(x_train)), torch.from_numpy(y_train)).item())
+            row = {"epoch": float(epoch + 1), "train_loss": train_loss}
+
             if x_val is not None:
                 self.model.eval()
                 with torch.no_grad():
                     val_loss = float(loss_fn(self.model(torch.from_numpy(x_val)), torch.from_numpy(y_val)).item())
+                row["val_loss"] = val_loss
                 if val_loss < best_loss:
                     best_loss = val_loss
                     best_state = {k: v.detach().clone() for k, v in self.model.state_dict().items()}
@@ -125,9 +132,12 @@ class TranSiGenAdapter:
                 else:
                     bad_epochs += 1
                     if bad_epochs >= int(cfg["patience"]):
+                        history.append(row)
                         break
+            history.append(row)
         if best_state is not None:
             self.model.load_state_dict(best_state)
+        return history
 
     def predict(self, test_data: dict[str, np.ndarray]) -> np.ndarray:
         x = self._standardize_x(test_data["x"], fit=False)

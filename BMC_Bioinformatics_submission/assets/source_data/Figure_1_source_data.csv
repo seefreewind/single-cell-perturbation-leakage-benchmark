@@ -1,0 +1,10 @@
+component_type,component,description
+dataset,OpenProblems,"545 evaluable treated records; 138 stored drugs, 4 cell contexts; 100 fixed seeds"
+dataset,Sci-Plex 3,"2,200 pseudobulk records; 188 drugs, 3 cell lines, 4 doses; 30 fixed seeds"
+workflow_layer,A. Fixed tasks,random local interpolation; cell/context held-out; scaffold held-out; joint cell + scaffold held-out
+workflow_layer,B. Neighborhood audit,same drug / scaffold / cell / dose / MoA; nearest training-drug Tanimoto; missingness + integrity checks
+workflow_layer,C. Transparent probes,mean and ridge baselines; control-conditioned nonlinear benchmark; train-only validation and status rows
+workflow_layer,D. Portable evidence,seed-level metrics; paired matched-random contrasts; source data + reporting checklist
+evaluation_task,Random,familiar drug/cell neighborhoods
+evaluation_task,Scaffold held-out,new chemical framework
+evaluation_task,Joint held-out,new cell + new scaffold intersection

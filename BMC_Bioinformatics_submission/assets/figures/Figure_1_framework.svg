@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="510.48pt" height="297.84pt" viewBox="0 0 510.48 297.84" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-22T15:48:12.130968</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 297.84 
+L 510.48 297.84 
+L 510.48 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 41.9256 79.4772 
+L 235.3968 79.4772 
+L 235.3968 45.4644 
+L 41.9256 45.4644 
+z
+" clip-path="url(#pa61e515531)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 265.1616 79.4772 
+L 458.6328 79.4772 
+L 458.6328 45.4644 
+L 265.1616 45.4644 
+z
+" clip-path="url(#pa61e515531)" style="fill: #f2f5f7; stroke: #8a99a8; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 27.0432 175.8468 
+L 128.7396 175.8468 
+L 128.7396 97.9008 
+L 27.0432 97.9008 
+z
+" clip-path="url(#pa61e515531)" style="fill: #e8f1fa; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 143.622 175.8468 
+L 245.3184 175.8468 
+L 245.3184 97.9008 
+L 143.622 97.9008 
+z
+" clip-path="url(#pa61e515531)" style="fill: #eef6e9; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 260.2008 175.8468 
+L 361.8972 175.8468 
+L 361.8972 97.9008 
+L 260.2008 97.9008 
+z
+" clip-path="url(#pa61e515531)" style="fill: #fdf2df; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 376.7796 175.8468 
+L 478.476 175.8468 
+L 478.476 97.9008 
+L 376.7796 97.9008 
+z
+" clip-path="url(#pa61e515531)" style="fill: #f7eaf4; stroke: #4a5568; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 66.7296 250.9584 
+L 175.8672 250.9584 
+L 175.8672 216.9456 
+L 66.7296 216.9456 
+z
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #277da1; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 205.632 250.9584 
+L 314.7696 250.9584 
+L 314.7696 216.9456 
+L 205.632 216.9456 
+z
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #e8a13a; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 344.5344 250.9584 
+L 453.672 250.9584 
+L 453.672 216.9456 
+L 344.5344 216.9456 
+z
+" clip-path="url(#pa61e515531)" style="fill: #ffffff; stroke: #c84b57; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="255.24" y="20.149073" transform="rotate(-0 255.24 20.149073)">Leakage-aware benchmark evaluation defines what each score can claim</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="37.951397" transform="rotate(-0 255.24 37.951397)">Generalization is interpreted as a model--data--split--claim system</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="51.8472" y="58.768797" transform="rotate(-0 51.8472 58.768797)">OpenProblems</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(51.8472 65.996402)">545 evaluable treated records</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(51.8472 72.526676)">138 stored drugs, 4 cell contexts</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(51.8472 79.057066)">100 fixed seeds</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 7.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="275.0832" y="58.768797" transform="rotate(-0 275.0832 58.768797)">Sci-Plex 3</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(275.0832 65.996402)">2,200 pseudobulk records</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(275.0832 72.526676)">188 drugs, 3 cell lines, 4 doses</text>
+    <text style="font-size: 6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(275.0832 79.057066)">30 fixed seeds</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="32.99616" y="110.147846" transform="rotate(-0 32.99616 110.147846)">A. Fixed tasks</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(32.99616 133.058346)">random local interpolation</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(32.99616 138.663498)">cell/context held-out</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(32.99616 144.268649)">scaffold held-out</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(32.99616 149.8738)">joint cell + scaffold held-out</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 130.736879 137.01552 
+Q 134.443535 137.01552 137.255763 137.01552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 134.455763 135.61552 
+L 137.255763 137.01552 
+L 134.455763 138.41552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="149.57496" y="110.147779" transform="rotate(-0 149.57496 110.147779)">B. Neighborhood audit</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(149.57496 135.860821)">same drug / scaffold / cell / dose / MoA</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(149.57496 141.466073)">nearest training-drug Tanimoto</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(149.57496 147.071325)">missingness + integrity checks</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 247.315679 137.01552 
+Q 251.022335 137.01552 253.834563 137.01552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 251.034563 135.61552 
+L 253.834563 137.01552 
+L 251.034563 138.41552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="266.15376" y="110.147846" transform="rotate(-0 266.15376 110.147846)">C. Transparent probes</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(266.15376 135.860872)">mean and ridge baselines</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(266.15376 141.466124)">control-conditioned nonlinear benchmark</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(266.15376 147.071275)">train-only validation and status rows</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 363.894479 137.01552 
+Q 367.601135 137.01552 370.413363 137.01552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+    <path d="M 367.613363 135.61552 
+L 370.413363 137.01552 
+L 367.613363 138.41552 
+" style="fill: none; stroke: #4a5568; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: start" x="382.73256" y="110.147846" transform="rotate(-0 382.73256 110.147846)">D. Portable evidence</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(382.73256 135.860922)">seed-level metrics</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(382.73256 141.466073)">paired matched-random contrasts</text>
+    <text style="font-size: 5.15px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif" transform="translate(382.73256 147.071225)">source data + reporting checklist</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #277da1" x="121.2984" y="230.042966" transform="rotate(-0 121.2984 230.042966)">Random</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="121.2984" y="242.461286" transform="rotate(-0 121.2984 242.461286)">familiar drug/cell neighborhoods</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #e8a13a" x="260.2008" y="230.042966" transform="rotate(-0 260.2008 230.042966)">Scaffold held-out</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="260.2008" y="242.46134" transform="rotate(-0 260.2008 242.46134)">new chemical framework</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 6.8px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #c84b57" x="399.1032" y="230.042966" transform="rotate(-0 399.1032 230.042966)">Joint held-out</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 5.5px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle" x="399.1032" y="242.46134" transform="rotate(-0 399.1032 242.46134)">new cell + new scaffold intersection</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.6px; font-family: 'Arial', 'DejaVu Sans', 'Liberation Sans', sans-serif; text-anchor: middle; fill: #4d4d4d" x="255.24" y="275.0508" transform="rotate(-0 255.24 275.0508)">Output: interpretable scores, not a single undifferentiated claim of model generalization</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa61e515531">
+   <rect x="7.2" y="7.2" width="496.08" height="283.44"/>
+  </clipPath>
+ </defs>
+</svg>

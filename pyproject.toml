@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "perturbation-neighborhood-audit"
+version = "0.2.0"
+description = "Record-level neighborhood audits for fixed perturbation-response manifests"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "rdkit"]
+
+[project.scripts]
+perturbation-audit = "audit_benchmark.cli:main"
+
+[tool.setuptools]
+packages = ["audit_benchmark"]

@@ -1,0 +1,8 @@
+{
+  "max_fixed_panel_reconstruction_error": 3.934635630642447e-06,
+  "raw_gene_count": 110983,
+  "n_treated_records": 2200,
+  "n_seeds": 30,
+  "selection": "top 2000 by summed raw counts in manifest training treated records only",
+  "control_definition": "same public matched cell-line control references as the original response target; sensitivity addresses gene-selection frequencies only"
+}

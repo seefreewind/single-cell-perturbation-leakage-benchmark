@@ -1,0 +1,5 @@
+split,split_label,model,n_seeds,mean_unique_drugs,mean_records,mean_spearman_drug_level,bootstrap_95ci_low,bootstrap_95ci_high,inference_unit
+split_cell_heldout,cell held-out,ridge_cell_drug_fp,0,136.34,136.34,,,,"seed; within seed, unique drug"
+split_cell_scaffold_heldout,joint held-out,ridge_cell_drug_fp,100,26.76,26.76,0.1806705402410767,0.15286861168880617,0.20731506581558243,"seed; within seed, unique drug"
+split_random,random,ridge_cell_drug_fp,29,80.61,108.41,0.11895041686560336,0.07848280641958338,0.15693812769865487,"seed; within seed, unique drug"
+split_scaffold_heldout,scaffold held-out,ridge_cell_drug_fp,100,27.02,106.7,0.18343236071171998,0.15556707288129462,0.2109870205823284,"seed; within seed, unique drug"

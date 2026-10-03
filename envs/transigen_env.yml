@@ -1,0 +1,17 @@
+name: transigen_sciplex3
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - pytorch
+  - cpuonly
+  - pip:
+      - anndata
+      - rdkit

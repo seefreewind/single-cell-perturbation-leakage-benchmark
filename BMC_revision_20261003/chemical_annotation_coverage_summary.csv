@@ -1,0 +1,3 @@
+dataset,n_drugs,n_records,unique_scaffolds,missing_smiles_drugs,missing_smiles_records,invalid_smiles_drugs,invalid_smiles_records,zero_fingerprint_drugs,zero_fingerprint_records,missing_scaffold_drugs,missing_scaffold_records,moa_annotated_drugs,moa_annotated_records
+OpenProblems,138,545,134,0,0,0,0,0,0,2,8,138,545
+Sci-Plex 3,188,2200,164,0,0,0,0,0,0,6,72,0,0

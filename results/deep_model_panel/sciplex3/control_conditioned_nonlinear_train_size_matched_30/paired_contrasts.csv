@@ -1,0 +1,3 @@
+model_name,comparison,n_paired_seeds,mean_difference,bootstrap_95ci_low,bootstrap_95ci_high,inference_unit
+control_conditioned_nonlinear_benchmark,test_size_matched_random minus joint held-out,30,0.2573338810582243,0.2478801183426995,0.26774363139555596,seed
+control_conditioned_nonlinear_benchmark,train_test_size_matched_random minus joint held-out,30,0.22782259225918627,0.21862279696580939,0.2381161360909112,seed

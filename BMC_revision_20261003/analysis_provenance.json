@@ -1,0 +1,15 @@
+{
+  "inputs": {
+    "results/bmc_master/master_performance_seed_level.csv": "d6bed0507c425fdfd8be9fdf5bf937533151503d961556629e081c64c32d268a",
+    "data/raw/openproblems_neurips2023/moa_annotations.csv": "2ab652b6ec33239b5e4172176fb8a68980e7066b0fae9fd54a12efc8f920d30e",
+    "results/sciplex3_24h_top2000_multiseed_30/baseline_per_row_all.csv": "3a3fd07a07d7b74088c11c67139b01ba6e669cb3801bfc1146bc31a7af451339"
+  },
+  "bootstrap_resamples": 10000,
+  "bootstrap_seed": 20261003,
+  "uncertainty": "conditional split-construction sensitivity on the fixed observed cohorts",
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.4-arm64-arm-64bit",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "rdkit": "2026.03.6"
+}

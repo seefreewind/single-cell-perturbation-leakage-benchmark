@@ -1,0 +1,5 @@
+control,mean_n_train,mean_n_test,same_drug_overlap,same_scaffold_overlap,same_cell_overlap,mean_nearest_train_tanimoto
+composition_train_test_size_matched_random,328.72,26.76,0.9434522652731797,0.9372841741050887,1.0,0.9611119441269309
+joint_heldout,328.72,26.76,0.0,0.0,0.0,0.2775779287969495
+test_size_matched_random,436.59,26.76,0.9867888552060965,0.9729408818928309,1.0,0.993257434706432
+train_test_size_matched_random,328.72,26.76,0.9336688454141228,0.9220166392966243,1.0,0.9590552359764061

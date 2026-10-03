@@ -1,0 +1,85 @@
+dataset,model,metric,comparison,n_paired_seeds,mean_difference,bootstrap_95ci_low,bootstrap_95ci_high,inference_unit,source
+OpenProblems,cell_context_mean,de_gene_pearson,random minus scaffold held-out,100,-0.0065503554582838856,-0.015764706343391176,0.002388623117905842,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,de_gene_pearson,random minus joint held-out,100,0.1817967417862666,0.16615187530467856,0.1976507665044153,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,rmse,random minus scaffold held-out,100,-0.0068113851547241255,-0.020189317747950547,0.0065740223973989416,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,rmse,random minus joint held-out,100,-0.046839039325714114,-0.07303528626263141,-0.02066142019629479,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,rowwise_pearson,random minus scaffold held-out,100,-0.004455656111240384,-0.011097297381609677,0.0021682212837040396,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,rowwise_pearson,random minus joint held-out,100,0.13020559281110763,0.12018261979334056,0.13991706411726773,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,de_gene_pearson,random minus scaffold held-out,100,0.08290426543560729,0.0727488751227464,0.09259635225819302,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,de_gene_pearson,random minus joint held-out,100,0.17227255304251307,0.15554559136563179,0.18852786383201323,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,rmse,random minus scaffold held-out,100,0.05633851230144501,0.042812617957592024,0.07027068102359772,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,rmse,random minus joint held-out,100,0.03265771806240083,0.005209422811865839,0.05969781708717344,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,rowwise_pearson,random minus scaffold held-out,100,0.052847260236740114,0.04594812761992216,0.059919763784855605,seed,fixed_same_seed_manifest
+OpenProblems,drug_mean,rowwise_pearson,random minus joint held-out,100,0.1142574754357338,0.1041514856144786,0.12429516098089516,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,de_gene_pearson,random minus scaffold held-out,100,-0.0024058504976640633,-0.012599940827426607,0.007871193776870067,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,de_gene_pearson,random minus joint held-out,100,0.08696243710924173,0.07061904376026791,0.1032482848846068,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,rmse,random minus scaffold held-out,100,-0.008588939905166626,-0.022471269950270652,0.005185593158006658,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,rmse,random minus joint held-out,100,-0.03226973414421081,-0.059582717642188074,-0.005927133604884157,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,rowwise_pearson,random minus scaffold held-out,100,-3.4630447626121105e-05,-0.007045770194381486,0.00697835490480064,seed,fixed_same_seed_manifest
+OpenProblems,global_train_mean,rowwise_pearson,random minus joint held-out,100,0.06137558475136757,0.05139607948623597,0.07116192652471363,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,de_gene_pearson,random minus scaffold held-out,100,-0.006185551902409855,-0.01540367838007546,0.0029913848303150846,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,de_gene_pearson,random minus joint held-out,100,0.1810156330096649,0.1647038133492081,0.19623960266463025,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,rmse,random minus scaffold held-out,100,-0.0070045015257381715,-0.020324951355953743,0.006196754668082932,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,rmse,random minus joint held-out,100,-0.04793619243949739,-0.07454605696604447,-0.021794905861394702,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,rowwise_pearson,random minus scaffold held-out,100,-0.004098126890987963,-0.01096383061897724,0.0027071408383033554,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell,rowwise_pearson,random minus joint held-out,100,0.1305412633331952,0.1206085910277621,0.14014743717817843,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,de_gene_pearson,random minus scaffold held-out,100,0.1763548690821326,0.1683235832693833,0.18443715618206832,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,de_gene_pearson,random minus joint held-out,100,0.3592615493337575,0.3466776503135458,0.37185587057796426,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,rmse,random minus scaffold held-out,100,-0.053802600168879666,-0.06566263367671483,-0.042228278208954424,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,rmse,random minus joint held-out,100,-0.10114324872053006,-0.12605397975991917,-0.0773130594735092,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,rowwise_pearson,random minus scaffold held-out,100,0.12773257162238066,0.12154369482907286,0.1338543929228357,seed,fixed_same_seed_manifest
+OpenProblems,ridge_cell_drug_fp,rowwise_pearson,random minus joint held-out,100,0.24320498194328496,0.2355328181773888,0.25098834805752035,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,de_gene_pearson,random minus scaffold held-out,100,0.19178342438551682,0.1828471745367914,0.20079234675277907,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,de_gene_pearson,random minus joint held-out,100,0.2648983134993425,0.2523195320692722,0.2775249217854058,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,rmse,random minus scaffold held-out,100,-0.040455896149098586,-0.052716111179708584,-0.028107111105926792,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,rmse,random minus joint held-out,100,-0.07097199170675647,-0.0963894937056524,-0.04661776673161338,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,rowwise_pearson,random minus scaffold held-out,100,0.13087619079184007,0.12468664915358511,0.13720218180041202,seed,fixed_same_seed_manifest
+OpenProblems,ridge_drug_fp,rowwise_pearson,random minus joint held-out,100,0.17693795962231426,0.1693088509029637,0.18452969872576508,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_context_mean,rmse,random minus scaffold held-out,30,-0.00012804770705593336,-0.0026380500828269327,0.002151435828471866,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_context_mean,rmse,random minus joint held-out,30,-0.0028973938614097103,-0.005952499533719993,-2.329135983184897e-06,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_context_mean,rowwise_pearson,random minus scaffold held-out,30,0.0021437865637345833,-0.0046416115387633615,0.008642510318719803,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_context_mean,rowwise_pearson,random minus joint held-out,30,0.15614346461272705,0.14606055779080462,0.16595303289160807,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_dose_mean,rmse,random minus scaffold held-out,30,0.00013740976884441073,-0.002376309110930961,0.002413842289339369,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_dose_mean,rmse,random minus joint held-out,30,-0.003064994420991804,-0.006102959040273804,-0.00015852896566138618,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_dose_mean,rowwise_pearson,random minus scaffold held-out,30,-0.0023138755135109212,-0.008461390344552048,0.004163195384385522,seed,fixed_same_seed_manifest
+Sci-Plex 3,cell_dose_mean,rowwise_pearson,random minus joint held-out,30,0.17210160928140594,0.16227054097150814,0.18200132525587992,seed,fixed_same_seed_manifest
+Sci-Plex 3,drug_mean,rmse,random minus scaffold held-out,30,-0.0008505597643329602,-0.003394700168467225,0.0015077186402170108,seed,fixed_same_seed_manifest
+Sci-Plex 3,drug_mean,rmse,random minus joint held-out,30,-0.0030063047511605704,-0.006035466808613173,-8.39257684280403e-05,seed,fixed_same_seed_manifest
+Sci-Plex 3,drug_mean,rowwise_pearson,random minus scaffold held-out,30,0.07973793005279003,0.07332071119319167,0.08609580293611817,seed,fixed_same_seed_manifest
+Sci-Plex 3,drug_mean,rowwise_pearson,random minus joint held-out,30,0.16465113723849858,0.15444248665823349,0.17483906868261154,seed,fixed_same_seed_manifest
+Sci-Plex 3,global_train_mean,rmse,random minus scaffold held-out,30,-0.00012257825582561027,-0.00276698119358427,0.0022701348904840516,seed,fixed_same_seed_manifest
+Sci-Plex 3,global_train_mean,rmse,random minus joint held-out,30,-0.0022783232426532205,-0.005389673306305002,0.000728021543551509,seed,fixed_same_seed_manifest
+Sci-Plex 3,global_train_mean,rowwise_pearson,random minus scaffold held-out,30,0.0019020519823250278,-0.00440815575609803,0.007871348569714835,seed,fixed_same_seed_manifest
+Sci-Plex 3,global_train_mean,rowwise_pearson,random minus joint held-out,30,0.08681525916803358,0.07703052151025899,0.09646796658449647,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose,rmse,random minus scaffold held-out,30,-6.535555818605645e-05,-0.002485814383145327,0.002223208866423694,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose,rmse,random minus joint held-out,30,-0.0032843388283258766,-0.006256037354179177,-0.00042864692295189924,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose,rowwise_pearson,random minus scaffold held-out,30,0.0018009605100728447,-0.0049098344164522564,0.00851031672829658,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose,rowwise_pearson,random minus joint held-out,30,0.15978674282284827,0.14922357700564406,0.17039360672026416,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose_drug_fp,rmse,random minus scaffold held-out,30,-0.006108314041683144,-0.008260048527269711,-0.004105871647799426,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose_drug_fp,rmse,random minus joint held-out,30,-0.011253868483871736,-0.01391499421609733,-0.008709060175387072,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose_drug_fp,rowwise_pearson,random minus scaffold held-out,30,0.10304490247373942,0.09651659526335833,0.10959986851616166,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_cell_dose_drug_fp,rowwise_pearson,random minus joint held-out,30,0.2318813119235808,0.2220021364704656,0.24185919434348732,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_drug_fp,rmse,random minus scaffold held-out,30,-0.005853547770232415,-0.00821276558732752,-0.0037104053511829134,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_drug_fp,rmse,random minus joint held-out,30,-0.009851048696186153,-0.012630083182962616,-0.007319787939118109,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_drug_fp,rowwise_pearson,random minus scaffold held-out,30,0.11675857095241783,0.11061195884445396,0.12314167179039566,seed,fixed_same_seed_manifest
+Sci-Plex 3,ridge_drug_fp,rowwise_pearson,random minus joint held-out,30,0.1848947416635584,0.1754504177041554,0.19439576218004395,seed,fixed_same_seed_manifest
+Sci-Plex 3,transigen_adapted_sciplex3,rmse,random minus scaffold held-out,30,-0.003136312866144886,-0.005678954456667963,-0.0008329418357833671,seed,fixed_same_seed_manifest
+Sci-Plex 3,transigen_adapted_sciplex3,rmse,random minus joint held-out,30,-0.5004455331145058,-0.6554180204616323,-0.3600597623241841,seed,fixed_same_seed_manifest
+Sci-Plex 3,transigen_adapted_sciplex3,rowwise_pearson,random minus scaffold held-out,30,0.021066306789583565,0.0131073591723048,0.02866354731951751,seed,fixed_same_seed_manifest
+Sci-Plex 3,transigen_adapted_sciplex3,rowwise_pearson,random minus joint held-out,30,0.21591171478515708,0.20821324371797495,0.22398887974154752,seed,fixed_same_seed_manifest
+OpenProblems,cell_context_mean,de_gene_pearson,composition_matched_random minus actual joint held-out,100,0.180551316227693,0.1613157751265032,0.1995183198670199,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,cell_context_mean,de_gene_pearson,size_matched_random minus actual joint held-out,100,0.17737821802416628,0.15918649546799465,0.19495149903259335,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,cell_context_mean,rowwise_pearson,composition_matched_random minus actual joint held-out,100,0.12986980049130345,0.11954305724464405,0.14045441126231895,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,cell_context_mean,rowwise_pearson,size_matched_random minus actual joint held-out,100,0.1272177881274158,0.11519494485156254,0.13925659049984537,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,drug_mean,de_gene_pearson,composition_matched_random minus actual joint held-out,100,0.17529082606668794,0.1619499903505512,0.18862128098802258,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,drug_mean,de_gene_pearson,size_matched_random minus actual joint held-out,100,0.16987127702112584,0.1525096036209139,0.18666878145017396,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,drug_mean,rowwise_pearson,composition_matched_random minus actual joint held-out,100,0.11586698349124668,0.10703024205325386,0.12490981689113186,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,drug_mean,rowwise_pearson,size_matched_random minus actual joint held-out,100,0.11257686534893371,0.10156087568295756,0.12368167495253404,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,global_train_mean,de_gene_pearson,composition_matched_random minus actual joint held-out,100,0.08424737202503046,0.0662902137222003,0.10197156143280185,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,global_train_mean,de_gene_pearson,size_matched_random minus actual joint held-out,100,0.08131720381477903,0.06243913464913409,0.10011273727798334,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,global_train_mean,rowwise_pearson,composition_matched_random minus actual joint held-out,100,0.06031444361235264,0.05020375473172682,0.07081603593317279,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,global_train_mean,rowwise_pearson,size_matched_random minus actual joint held-out,100,0.057600478705734724,0.045555253655963676,0.06979656231305897,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,ridge_cell_drug_fp,de_gene_pearson,composition_matched_random minus actual joint held-out,100,0.36506690109681644,0.3531609517016041,0.3770402419945104,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,ridge_cell_drug_fp,de_gene_pearson,size_matched_random minus actual joint held-out,100,0.35767444106532453,0.3441914364826944,0.3705571936508351,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,ridge_cell_drug_fp,rowwise_pearson,composition_matched_random minus actual joint held-out,100,0.24668807718040178,0.2372322582364529,0.2564621981245121,seed,reconstructed_matched_random_from_saved_predictions
+OpenProblems,ridge_cell_drug_fp,rowwise_pearson,size_matched_random minus actual joint held-out,100,0.241591329181757,0.23235732226229666,0.25067673710287675,seed,reconstructed_matched_random_from_saved_predictions

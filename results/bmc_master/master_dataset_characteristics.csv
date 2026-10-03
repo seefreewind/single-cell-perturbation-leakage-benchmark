@@ -1,0 +1,4 @@
+dataset,stage,records,unique_drugs,unique_cell_contexts,unique_scaffolds_nonmissing,unique_doses,source_file
+OpenProblems,raw local metadata,553,140,4,,1,metadata/openproblems/openproblems_perturbation_metadata_full.csv
+OpenProblems,treated evaluator subset,545,138,4,136.0,1,metadata/openproblems/openproblems_perturbation_metadata_full.csv
+Sci-Plex 3,final pseudobulk cohort,2200,188,3,164.0,4,results/sciplex3_24h_top2000_multiseed_30/split_summary_by_seed.csv

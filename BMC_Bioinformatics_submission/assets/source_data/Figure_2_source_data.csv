@@ -1,0 +1,4 @@
+dataset,split,split_label,n_train,n_test,n_excluded,same_drug_overlap,same_scaffold_overlap,same_cell_overlap,moa_annotated_fraction,same_moa_overlap_among_annotated,missing_moa_fraction,mean_nearest_train_tanimoto,mean_max_train_tanimoto
+OpenProblems,split_random,random,436.59,108.41,0.0,0.988533841492808,0.974380890740099,1.0,1.0,0.9956590884260448,0.0,0.9970915590504396,
+OpenProblems,split_scaffold_heldout,scaffold held-out,438.3,106.7,0.0,0.0,0.0,1.0,1.0,0.4265432708845599,0.0,0.2776575642539178,
+OpenProblems,split_cell_scaffold_heldout,joint held-out,328.72,26.76,189.52,0.0,0.0,0.0,1.0,0.4268193612567675,0.0,0.2775779287969495,

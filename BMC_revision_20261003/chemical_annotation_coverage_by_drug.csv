@@ -1,0 +1,327 @@
+dataset,drug_name,n_records,missing_smiles,invalid_smiles,zero_fingerprint,missing_scaffold,n_distinct_smiles,moa_annotated,n_moa_labels
+OpenProblems,5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,4,False,False,False,False,1,True,1
+OpenProblems,ABT-199 (GDC-0199),4,False,False,False,False,1,True,1
+OpenProblems,ABT737,4,False,False,False,False,1,True,1
+OpenProblems,AMD-070 (hydrochloride),4,False,False,False,False,1,True,1
+OpenProblems,AT 7867,4,False,False,False,False,1,True,1
+OpenProblems,AT13387,4,False,False,False,False,1,True,1
+OpenProblems,AVL-292,4,False,False,False,False,1,True,1
+OpenProblems,AZ628,4,False,False,False,False,1,True,1
+OpenProblems,AZD-8330,4,False,False,False,False,1,True,1
+OpenProblems,AZD3514,4,False,False,False,False,1,True,1
+OpenProblems,AZD4547,4,False,False,False,False,1,True,1
+OpenProblems,Alogliptin,4,False,False,False,False,1,True,1
+OpenProblems,Amiodarone,4,False,False,False,False,1,True,1
+OpenProblems,Atorvastatin,4,False,False,False,False,1,True,1
+OpenProblems,Azacitidine,4,False,False,False,False,1,True,1
+OpenProblems,BAY 61-3606,4,False,False,False,False,1,True,1
+OpenProblems,BAY 87-2243,4,False,False,False,False,1,True,1
+OpenProblems,BI-D1870,4,False,False,False,False,1,True,1
+OpenProblems,BMS-265246,4,False,False,False,False,1,True,1
+OpenProblems,BMS-387032,2,False,False,False,False,1,True,1
+OpenProblems,BMS-536924,4,False,False,False,False,1,True,1
+OpenProblems,BMS-777607,4,False,False,False,False,1,True,1
+OpenProblems,BX 912,4,False,False,False,False,1,True,1
+OpenProblems,Bosutinib,4,False,False,False,False,1,True,1
+OpenProblems,Buspirone,4,False,False,False,False,1,True,1
+OpenProblems,CC-401,4,False,False,False,False,1,True,1
+OpenProblems,CEP-37440,4,False,False,False,False,1,True,1
+OpenProblems,CGM-097,4,False,False,False,False,1,True,1
+OpenProblems,CHIR-99021,4,False,False,False,False,1,True,1
+OpenProblems,Cabozantinib,4,False,False,False,False,1,True,1
+OpenProblems,Canertinib,3,False,False,False,False,1,True,1
+OpenProblems,Ceritinib,4,False,False,False,False,1,True,1
+OpenProblems,Chlorpheniramine,4,False,False,False,False,1,True,1
+OpenProblems,Clemastine,4,False,False,False,False,1,True,1
+OpenProblems,Clomipramine,4,False,False,False,False,1,True,1
+OpenProblems,Clotrimazole,4,False,False,False,False,1,True,1
+OpenProblems,Colchicine,4,False,False,False,False,1,True,1
+OpenProblems,Colforsin,4,False,False,False,False,1,True,1
+OpenProblems,Crizotinib,4,False,False,False,False,1,True,1
+OpenProblems,Dactolisib,4,False,False,False,False,1,True,1
+OpenProblems,Dasatinib,4,False,False,False,False,1,True,1
+OpenProblems,Decitabine,4,False,False,False,False,1,True,1
+OpenProblems,Defactinib,4,False,False,False,False,1,True,1
+OpenProblems,Desloratadine,4,False,False,False,False,1,True,1
+OpenProblems,Disulfiram,4,False,False,False,True,1,True,1
+OpenProblems,Dovitinib,4,False,False,False,False,1,True,1
+OpenProblems,Doxorubicin,4,False,False,False,False,1,True,1
+OpenProblems,FK 866,4,False,False,False,False,1,True,1
+OpenProblems,Flutamide,4,False,False,False,False,1,True,1
+OpenProblems,Foretinib,3,False,False,False,False,1,True,1
+OpenProblems,GLPG0634,4,False,False,False,False,1,True,1
+OpenProblems,GO-6976,4,False,False,False,False,1,True,1
+OpenProblems,GSK-1070916,4,False,False,False,False,1,True,1
+OpenProblems,GSK256066,4,False,False,False,False,1,True,1
+OpenProblems,GW843682X,4,False,False,False,False,1,True,1
+OpenProblems,Ganetespib (STA-9090),4,False,False,False,False,1,True,1
+OpenProblems,HMN-214,4,False,False,False,False,1,True,1
+OpenProblems,HYDROXYUREA,4,False,False,False,True,1,True,1
+OpenProblems,I-BET151,4,False,False,False,False,1,True,1
+OpenProblems,IKK Inhibitor VII,4,False,False,False,False,1,True,1
+OpenProblems,IMD-0354,4,False,False,False,False,1,True,1
+OpenProblems,IN1451,4,False,False,False,False,1,True,1
+OpenProblems,Idelalisib,4,False,False,False,False,1,True,1
+OpenProblems,Imatinib,4,False,False,False,False,1,True,1
+OpenProblems,Isoniazid,4,False,False,False,False,1,True,1
+OpenProblems,Ixabepilone,4,False,False,False,False,1,True,1
+OpenProblems,K-02288,4,False,False,False,False,1,True,1
+OpenProblems,Ketoconazole,4,False,False,False,False,1,True,1
+OpenProblems,LDN 193189,4,False,False,False,False,1,True,1
+OpenProblems,LY2090314,4,False,False,False,False,1,True,1
+OpenProblems,Lamivudine,4,False,False,False,False,1,True,1
+OpenProblems,Lapatinib,4,False,False,False,False,1,True,1
+OpenProblems,Linagliptin,4,False,False,False,False,1,True,1
+OpenProblems,MGCD-265,4,False,False,False,False,1,True,1
+OpenProblems,MK-5108,4,False,False,False,False,1,True,1
+OpenProblems,Masitinib,4,False,False,False,False,1,True,1
+OpenProblems,Methotrexate,4,False,False,False,False,1,True,1
+OpenProblems,Midostaurin,4,False,False,False,False,1,True,1
+OpenProblems,Mometasone Furoate,4,False,False,False,False,1,True,1
+OpenProblems,Mubritinib (TAK 165),4,False,False,False,False,1,True,1
+OpenProblems,Navitoclax,4,False,False,False,False,1,True,1
+OpenProblems,Nefazodone,4,False,False,False,False,1,True,1
+OpenProblems,Nilotinib,4,False,False,False,False,1,True,1
+OpenProblems,O-Demethylated Adapalene,4,False,False,False,False,1,True,1
+OpenProblems,OSI-930,4,False,False,False,False,1,True,1
+OpenProblems,Oxybenzone,4,False,False,False,False,1,True,1
+OpenProblems,PD-0325901,4,False,False,False,False,1,True,1
+OpenProblems,PF-03814735,4,False,False,False,False,1,True,1
+OpenProblems,PF-04691502,3,False,False,False,False,1,True,1
+OpenProblems,PRT-062607,4,False,False,False,False,1,True,1
+OpenProblems,Palbociclib,4,False,False,False,False,1,True,1
+OpenProblems,Penfluridol,4,False,False,False,False,1,True,1
+OpenProblems,Perhexiline,4,False,False,False,False,1,True,1
+OpenProblems,Phenylbutazone,4,False,False,False,False,1,True,1
+OpenProblems,Pitavastatin Calcium,4,False,False,False,False,1,True,1
+OpenProblems,Pomalidomide,4,False,False,False,False,1,True,1
+OpenProblems,Porcn Inhibitor III,4,False,False,False,False,1,True,1
+OpenProblems,Prednisolone,4,False,False,False,False,1,True,1
+OpenProblems,Proscillaridin A;Proscillaridin-A,3,False,False,False,False,1,True,1
+OpenProblems,Protriptyline,4,False,False,False,False,1,True,1
+OpenProblems,Quizartinib,4,False,False,False,False,1,True,1
+OpenProblems,R428,3,False,False,False,False,1,True,1
+OpenProblems,RG7090,4,False,False,False,False,1,True,1
+OpenProblems,RG7112,4,False,False,False,False,1,True,1
+OpenProblems,RN-486,4,False,False,False,False,1,True,1
+OpenProblems,RVX-208,4,False,False,False,False,1,True,1
+OpenProblems,Raloxifene,4,False,False,False,False,1,True,1
+OpenProblems,Resminostat,4,False,False,False,False,1,True,1
+OpenProblems,Ricolinostat,4,False,False,False,False,1,True,1
+OpenProblems,Riociguat,4,False,False,False,False,1,True,1
+OpenProblems,Ruxolitinib,4,False,False,False,False,1,True,1
+OpenProblems,SB525334,4,False,False,False,False,1,True,1
+OpenProblems,SCH-58261,4,False,False,False,False,1,True,1
+OpenProblems,SLx-2119,4,False,False,False,False,1,True,1
+OpenProblems,STK219801,4,False,False,False,False,1,True,1
+OpenProblems,Saracatinib,4,False,False,False,False,1,True,1
+OpenProblems,Scriptaid,4,False,False,False,False,1,True,1
+OpenProblems,Selumetinib,4,False,False,False,False,1,True,1
+OpenProblems,Sgc-cbp30,4,False,False,False,False,1,True,1
+OpenProblems,Sunitinib,4,False,False,False,False,1,True,1
+OpenProblems,TGX 221,4,False,False,False,False,1,True,1
+OpenProblems,TIE2 Kinase Inhibitor,4,False,False,False,False,1,True,1
+OpenProblems,TL_HRAS26,4,False,False,False,False,1,True,1
+OpenProblems,TPCA-1,4,False,False,False,False,1,True,1
+OpenProblems,TR-14035,4,False,False,False,False,1,True,1
+OpenProblems,Tacalcitol,4,False,False,False,False,1,True,1
+OpenProblems,Tamatinib,4,False,False,False,False,1,True,1
+OpenProblems,Tipifarnib,4,False,False,False,False,1,True,1
+OpenProblems,Tivantinib,4,False,False,False,False,1,True,1
+OpenProblems,Tivozanib,4,False,False,False,False,1,True,1
+OpenProblems,Topotecan,4,False,False,False,False,1,True,1
+OpenProblems,Tosedostat,4,False,False,False,False,1,True,1
+OpenProblems,Trametinib,4,False,False,False,False,1,True,1
+OpenProblems,Vandetanib,4,False,False,False,False,1,True,1
+OpenProblems,Vanoxerine,4,False,False,False,False,1,True,1
+OpenProblems,Vardenafil,4,False,False,False,False,1,True,1
+OpenProblems,Vorinostat,4,False,False,False,False,1,True,1
+OpenProblems,YK 4-279,4,False,False,False,False,1,True,1
+Sci-Plex 3,(+)-JQ1,12,False,False,False,False,1,False,0
+Sci-Plex 3,2-Methoxyestradiol (2-MeOE2),11,False,False,False,False,1,False,0
+Sci-Plex 3,A-366,12,False,False,False,False,1,False,0
+Sci-Plex 3,ABT-737,12,False,False,False,False,1,False,0
+Sci-Plex 3,AC480 (BMS-599626),12,False,False,False,False,1,False,0
+Sci-Plex 3,AG-14361,12,False,False,False,False,1,False,0
+Sci-Plex 3,AG-490 (Tyrphostin B42),12,False,False,False,False,1,False,0
+Sci-Plex 3,AICAR (Acadesine),12,False,False,False,False,1,False,0
+Sci-Plex 3,AMG-900,12,False,False,False,False,1,False,0
+Sci-Plex 3,AR-42,12,False,False,False,False,1,False,0
+Sci-Plex 3,AT9283,11,False,False,False,False,1,False,0
+Sci-Plex 3,AZ 960,12,False,False,False,False,1,False,0
+Sci-Plex 3,AZD1480,12,False,False,False,False,1,False,0
+Sci-Plex 3,Abexinostat (PCI-24781),11,False,False,False,False,1,False,0
+Sci-Plex 3,Alendronate sodium trihydrate,12,False,False,False,True,1,False,0
+Sci-Plex 3,Alisertib (MLN8237),11,False,False,False,False,1,False,0
+Sci-Plex 3,Altretamine,12,False,False,False,False,1,False,0
+Sci-Plex 3,Alvespimycin (17-DMAG) HCl,9,False,False,False,False,1,False,0
+Sci-Plex 3,Aminoglutethimide ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Amisulpride,12,False,False,False,False,1,False,0
+Sci-Plex 3,Anacardic Acid,12,False,False,False,False,1,False,0
+Sci-Plex 3,Andarine,12,False,False,False,False,1,False,0
+Sci-Plex 3,Aurora A Inhibitor I,12,False,False,False,False,1,False,0
+Sci-Plex 3,Avagacestat (BMS-708163),12,False,False,False,False,1,False,0
+Sci-Plex 3,Azacitidine ,12,False,False,False,False,1,False,0
+Sci-Plex 3,BMS-265246,12,False,False,False,False,1,False,0
+Sci-Plex 3,BMS-536924,12,False,False,False,False,1,False,0
+Sci-Plex 3,BMS-754807,12,False,False,False,False,1,False,0
+Sci-Plex 3,BMS-911543,12,False,False,False,False,1,False,0
+Sci-Plex 3,BRD4770,12,False,False,False,False,1,False,0
+Sci-Plex 3,Barasertib (AZD1152-HQPA),12,False,False,False,False,1,False,0
+Sci-Plex 3,"Baricitinib (LY3009104, INCB028050)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Belinostat (PXD101),11,False,False,False,False,1,False,0
+Sci-Plex 3,Bisindolylmaleimide IX (Ro 31-8220 Mesylate),9,False,False,False,False,1,False,0
+Sci-Plex 3,Bosutinib (SKI-606),11,False,False,False,False,1,False,0
+Sci-Plex 3,Busulfan ,12,False,False,False,True,1,False,0
+Sci-Plex 3,CEP-33779,12,False,False,False,False,1,False,0
+Sci-Plex 3,CUDC-101,11,False,False,False,False,1,False,0
+Sci-Plex 3,CUDC-907,10,False,False,False,False,1,False,0
+Sci-Plex 3,CYC116,12,False,False,False,False,1,False,0
+Sci-Plex 3,Capecitabine ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Carmofur,12,False,False,False,False,1,False,0
+Sci-Plex 3,Cediranib (AZD2171),12,False,False,False,False,1,False,0
+Sci-Plex 3,Celecoxib,12,False,False,False,False,1,False,0
+Sci-Plex 3,"Cerdulatinib (PRT062070, PRT2070)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Cimetidine ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Clevudine ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Costunolide,12,False,False,False,False,1,False,0
+Sci-Plex 3,Crizotinib (PF-02341066),12,False,False,False,False,1,False,0
+Sci-Plex 3,Curcumin,12,False,False,False,False,1,False,0
+Sci-Plex 3,Cyclocytidine HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,Dacinostat (LAQ824),11,False,False,False,False,1,False,0
+Sci-Plex 3,Danusertib (PHA-739358),12,False,False,False,False,1,False,0
+Sci-Plex 3,Daphnetin,12,False,False,False,False,1,False,0
+Sci-Plex 3,Dasatinib,12,False,False,False,False,1,False,0
+Sci-Plex 3,Decitabine,12,False,False,False,False,1,False,0
+Sci-Plex 3,Disulfiram ,12,False,False,False,True,1,False,0
+Sci-Plex 3,Divalproex Sodium,12,False,False,False,True,1,False,0
+Sci-Plex 3,Droxinostat,12,False,False,False,False,1,False,0
+Sci-Plex 3,EED226,12,False,False,False,False,1,False,0
+Sci-Plex 3,ENMD-2076,12,False,False,False,False,1,False,0
+Sci-Plex 3,ENMD-2076 L-(+)-Tartaric acid ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Ellagic acid,12,False,False,False,False,1,False,0
+Sci-Plex 3,Entacapone,12,False,False,False,False,1,False,0
+Sci-Plex 3,Entinostat (MS-275),12,False,False,False,False,1,False,0
+Sci-Plex 3,Enzastaurin (LY317615),12,False,False,False,False,1,False,0
+Sci-Plex 3,Epothilone A,7,False,False,False,False,1,False,0
+Sci-Plex 3,FLLL32,12,False,False,False,False,1,False,0
+Sci-Plex 3,Fasudil (HA-1077) HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,"Fedratinib (SAR302503, TG101348)",11,False,False,False,False,1,False,0
+Sci-Plex 3,Filgotinib (GLPG0634),12,False,False,False,False,1,False,0
+Sci-Plex 3,Flavopiridol HCl,8,False,False,False,False,1,False,0
+Sci-Plex 3,"Fluorouracil (5-Fluoracil, 5-FU)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Fulvestrant,12,False,False,False,False,1,False,0
+Sci-Plex 3,G007-LK,12,False,False,False,False,1,False,0
+Sci-Plex 3,GSK J1,12,False,False,False,False,1,False,0
+Sci-Plex 3,GSK-LSD1 2HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,GSK1070916,12,False,False,False,False,1,False,0
+Sci-Plex 3,Gandotinib (LY2784544),12,False,False,False,False,1,False,0
+Sci-Plex 3,Givinostat (ITF2357),12,False,False,False,False,1,False,0
+Sci-Plex 3,Glesatinib?(MGCD265),12,False,False,False,False,1,False,0
+Sci-Plex 3,Hesperadin,12,False,False,False,False,1,False,0
+Sci-Plex 3,INO-1001 (3-Aminobenzamide),12,False,False,False,False,1,False,0
+Sci-Plex 3,IOX2,12,False,False,False,False,1,False,0
+Sci-Plex 3,ITSA-1 (ITSA1),12,False,False,False,False,1,False,0
+Sci-Plex 3,Iniparib (BSI-201),12,False,False,False,False,1,False,0
+Sci-Plex 3,Ivosidenib (AG-120),12,False,False,False,False,1,False,0
+Sci-Plex 3,JNJ-26854165 (Serdemetan),12,False,False,False,False,1,False,0
+Sci-Plex 3,JNJ-7706621,12,False,False,False,False,1,False,0
+Sci-Plex 3,KW-2449,12,False,False,False,False,1,False,0
+Sci-Plex 3,Ki16425,12,False,False,False,False,1,False,0
+Sci-Plex 3,Ki8751,12,False,False,False,False,1,False,0
+Sci-Plex 3,Lapatinib (GW-572016) Ditosylate,12,False,False,False,False,1,False,0
+Sci-Plex 3,Lenalidomide (CC-5013),12,False,False,False,False,1,False,0
+Sci-Plex 3,Linifanib (ABT-869),12,False,False,False,False,1,False,0
+Sci-Plex 3,Lomustine ,12,False,False,False,False,1,False,0
+Sci-Plex 3,"Luminespib (AUY-922, NVP-AUY922)",11,False,False,False,False,1,False,0
+Sci-Plex 3,M344,11,False,False,False,False,1,False,0
+Sci-Plex 3,MC1568,12,False,False,False,False,1,False,0
+Sci-Plex 3,MK-0752,12,False,False,False,False,1,False,0
+Sci-Plex 3,MK-5108 (VX-689),11,False,False,False,False,1,False,0
+Sci-Plex 3,MLN8054,12,False,False,False,False,1,False,0
+Sci-Plex 3,Maraviroc,12,False,False,False,False,1,False,0
+Sci-Plex 3,Meprednisone,12,False,False,False,False,1,False,0
+Sci-Plex 3,Mercaptopurine (6-MP),12,False,False,False,False,1,False,0
+Sci-Plex 3,Mesna ,12,False,False,False,True,1,False,0
+Sci-Plex 3,Mocetinostat (MGCD0103),11,False,False,False,False,1,False,0
+Sci-Plex 3,Momelotinib (CYT387),12,False,False,False,False,1,False,0
+Sci-Plex 3,Motesanib Diphosphate (AMG-706),12,False,False,False,False,1,False,0
+Sci-Plex 3,NVP-BSK805 2HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,Navitoclax (ABT-263),11,False,False,False,False,1,False,0
+Sci-Plex 3,Nilotinib (AMN-107),12,False,False,False,False,1,False,0
+Sci-Plex 3,Nintedanib (BIBF 1120),11,False,False,False,False,1,False,0
+Sci-Plex 3,Obatoclax Mesylate (GX15-070),12,False,False,False,False,1,False,0
+Sci-Plex 3,Ofloxacin,12,False,False,False,False,1,False,0
+Sci-Plex 3,PCI-34051,12,False,False,False,False,1,False,0
+Sci-Plex 3,PD173074,12,False,False,False,False,1,False,0
+Sci-Plex 3,PD98059,12,False,False,False,False,1,False,0
+Sci-Plex 3,PF-3845,12,False,False,False,False,1,False,0
+Sci-Plex 3,PF-573228,12,False,False,False,False,1,False,0
+Sci-Plex 3,PFI-1 (PF-6405761),12,False,False,False,False,1,False,0
+Sci-Plex 3,PHA-680632,12,False,False,False,False,1,False,0
+Sci-Plex 3,PJ34,12,False,False,False,False,1,False,0
+Sci-Plex 3,Panobinostat (LBH589),10,False,False,False,False,1,False,0
+Sci-Plex 3,"Patupilone (EPO906, Epothilone B)",7,False,False,False,False,1,False,0
+Sci-Plex 3,Pelitinib (EKB-569),12,False,False,False,False,1,False,0
+Sci-Plex 3,Pirarubicin,12,False,False,False,False,1,False,0
+Sci-Plex 3,Pracinostat (SB939),11,False,False,False,False,1,False,0
+Sci-Plex 3,Prednisone ,12,False,False,False,False,1,False,0
+Sci-Plex 3,Quercetin,12,False,False,False,False,1,False,0
+Sci-Plex 3,Quisinostat (JNJ-26481585) 2HCl,11,False,False,False,False,1,False,0
+Sci-Plex 3,RG108,12,False,False,False,False,1,False,0
+Sci-Plex 3,Raltitrexed,12,False,False,False,False,1,False,0
+Sci-Plex 3,Ramelteon,12,False,False,False,False,1,False,0
+Sci-Plex 3,Regorafenib (BAY 73-4506),12,False,False,False,False,1,False,0
+Sci-Plex 3,Resminostat,12,False,False,False,False,1,False,0
+Sci-Plex 3,Resveratrol,12,False,False,False,False,1,False,0
+Sci-Plex 3,Rigosertib (ON-01910),8,False,False,False,False,1,False,0
+Sci-Plex 3,"Roscovitine (Seliciclib,CYC202)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Roxadustat (FG-4592),12,False,False,False,False,1,False,0
+Sci-Plex 3,"Rucaparib (AG-014699,PF-01367338) phosphate",12,False,False,False,False,1,False,0
+Sci-Plex 3,Ruxolitinib (INCB018424),12,False,False,False,False,1,False,0
+Sci-Plex 3,S-Ruxolitinib (INCB018424),12,False,False,False,False,1,False,0
+Sci-Plex 3,S3I-201,12,False,False,False,False,1,False,0
+Sci-Plex 3,SB431542,12,False,False,False,False,1,False,0
+Sci-Plex 3,SGI-1776 free base,11,False,False,False,False,1,False,0
+Sci-Plex 3,SL-327,12,False,False,False,False,1,False,0
+Sci-Plex 3,SNS-314,12,False,False,False,False,1,False,0
+Sci-Plex 3,SRT1720 HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,SRT2104 (GSK2245840),12,False,False,False,False,1,False,0
+Sci-Plex 3,SRT3025 HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,Selisistat (EX 527),12,False,False,False,False,1,False,0
+Sci-Plex 3,Sirtinol,12,False,False,False,False,1,False,0
+Sci-Plex 3,Sodium Phenylbutyrate,12,False,False,False,False,1,False,0
+Sci-Plex 3,Sorafenib Tosylate,12,False,False,False,False,1,False,0
+Sci-Plex 3,Streptozotocin (STZ),12,False,False,False,False,1,False,0
+Sci-Plex 3,TAK-901,12,False,False,False,False,1,False,0
+Sci-Plex 3,TG101209,12,False,False,False,False,1,False,0
+Sci-Plex 3,TGX-221,12,False,False,False,False,1,False,0
+Sci-Plex 3,TMP195,12,False,False,False,False,1,False,0
+Sci-Plex 3,Tacedinaline (CI994),12,False,False,False,False,1,False,0
+Sci-Plex 3,Tanespimycin (17-AAG),12,False,False,False,False,1,False,0
+Sci-Plex 3,Tazemetostat (EPZ-6438),12,False,False,False,False,1,False,0
+Sci-Plex 3,"Temsirolimus (CCI-779, NSC 683864)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Thalidomide,12,False,False,False,False,1,False,0
+Sci-Plex 3,Thiotepa,12,False,False,False,False,1,False,0
+Sci-Plex 3,Tie2 kinase inhibitor,12,False,False,False,False,1,False,0
+Sci-Plex 3,Tofacitinib (CP-690550) Citrate,12,False,False,False,False,1,False,0
+Sci-Plex 3,Toremifene Citrate,11,False,False,False,False,1,False,0
+Sci-Plex 3,"Tozasertib (VX-680, MK-0457)",12,False,False,False,False,1,False,0
+Sci-Plex 3,Trametinib (GSK1120212),12,False,False,False,False,1,False,0
+Sci-Plex 3,Tranylcypromine (2-PCPA) HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,Triamcinolone Acetonide,12,False,False,False,False,1,False,0
+Sci-Plex 3,Trichostatin A (TSA),11,False,False,False,False,1,False,0
+Sci-Plex 3,Tubastatin A HCl,12,False,False,False,False,1,False,0
+Sci-Plex 3,Tucidinostat (Chidamide),12,False,False,False,False,1,False,0
+Sci-Plex 3,UNC0379,12,False,False,False,False,1,False,0
+Sci-Plex 3,UNC0631,12,False,False,False,False,1,False,0
+Sci-Plex 3,UNC1999,12,False,False,False,False,1,False,0
+Sci-Plex 3,Valproic acid sodium salt (Sodium valproate),12,False,False,False,True,1,False,0
+Sci-Plex 3,Vandetanib (ZD6474),12,False,False,False,False,1,False,0
+Sci-Plex 3,Veliparib (ABT-888),12,False,False,False,False,1,False,0
+Sci-Plex 3,WHI-P154,12,False,False,False,False,1,False,0
+Sci-Plex 3,WP1066,12,False,False,False,False,1,False,0
+Sci-Plex 3,XAV-939,12,False,False,False,False,1,False,0
+Sci-Plex 3,YM155 (Sepantronium Bromide),4,False,False,False,False,1,False,0
+Sci-Plex 3,ZM 447439,12,False,False,False,False,1,False,0
+Sci-Plex 3,Zileuton,12,False,False,False,False,1,False,0

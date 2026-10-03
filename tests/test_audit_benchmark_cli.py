@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import subprocess
+import sys
 from pathlib import Path
 
 import pandas as pd
@@ -12,7 +13,7 @@ def test_audit_benchmark_cli_on_example(tmp_path: Path) -> None:
     records = root / "metadata/examples/splits/candidate_splits.csv"
     outdir = tmp_path / "audit"
     cmd = [
-        "python3",
+        sys.executable,
         "-m",
         "audit_benchmark",
         "--records",

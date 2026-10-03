@@ -1,0 +1,4 @@
+control,model,metric,n_seeds,mean,sd,median,iqr,mean_n_train,mean_n_test
+composition_train_test_size_matched_random,ridge_cell_drug_fp,rowwise_pearson,100,0.34245502118063587,0.06163516464792154,0.3448561104804585,0.0997638786732411,328.72,26.76
+test_size_matched_random,ridge_cell_drug_fp,rowwise_pearson,100,0.36473832036351916,0.031254426739395165,0.36042220974778433,0.04770499922521232,436.59,26.76
+train_test_size_matched_random,ridge_cell_drug_fp,rowwise_pearson,100,0.3364007017713703,0.03222135166964929,0.3330746444332041,0.04119547462767925,328.72,26.76

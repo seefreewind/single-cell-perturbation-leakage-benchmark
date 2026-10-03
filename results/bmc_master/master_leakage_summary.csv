@@ -1,0 +1,9 @@
+dataset,split,split_label,n_train,n_test,n_excluded,same_drug_overlap,same_scaffold_overlap,same_cell_overlap,moa_annotated_fraction,same_moa_overlap_among_annotated,missing_moa_fraction,mean_nearest_train_tanimoto,mean_max_train_tanimoto
+OpenProblems,split_cell_heldout,cell held-out,408.66,136.34,0.0,1.0,0.9853278228894992,0.0,1.0,1.0,0.0,1.0,
+OpenProblems,split_cell_scaffold_heldout,joint held-out,328.72,26.76,189.52,0.0,0.0,0.0,1.0,0.42681936125676756,0.0,0.2775779287969495,
+OpenProblems,split_random,random,436.59,108.41,0.0,0.988533841492808,0.974380890740099,1.0,1.0,0.9956590884260449,0.0,0.9970915590504397,
+OpenProblems,split_scaffold_heldout,scaffold held-out,438.3,106.7,0.0,0.0,0.0,1.0,1.0,0.42654327088455996,0.0,0.2776575642539178,
+Sci-Plex 3,split_cell_heldout,cell held-out,1468.8,731.2,0.0,0.9977746870653685,0.9649454163643949,0.0,,,,,0.9981997468393993
+Sci-Plex 3,split_cell_scaffold_heldout,joint held-out,1183.6666666666667,141.93333333333334,874.4,0.0,0.0,0.0,,,,,0.31266771213229577
+Sci-Plex 3,split_random,random,1762.5333333333333,437.46666666666664,0.0,1.0,0.9665600633420056,1.0,,,,,1.0
+Sci-Plex 3,split_scaffold_heldout,scaffold held-out,1772.9333333333334,427.06666666666666,0.0,0.0,0.0,1.0,,,,,0.31270282441370395
